@@ -1,7 +1,7 @@
 {
   "name": "just-in-case",
   "private": true,
-  "version": "1.1.0",
+  "version": "1.1.16",
   "description": "One survival how-to a day — home screen widget, daily notification, quiet reader.",
   "type": "module",
   "scripts": {

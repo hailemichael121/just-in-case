@@ -10,6 +10,8 @@ interface WidgetsProps {
   index: IndexEntry[] | null
   onBack: () => void
   onOpen: (slug: string) => void
+  /** Inside a sheet — no full-screen chrome; keeps the app visible behind. */
+  embedded?: boolean
 }
 
 type Size = 'small' | 'medium' | 'large'
@@ -53,7 +55,7 @@ const GUIDE: { image?: string; mock?: 'picker'; alt: string; title: string; body
   },
 ]
 
-export function Widgets({ index, onBack, onOpen }: WidgetsProps) {
+export function Widgets({ index, onBack, onOpen, embedded = false }: WidgetsProps) {
   const [hint, setHint] = useState<string | null>(null)
   const [adding, setAdding] = useState<Size | null>(null)
 
@@ -79,18 +81,20 @@ export function Widgets({ index, onBack, onOpen }: WidgetsProps) {
   }
 
   return (
-    <section className="screen screen--widgets">
-      <div className="detail__bar">
-        <button className="icon-btn" onClick={onBack} aria-label="Back">
-          <ArrowLeft size={19} />
-        </button>
-        <span className="eyebrow">
-          <LayoutGrid size={13} aria-hidden="true" />
-          Home screen
-        </span>
-      </div>
+    <section className={embedded ? 'widgets-sheet' : 'screen screen--widgets'}>
+      {!embedded && (
+        <div className="detail__bar">
+          <button className="icon-btn" onClick={onBack} aria-label="Back">
+            <ArrowLeft size={19} />
+          </button>
+          <span className="eyebrow">
+            <LayoutGrid size={13} aria-hidden="true" />
+            Home screen
+          </span>
+        </div>
+      )}
 
-      <h1 className="widgets__title">One how-to, always within reach.</h1>
+      <h1 className="widgets__title">{embedded ? 'Widgets' : 'One how-to, always within reach.'}</h1>
       <p className="widgets__lede">
         Three sizes, one glass. The widget picks a fresh how-to every day, so the home screen is
         never the same twice.

@@ -508,3 +508,39 @@ body { position: relative; }
 .config-chip.on { background: var(--fg); color: var(--bg); border-color: var(--fg); }
 .config-foot { margin-top: auto; display: flex; justify-content: flex-end; }
 .config-done { padding: 8px 16px; border-radius: 999px; background: var(--fg); color: var(--bg); font-size: 9px; font-weight: 700; }
+
+/* Light app chrome (matches default Light + Charcoal). */
+body.theme-light {
+  --bg: #f4f2eb;
+  --fg: #1b1d1b;
+  --muted: #5f625d;
+  --faint: #8a8d88;
+  --hair: rgba(0, 0, 0, 0.08);
+  --hair-strong: rgba(0, 0, 0, 0.14);
+  --glass: rgba(255, 255, 255, 0.78);
+  --glass-edge: rgba(75, 85, 99, 0.14);
+  --glass-strong: rgba(255, 255, 255, 0.92);
+}
+body.theme-light .app {
+  background:
+    radial-gradient(110% 60% at 10% 0%, rgba(156, 163, 175, 0.16), transparent 62%),
+    radial-gradient(90% 50% at 100% 10%, rgba(0, 0, 0, 0.03), transparent 55%),
+    var(--bg);
+}
+body.theme-light.config-screen {
+  --bg: #f4f2eb;
+  --fg: #1b1d1b;
+  --muted: #5f625d;
+  --faint: #8a8d88;
+  --hair: rgba(0, 0, 0, 0.08);
+  --hair-strong: rgba(0, 0, 0, 0.14);
+}
+body.theme-light .config-preview {
+  background: rgba(255, 255, 255, 0.55);
+  border-color: rgba(0, 0, 0, 0.08);
+}
+body.theme-light .config-chip.on {
+  background: #4b5563;
+  color: #ffffff;
+  border-color: #4b5563;
+}

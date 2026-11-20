@@ -4,6 +4,7 @@ import android.app.PendingIntent
 import android.appwidget.AppWidgetManager
 import android.content.ComponentName
 import android.content.Intent
+import android.content.res.Configuration
 import android.os.Build
 import android.os.Bundle
 import android.util.TypedValue
@@ -42,6 +43,7 @@ class WidgetConfigActivity : AppCompatActivity() {
     private var textSize = "medium"
     private var topic = "all"
     private var size = "medium"
+    private var configLight = false
 
     private val isNewWidget: Boolean
         get() = appWidgetId == AppWidgetManager.INVALID_APPWIDGET_ID
@@ -49,9 +51,31 @@ class WidgetConfigActivity : AppCompatActivity() {
     private fun dp(value: Int): Int = (value * resources.displayMetrics.density).toInt()
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        configLight = shouldUseLightConfig()
+        setTheme(if (configLight) R.style.ConfigThemeLight else R.style.ConfigTheme)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_widget_config)
+        applyConfigChrome()
         bind()
+    }
+
+    private fun shouldUseLightConfig(): Boolean = when (Prefs.theme(this)) {
+        "light" -> true
+        "auto" -> {
+            (resources.configuration.uiMode and Configuration.UI_MODE_NIGHT_MASK) !=
+                Configuration.UI_MODE_NIGHT_YES
+        }
+        else -> false
+    }
+
+    private fun applyConfigChrome() {
+        if (!configLight) return
+        val title = ContextCompat.getColor(this, R.color.config_text_light)
+        val muted = ContextCompat.getColor(this, R.color.config_muted_light)
+        findViewById<TextView>(R.id.config_title)?.setTextColor(title)
+        findViewById<TextView>(R.id.config_lede)?.setTextColor(muted)
+        findViewById<FrameLayout>(R.id.preview_container)
+            ?.setBackgroundResource(R.drawable.config_preview_bg_light)
     }
 
     /** The launcher may reuse a visible instance for a different widget. */
@@ -106,6 +130,11 @@ class WidgetConfigActivity : AppCompatActivity() {
         renderAll()
     }
 
+    /** Return to home screen when back pressed. */
+    override fun onBackPressed() {
+      finish()
+    }
+
     /** Which provider owns this id? Used only for the preview of a placed widget. */
     private fun detectSize(): String {
         val manager = AppWidgetManager.getInstance(this) ?: return "medium"
@@ -118,8 +147,13 @@ class WidgetConfigActivity : AppCompatActivity() {
         val button = RadioButton(this@WidgetConfigActivity).apply {
             setText(label)
             setButtonDrawable(null)
-            setBackgroundResource(R.drawable.chip_bg)
-            setTextColor(ContextCompat.getColorStateList(context, R.color.chip_text))
+            setBackgroundResource(if (configLight) R.drawable.chip_bg_light else R.drawable.chip_bg)
+            setTextColor(
+                ContextCompat.getColorStateList(
+                    context,
+                    if (configLight) R.color.chip_text_light else R.color.chip_text,
+                ),
+            )
             textSize = if (fill) 12.5f else 13.5f
             gravity = Gravity.CENTER
             setPadding(dp(if (fill) 4 else 14), dp(9), dp(if (fill) 4 else 14), dp(9))

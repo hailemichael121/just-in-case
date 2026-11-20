@@ -158,55 +158,55 @@
   --glass-shadow: 0 18px 44px rgba(24, 34, 45, 0.12);
 }
 
-/* Charcoal theme - from TermOS */
+/* Charcoal theme — near-black graphite, neutral grey accents only */
 [data-theme='charcoal'] {
   color-scheme: dark;
-  --bg-base: #08090a;
-  --bg-a: #08090a;
-  --bg-b: #0d0f10;
-  --blob-1: rgba(56, 217, 139, 0.15);
-  --blob-2: rgba(255, 255, 255, 0.035);
-  --blob-3: rgba(56, 217, 139, 0.05);
+  --bg-base: #050506;
+  --bg-a: #050506;
+  --bg-b: #0a0b0c;
+  --blob-1: rgba(107, 114, 128, 0.12);
+  --blob-2: rgba(255, 255, 255, 0.03);
+  --blob-3: rgba(107, 114, 128, 0.06);
 
-  --text: #f2f3f3;
-  --text-muted: rgba(242, 243, 243, 0.6);
-  --text-faint: rgba(242, 243, 243, 0.4);
-  --hairline: rgba(255, 255, 255, 0.09);
+  --text: #ececee;
+  --text-muted: rgba(236, 236, 238, 0.58);
+  --text-faint: rgba(236, 236, 238, 0.38);
+  --hairline: rgba(255, 255, 255, 0.08);
 
-  --glass-fill-a: rgba(18, 21, 22, 0.9);
-  --glass-fill-b: rgba(13, 15, 16, 0.88);
-  --glass-sheen: rgba(255, 255, 255, 0.05);
-  --glass-stroke: rgba(255, 255, 255, 0.09);
-  --glass-shadow: 0 20px 46px rgba(0, 0, 0, 0.5);
-  --glass-opaque: #121516;
+  --glass-fill-a: rgba(14, 15, 16, 0.92);
+  --glass-fill-b: rgba(9, 10, 11, 0.9);
+  --glass-sheen: rgba(255, 255, 255, 0.04);
+  --glass-stroke: rgba(255, 255, 255, 0.08);
+  --glass-shadow: 0 20px 46px rgba(0, 0, 0, 0.55);
+  --glass-opaque: #0e0f10;
 
-  --accent: #38d98b;
-  --accent-ink: #08090a;
-  --accent-soft: rgba(56, 217, 139, 0.15);
-  --accent-gradient: linear-gradient(135deg, #6ff0b4 0%, #38d98b 100%);
+  --accent: #9ca3af;
+  --accent-ink: #050506;
+  --accent-soft: rgba(156, 163, 175, 0.14);
+  --accent-gradient: linear-gradient(135deg, #d1d5db 0%, #6b7280 100%);
 
-  --nav-fill: rgba(13, 15, 16, 0.98);
+  --nav-fill: rgba(10, 11, 12, 0.98);
   --art-filter: none;
 }
 
 :root[data-palette='charcoal'] {
-  --accent: #38d98b;
-  --accent-ink: #06231b;
-  --accent-soft: rgba(56, 217, 139, 0.15);
-  --accent-gradient: linear-gradient(135deg, #6ff0b4 0%, #38d98b 100%);
-  --blob-1: rgba(56, 217, 139, 0.18);
-  --blob-2: rgba(255, 255, 255, 0.04);
-  --blob-3: rgba(56, 217, 139, 0.08);
+  --accent: #9ca3af;
+  --accent-ink: #050506;
+  --accent-soft: rgba(156, 163, 175, 0.14);
+  --accent-gradient: linear-gradient(135deg, #d1d5db 0%, #6b7280 100%);
+  --blob-1: rgba(107, 114, 128, 0.16);
+  --blob-2: rgba(255, 255, 255, 0.035);
+  --blob-3: rgba(107, 114, 128, 0.08);
 }
 
 [data-theme='light'][data-palette='charcoal'] {
-  --accent: #0e9f6e;
+  --accent: #4b5563;
   --accent-ink: #ffffff;
-  --accent-soft: rgba(14, 159, 110, 0.12);
-  --accent-gradient: linear-gradient(135deg, #38d98b 0%, #0e9f6e 100%);
-  --blob-1: rgba(56, 217, 139, 0.2);
-  --blob-2: rgba(0, 0, 0, 0.04);
-  --blob-3: rgba(56, 217, 139, 0.1);
+  --accent-soft: rgba(75, 85, 99, 0.12);
+  --accent-gradient: linear-gradient(135deg, #9ca3af 0%, #4b5563 100%);
+  --blob-1: rgba(107, 114, 128, 0.18);
+  --blob-2: rgba(0, 0, 0, 0.035);
+  --blob-3: rgba(75, 85, 99, 0.1);
 }
 
 /* Dracula theme - from TermOS */

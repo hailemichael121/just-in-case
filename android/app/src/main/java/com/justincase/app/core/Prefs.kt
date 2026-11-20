@@ -68,7 +68,7 @@ object Prefs {
     }
 
     fun theme(context: Context): String =
-        sp(context).getString(KEY_THEME, "auto") ?: "auto"
+        sp(context).getString(KEY_THEME, "light") ?: "light"
 
     fun saveTheme(context: Context, value: String) {
         sp(context).edit().putString(KEY_THEME, value).apply()

@@ -27,6 +27,17 @@
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
 
+    <!-- First-visit onboarding guide -->
+    <div id="first-visit-guide" class="first-visit-guide" role="dialog" aria-modal="true" aria-labelledby="guide-title" style="display: none;">
+      <div class="guide-content">
+        <h2 id="guide-title" class="guide-title">How to use the home card</h2>
+        <p class="guide-description">Tap the card to view today's how-to.</p>
+        <button class="guide-close" aria-label="Close guide">Got it</button>
+        <svg class="guide-arrow" viewBox="0 0 24 24" width="48" height="48" focusable="false" role="presentation"><path d="M9 16.1L4.83 12l-1.42-1.42L10 5.69l1.41 1.41L5.84 10l1.41 1.41z" fill="currentColor" /></svg>
+        <p class="guide-subtle">Tilt the card slightly to reveal controls • Swipe up to dismiss</p>
+      </div>
+    </div>
+
     <header class="site-header">
       <div class="wrap">
         <nav class="nav" aria-label="Main">
@@ -171,7 +182,7 @@
               <ul class="rule-list">
                 <li>
                   <span class="label">Content</span>
-                  <span class="value">Text · Image + Text · Image only</span>
+                  <span class="value">Text · Text + image · Image + text · Image</span>
                 </li>
                 <li>
                   <span class="label">Glass</span>
@@ -197,7 +208,6 @@
               loading="lazy"
               alt="Small, medium and large Just in Case widgets on a black home screen, each showing a different entry."
             />
-            <figcaption>Three sizes: small, medium and large.</figcaption>
           </div>
 
           <div class="figure-grid">
@@ -205,12 +215,11 @@
               <div class="figure" data-reveal>
                 <img
                   src="assets/widget-content.webp"
-                  width="1352"
+                  width="1840"
                   height="364"
                   loading="lazy"
-                  alt="One widget entry shown as text, image and text, and image only."
+                  alt="Widget content modes: text, text with image, image with text, and image only."
                 />
-                <figcaption>Content: text, image and text, image only.</figcaption>
               </div>
               <div class="figure" data-reveal>
                 <img
@@ -220,18 +229,16 @@
                   loading="lazy"
                   alt="The medium widget in Clear, Frosted and Smoked glass, shown on a black wallpaper and a light warm-grey wallpaper."
                 />
-                <figcaption>The three glass styles on dark and light wallpaper.</figcaption>
               </div>
-            </div>
-            <div class="figure" data-reveal>
-              <img
-                src="assets/widget-options.webp"
-                width="800"
-                height="1440"
-                loading="lazy"
-                alt="The widget configuration screen with a live preview above options for content, glass, text size and topic."
-              />
-              <figcaption>The widget’s own settings screen.</figcaption>
+              <div class="figure" data-reveal>
+                <img
+                  src="assets/widget-options.webp"
+                  width="800"
+                  height="1440"
+                  loading="lazy"
+                  alt="The widget configuration screen with a live preview above options for content, glass, text size and topic."
+                />
+              </div>
             </div>
           </div>
         </div>
@@ -396,7 +403,7 @@
         <div class="footer-meta">
           <span>Offline-first</span>
           <span>No account</span>
-          <span>Version 1.1.0</span>
+          <span>Version 1.1.16</span>
           <span>© <span data-year>2026</span> Just in Case</span>
         </div>
         <p class="footer-legal">

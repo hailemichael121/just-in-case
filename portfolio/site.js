@@ -84,7 +84,32 @@
         field.remove();
       }
     });
-  });
+
+    // First-visit onboarding guide
+    (function () {
+      var firstVisitKey = 'just-in-case-first-visit';
+      var guide = document.getElementById('first-visit-guide');
+      var hasSeen = localStorage.getItem(firstVisitKey);
+      if (hasSeen) {
+        guide.style.display = 'none';
+        return;
+      }
+      guide.style.display = 'flex';
+
+      var closeBtn = guide.querySelector('.guide-close');
+      closeBtn.addEventListener('click', function () {
+        guide.style.display = 'none';
+        localStorage.setItem(firstVisitKey, '1');
+      });
+
+      // Close if user clicks anywhere outside the content
+      guide.addEventListener('click', function (e) {
+        if (e.target === guide) {
+          guide.style.display = 'none';
+          localStorage.setItem(firstVisitKey, '1');
+        }
+      });
+    })();
 
   // The footer year is real, not hard-coded.
   document.querySelectorAll('[data-year]').forEach(function (node) {

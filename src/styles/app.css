@@ -1405,6 +1405,23 @@ button {
 }
 
 /* ---------- widgets ---------- */
+.widgets-sheet {
+  max-height: min(72vh, 640px);
+  overflow: auto;
+  overscroll-behavior: contain;
+  padding: 0 2px 8px;
+  margin-top: 4px;
+}
+
+.widgets-sheet .widgets__title {
+  font-size: 1.35rem;
+  margin: 0 0 6px;
+}
+
+.widgets-sheet .widget-list {
+  margin-top: 16px;
+}
+
 .screen--widgets {
   padding-top: calc(var(--safe-top) + 14px);
 }

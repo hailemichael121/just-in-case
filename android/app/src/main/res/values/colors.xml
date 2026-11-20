@@ -17,4 +17,13 @@
     <color name="config_chip">#232428</color>
     <color name="config_chip_on">#1E3A33</color>
     <color name="config_chip_stroke">#34353B</color>
+
+    <color name="app_background_light">#F4F2EB</color>
+    <color name="config_text_light">#1B1D1B</color>
+    <color name="config_muted_light">#5F625D</color>
+    <color name="config_chip_light">#E8E4DC</color>
+    <color name="config_chip_on_light">#4B5563</color>
+    <color name="config_chip_stroke_light">#D4CFC5</color>
+    <color name="accent_charcoal">#4B5563</color>
+    <color name="accent_charcoal_ink">#FFFFFF</color>
 </resources>

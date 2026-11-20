@@ -6,24 +6,46 @@
 <link rel="stylesheet" href="../tokens.css">
 <style>
   body { width: 390px; height: 844px; }
-  .app { padding: 20px 22px 22px; }
-  .app-card { padding: 20px; }
-  .app-title { font-size: 36px; }
-  .app-art { padding: 14px; }
-  .app-actions .btn-solid, .app-actions .btn-line { min-height: 42px; }
+  body.theme-light .btn-solid { background: #4b5563; color: #fff; }
+  body.theme-light .app-dock__item--on { color: #4b5563; background: rgba(75, 85, 99, 0.12); }
+  .app { padding: 14px 20px 0; position: relative; }
+  .app-card { margin-top: 14px; padding: 18px 18px 16px; flex: 1; min-height: 0; }
+  .app-title { font-size: 34px; margin-top: 0; }
+  .app-art { min-height: 150px; margin-top: 12px; }
+  .app-actions .btn-solid, .app-actions .btn-line { min-height: 44px; }
+  .app-dock {
+    position: absolute;
+    left: 50%;
+    bottom: 22px;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 4px;
+    padding: 6px;
+    border-radius: 999px;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    background: rgba(252, 252, 250, 0.98);
+    box-shadow: 0 10px 28px rgba(24, 34, 45, 0.12);
+  }
+  .app-dock__item {
+    width: 56px;
+    height: 48px;
+    border-radius: 999px;
+    display: grid;
+    place-items: center;
+    color: #8a8d88;
+  }
 </style>
 </head>
-<body>
+<body class="theme-light">
   <div class="app">
     <div class="app-head">
-      <span class="app-kicker"><img src="../../assets/mark-white.svg" alt="">The Best Defense</span>
+      <span class="app-kicker"><img src="../../assets/mark.svg" alt="">The Best Defense</span>
       <span class="round" aria-hidden="true">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
       </span>
     </div>
 
     <article class="app-card">
-      <span class="app-chapter"><span class="widget-dot"></span>The Best Defense</span>
       <h1 class="app-title">How to Fend Off a Shark</h1>
       <p class="app-desc">Hit back at the eyes or gills. Do not play dead — a shark reads stillness as prey.</p>
       <div class="app-art"><img src="../art/shark.svg" alt=""></div>
@@ -33,7 +55,17 @@
       </div>
     </article>
 
-    <p class="app-note">Swipe the card for another how-to. The widget keeps the day’s one.</p>
+    <nav class="app-dock" aria-label="Main">
+      <span class="app-dock__item app-dock__item--on" aria-current="page">
+        <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+      </span>
+      <span class="app-dock__item">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/></svg>
+      </span>
+      <span class="app-dock__item">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      </span>
+    </nav>
   </div>
 </body>
 </html>

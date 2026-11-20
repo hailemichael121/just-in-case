@@ -27,7 +27,7 @@ const THEMES: { value: Theme; label: string }[] = [
 const PALETTES: { value: Palette; label: string; hint: string }[] = [
   { value: 'mint', label: 'Mint', hint: 'The original sea-glass green.' },
   { value: 'liquid', label: 'Liquid', hint: 'Clearer glass, same green light.' },
-  { value: 'charcoal', label: 'Charcoal', hint: 'Deep graphite with emerald accent.' },
+  { value: 'charcoal', label: 'Charcoal', hint: 'Cool graphite greys, no green.' },
   { value: 'dracula', label: 'Dracula', hint: 'Rich purple on dark charcoal.' },
 ]
 

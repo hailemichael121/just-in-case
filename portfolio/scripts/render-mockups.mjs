@@ -15,7 +15,7 @@ const chrome = process.env.CHROME_BIN || 'google-chrome';
 const jobs = [
   { scene: 'hero-scene.html', out: 'hero-scene.webp', width: 390, height: 844, scale: 2 },
   { scene: 'widgets-sizes.html', out: 'widgets-sizes.webp', width: 648, height: 272, scale: 2 },
-  { scene: 'widget-content.html', out: 'widget-content.webp', width: 676, height: 182, scale: 2 },
+  { scene: 'widget-content.html', out: 'widget-content.webp', width: 920, height: 182, scale: 2 },
   { scene: 'widget-glass.html', out: 'widget-glass.webp', width: 706, height: 268, scale: 2 },
   { scene: 'widget-options.html', out: 'widget-options.webp', width: 400, height: 720, scale: 2 },
   { scene: 'notification.html', out: 'notification.webp', width: 600, height: 400, scale: 2 },

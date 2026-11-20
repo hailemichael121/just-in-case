@@ -43,8 +43,8 @@ const DEFAULT_SETTINGS: NativeSettings = {
   notifyTime: '08:00',
   notifyEvening: false,
   notifyEveningTime: '21:00',
-  theme: 'auto',
-  palette: 'mint',
+  theme: 'light',
+  palette: 'charcoal',
 }
 
 const KEYS = {
@@ -53,6 +53,7 @@ const KEYS = {
   onboarded: 'onboarded',
   favorites: 'favorites',
   scroll: 'libraryScroll',
+  homeSwipeHintSeen: 'homeSwipeHintSeen',
 }
 
 async function readSeed(): Promise<number> {
@@ -244,5 +245,11 @@ export const local = {
   },
   async setScroll(value: number): Promise<void> {
     await Preferences.set({ key: KEYS.scroll, value: String(Math.round(value)) })
+  },
+  async getHomeSwipeHintSeen(): Promise<boolean> {
+    return (await Preferences.get({ key: KEYS.homeSwipeHintSeen })).value === 'true'
+  },
+  async setHomeSwipeHintSeen(): Promise<void> {
+    await Preferences.set({ key: KEYS.homeSwipeHintSeen, value: 'true' })
   },
 }

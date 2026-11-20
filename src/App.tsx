@@ -1,13 +1,14 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { BookOpen, LayoutGrid, Settings2 } from 'lucide-react'
 import { SplashScreen } from '@capacitor/splash-screen'
+import { App as CapApp } from '@capacitor/app'
 import { Detail } from './screens/Detail'
 import { Library } from './screens/Library'
 import { Today } from './screens/Today'
 import { Qa } from './screens/Qa'
-import { Widgets } from './screens/Widgets'
 import { OnboardingSheet } from './sheets/OnboardingSheet'
 import { SettingsSheet } from './sheets/SettingsSheet'
+import { WidgetsSheet } from './sheets/WidgetsSheet'
 import { loadIndex, preloadEntry } from './lib/content'
 import { applyTheme } from './lib/theme'
 import { tap } from './lib/haptics'
@@ -29,8 +30,8 @@ const DEFAULT_SETTINGS: NativeSettings = {
   notifyTime: '08:00',
   notifyEvening: false,
   notifyEveningTime: '21:00',
-  theme: 'auto',
-  palette: 'mint',
+  theme: 'light',
+  palette: 'charcoal',
 }
 
 export default function App() {
@@ -41,6 +42,7 @@ export default function App() {
   const [prefs, setPrefs] = useState<NativeSettings>(DEFAULT_SETTINGS)
   const [onboarding, setOnboarding] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
+  const [widgetsOpen, setWidgetsOpen] = useState(false)
   const [fatal, setFatal] = useState(false)
   const [ready, setReady] = useState(false)
   const mountedAt = useRef(performance.now())
@@ -80,6 +82,26 @@ export default function App() {
 
   // theme
   useEffect(() => applyTheme(prefs.theme, prefs.palette), [prefs.theme, prefs.palette])
+
+  // Deep link #/widgets opens the sheet over Today, not a separate screen.
+  useEffect(() => {
+    if (route.name !== 'widgets') return
+    setWidgetsOpen(true)
+    navigate({ name: 'today' })
+  }, [route.name])
+
+  // Android hardware back closes sheets instead of leaving the app
+  useEffect(() => {
+    if (!isNative || (!settingsOpen && !widgetsOpen)) return
+    let dispose: (() => void) | undefined
+    void CapApp.addListener('backButton', () => {
+      if (settingsOpen) setSettingsOpen(false)
+      else if (widgetsOpen) setWidgetsOpen(false)
+    }).then((h) => {
+      dispose = () => void h.remove()
+    })
+    return () => dispose?.()
+  }, [settingsOpen, widgetsOpen])
 
   // deep links, cold and warm
   useEffect(() => {
@@ -176,14 +198,6 @@ export default function App() {
           />
         )}
 
-        {!fatal && route.name === 'widgets' && (
-          <Widgets
-            index={index}
-            onBack={() => navigate({ name: 'today' })}
-            onOpen={(slug) => navigate({ name: 'detail', slug })}
-          />
-        )}
-
         {!fatal && route.name === 'library' && (
           <Library index={index} favorites={favorites} onOpen={(slug) => navigate({ name: 'detail', slug })} />
         )}
@@ -197,12 +211,14 @@ export default function App() {
             onAnother={anotherOne}
             pool={index ?? []}
             currentIndex={todayEntry ? index?.findIndex((e) => e.id === todayEntry.id) ?? 0 : 0}
+            swipeHintReady={!onboarding}
+            homeActive={route.name === 'today'}
           />
         )}
 
         <nav className="nav glass" aria-label="Main">
           <button
-            className={`nav__item ${route.name === 'today' ? 'nav__item--on' : ''}`}
+            className={`nav__item ${route.name === 'today' && !widgetsOpen ? 'nav__item--on' : ''}`}
             onClick={() => {
               tap()
               navigate({ name: 'today' })
@@ -213,10 +229,10 @@ export default function App() {
             <BookOpen size={21} />
           </button>
           <button
-            className={`nav__item ${route.name === 'widgets' ? 'nav__item--on' : ''}`}
+            className={`nav__item ${widgetsOpen ? 'nav__item--on' : ''}`}
             onClick={() => {
               tap()
-              navigate({ name: 'widgets' })
+              setWidgetsOpen(true)
             }}
             aria-label="Widgets"
             aria-current={route.name === 'widgets' ? 'page' : undefined}
@@ -245,7 +261,17 @@ export default function App() {
         onClose={() => setSettingsOpen(false)}
         onOpenWidgets={() => {
           setSettingsOpen(false)
-          navigate({ name: 'widgets' })
+          setWidgetsOpen(true)
+        }}
+      />
+
+      <WidgetsSheet
+        open={widgetsOpen}
+        index={index}
+        onClose={() => setWidgetsOpen(false)}
+        onOpen={(slug) => {
+          setWidgetsOpen(false)
+          navigate({ name: 'detail', slug })
         }}
       />
 

@@ -192,6 +192,8 @@ function renderBlocks(blocks: Block[]): ReactNode[] {
   }
 
   blocks.forEach((block, index) => {
+    // Skip the first paragraph block (intro like "Always keep your sword...") to avoid duplication
+    if (index === 0 && block.type === 'paragraph') return
     if (block.type === 'bullet') {
       if (block.text.trim()) bullets.push(block.text)
       return
