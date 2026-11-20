@@ -1,0 +1,95 @@
+{
+  "id": 1,
+  "slug": "01-how-to-escape-from-quicksand",
+  "title": "How to Escape from Quicksand",
+  "chapter": "Great Escapes and Entrances",
+  "pdf_pages": [
+    20,
+    21
+  ],
+  "short_description": "After a minute or two, equilibrium in the quicksand will be achieved, and you will no longer sink.",
+  "notification": {
+    "title": "How to Escape from Quicksand",
+    "body": "When walking in quicksand country, carry a stout pole—it will help you get out should you need to."
+  },
+  "step_count": 4,
+  "image_count": 2,
+  "thumbnail": "images/01-how-to-escape-from-quicksand/01.png",
+  "content": [
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "When walking in quicksand country, carry a stout pole—it will help you get out should you need to.",
+      "text": "When walking in quicksand country, carry a stout pole—it will help you get out should you need to.",
+      "page": 20
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "As soon as you start to sink, lay the pole on the surface of the quicksand.",
+      "text": "As soon as you start to sink, lay the pole on the surface of the quicksand.",
+      "page": 20
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Flop onto your back on top of the pole.",
+      "text": "Flop onto your back on top of the pole.",
+      "page": 20
+    },
+    {
+      "type": "paragraph",
+      "text": "After a minute or two, equilibrium in the quicksand will be achieved, and you will no longer sink.",
+      "page": 20
+    },
+    {
+      "type": "paragraph",
+      "text": "Work the pole to a new position: under your hips and at right angles to your spine. The pole will keep your hips from sinking, as you (slowly) pull out first one leg and then the other.",
+      "page": 20
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "Take the shortest route to firmer ground, moving slowly.",
+      "text": "Take the shortest route to firmer ground, moving slowly.",
+      "page": 20
+    },
+    {
+      "type": "heading",
+      "text": "How to Avoid Sinking",
+      "page": 20
+    },
+    {
+      "type": "paragraph",
+      "text": "Quicksand is just ordinary sand mixed with upwelling water, which makes it behave like a liquid. However, quicksand—unlike water—does not easily let go. If you try to pull a limb out of quicksand, you have to work against the vacuum left behind. Here are a few tips:",
+      "page": 20
+    },
+    {
+      "type": "bullet",
+      "text": "The viscosity of quicksand increases with shearing—move slowly so the viscosity is as low as possible.",
+      "page": 21
+    },
+    {
+      "type": "bullet",
+      "text": "Floating on quicksand is relatively easy and is the best way to avoid its clutches. You are more buoyant in quicksand than you are in water. Humans are less dense than freshwater, and saltwater is slightly more dense. Floating is easier in saltwater than freshwater and much easier in quicksand. Spread your arms and legs far apart and try to float on your back.",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "file": "images/01-how-to-escape-from-quicksand/01.png",
+      "page": 21,
+      "caption": "When in an area with quicksand, bring a stout pole and use it to put your back into a floating position.",
+      "width_px": 625,
+      "height_px": 206
+    },
+    {
+      "type": "image",
+      "file": "images/01-how-to-escape-from-quicksand/02.png",
+      "page": 21,
+      "caption": "Place the pole at a right angle from your spine to keep your hips afloat.",
+      "width_px": 630,
+      "height_px": 268
+    }
+  ],
+  "full_text": "When walking in quicksand country, carry a stout pole—it will help you get out should you need to.\nAs soon as you start to sink, lay the pole on the surface of the quicksand.\nFlop onto your back on top of the pole.\nAfter a minute or two, equilibrium in the quicksand will be achieved, and you will no longer sink.\nWork the pole to a new position: under your hips and at right angles to your spine. The pole will keep your hips from sinking, as you (slowly) pull out first one leg and then the other.\nTake the shortest route to firmer ground, moving slowly.\nHow to Avoid Sinking\nQuicksand is just ordinary sand mixed with upwelling water, which makes it behave like a liquid. However, quicksand—unlike water—does not easily let go. If you try to pull a limb out of quicksand, you have to work against the vacuum left behind. Here are a few tips:\nThe viscosity of quicksand increases with shearing—move slowly so the viscosity is as low as possible.\nFloating on quicksand is relatively easy and is the best way to avoid its clutches. You are more buoyant in quicksand than you are in water. Humans are less dense than freshwater, and saltwater is slightly more dense. Floating is easier in saltwater than freshwater and much easier in quicksand. Spread your arms and legs far apart and try to float on your back."
+}

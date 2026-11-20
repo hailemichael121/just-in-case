@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>notification</title>
+<link rel="stylesheet" href="../tokens.css">
+<style>
+  body { width: 600px; height: 400px; }
+  .notif-stage { padding: 28px 34px; display: flex; flex-direction: column; gap: 22px; }
+  .notif { border-radius: 24px; }
+  .notif-title { font-size: 15px; }
+  .notif-body { font-size: 12.5px; }
+  .notif-head { font-size: 11px; }
+  .notif + .notif { background: rgba(24,24,26,.92); }
+  .expand-hint { align-self: center; font-size: 8px; letter-spacing: .14em; text-transform: uppercase; color: var(--faint); }
+</style>
+</head>
+<body>
+  <div class="notif-stage">
+    <article class="notif">
+      <div class="notif-head">
+        <span class="notif-icon"><img src="../../assets/mark-white.svg" alt=""></span>
+        <span class="notif-app">Just in Case</span>
+        <span class="notif-time">08:00</span>
+      </div>
+      <p class="notif-title">How to Escape from Quicksand</p>
+      <p class="notif-body">When walking in quicksand country, carry a stout pole. It will help you get out should you need to…</p>
+    </article>
+
+    <span class="expand-hint">Expanded</span>
+
+    <article class="notif">
+      <div class="notif-head">
+        <span class="notif-icon"><img src="../../assets/mark-white.svg" alt=""></span>
+        <span class="notif-app">Just in Case</span>
+        <span class="notif-time">08:00</span>
+      </div>
+      <p class="notif-title">How to Escape from Quicksand</p>
+      <p class="notif-body">When walking in quicksand country, carry a stout pole. It will help you get out should you need to.</p>
+      <p class="notif-body" style="margin-top: 6px; color: var(--fg)">First step: drop the pole across the surface and lean back.</p>
+    </article>
+  </div>
+</body>
+</html>

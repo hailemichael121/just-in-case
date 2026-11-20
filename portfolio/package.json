@@ -1,0 +1,10 @@
+{
+  "name": "just-in-case-portfolio",
+  "private": true,
+  "version": "1.1.0",
+  "description": "Static portfolio for the Just in Case widget app",
+  "scripts": {
+    "mockups": "node scripts/render-mockups.mjs",
+    "deploy": "node scripts/publish-netlify.mjs"
+  }
+}

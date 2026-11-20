@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The single splash: ink plate + the app's droplet mark. Used as the window
+     background below API 31 and as the static fallback behind the system splash. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="@color/app_background" />
+    </item>
+    <item
+        android:drawable="@drawable/ic_splash_drop"
+        android:gravity="center"
+        android:width="150dp"
+        android:height="150dp" />
+</layer-list>

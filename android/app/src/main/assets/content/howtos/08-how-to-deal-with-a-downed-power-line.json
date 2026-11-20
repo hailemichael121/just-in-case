@@ -1,0 +1,91 @@
+{
+  "id": 8,
+  "slug": "08-how-to-deal-with-a-downed-power-line",
+  "title": "How to Deal with a Downed Power Line",
+  "chapter": "Great Escapes and Entrances",
+  "pdf_pages": [
+    41,
+    42
+  ],
+  "short_description": "High-voltage power lines, which carry power from plants and transformers to customers, can come crashing down during severe storms. If you…",
+  "notification": {
+    "title": "How to Deal with a Downed Power Line",
+    "body": "Assume that all power lines, whether sparking or not, are live."
+  },
+  "step_count": 6,
+  "image_count": 1,
+  "thumbnail": "images/08-how-to-deal-with-a-downed-power-line/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "High-voltage power lines, which carry power from plants and transformers to customers, can come crashing down during severe storms. If you are in a car when a pole or line falls, you are much safer remaining inside a grounded vehicle than being on foot. If the wire falls on the car, do not touch anything—wait for help.",
+      "page": 41
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Assume that all power lines, whether sparking or not, are live.",
+      "text": "Assume that all power lines, whether sparking or not, are live.",
+      "page": 41
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Stay far away from downed lines.",
+      "text": "Stay far away from downed lines.",
+      "page": 41
+    },
+    {
+      "type": "paragraph",
+      "text": "Current can travel through any conductive material, and water on the ground can provide a \"channel\" from the power line to you. An electrical shock can also occur when one comes in contact with the charged particles near a high-voltage line; direct contact is not necessary for electrocution to occur. Never touch a vehicle that has come in contact with a live wire—it may still retain a charge.",
+      "page": 41
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Do not assume that a nonsparking wire is safe.",
+      "text": "Do not assume that a nonsparking wire is safe. Often, power may be restored by automated equipment, causing a \"dead\" wire to become dangerous. Stay away from downed lines even if you know they are not electric lines—the line could have come in contact with an electric line when it fell, causing the downed line to be \"hot.\"",
+      "page": 41
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "If a person comes into contact with a live wire, use a nonconductive material to separate the person from the electrical source.",
+      "text": "If a person comes into contact with a live wire, use a nonconductive material to separate the person from the electrical source. Use a wooden broom handle, a wooden chair, or a dry towel or sheet. Rubber or insulated gloves offer no protection.",
+      "page": 42
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "Avoid direct contact with the skin of the victim or any conducting material touching it until he or she is disconnected; you may be shocked also.",
+      "text": "Avoid direct contact with the skin of the victim or any conducting material touching it until he or she is disconnected; you may be shocked also.",
+      "page": 42
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "Check the pulse and begin rescue breathing and CPR if necessary.",
+      "text": "Check the pulse and begin rescue breathing and CPR if necessary.",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "file": "images/08-how-to-deal-with-a-downed-power-line/01.png",
+      "page": 42,
+      "caption": "Never touch a vehicle that has come into contact with a live wire. Even when the wire is removed, it may retain a charge.",
+      "width_px": 641,
+      "height_px": 481
+    },
+    {
+      "type": "caption",
+      "text": "Do not assume that a nonsparking wire is safe.",
+      "page": 42
+    },
+    {
+      "type": "caption",
+      "text": "Current can travel through any conductive material such as water.",
+      "page": 42
+    }
+  ],
+  "full_text": "High-voltage power lines, which carry power from plants and transformers to customers, can come crashing down during severe storms. If you are in a car when a pole or line falls, you are much safer remaining inside a grounded vehicle than being on foot. If the wire falls on the car, do not touch anything—wait for help.\nAssume that all power lines, whether sparking or not, are live.\nStay far away from downed lines.\nCurrent can travel through any conductive material, and water on the ground can provide a \"channel\" from the power line to you. An electrical shock can also occur when one comes in contact with the charged particles near a high-voltage line; direct contact is not necessary for electrocution to occur. Never touch a vehicle that has come in contact with a live wire—it may still retain a charge.\nDo not assume that a nonsparking wire is safe. Often, power may be restored by automated equipment, causing a \"dead\" wire to become dangerous. Stay away from downed lines even if you know they are not electric lines—the line could have come in contact with an electric line when it fell, causing the downed line to be \"hot.\"\nIf a person comes into contact with a live wire, use a nonconductive material to separate the person from the electrical source. Use a wooden broom handle, a wooden chair, or a dry towel or sheet. Rubber or insulated gloves offer no protection.\nAvoid direct contact with the skin of the victim or any conducting material touching it until he or she is disconnected; you may be shocked also.\nCheck the pulse and begin rescue breathing and CPR if necessary.\nDo not assume that a nonsparking wire is safe.\nCurrent can travel through any conductive material such as water."
+}

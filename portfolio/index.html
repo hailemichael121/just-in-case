@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Just in Case — one how-to a day</title>
+    <meta
+      name="description"
+      content="One survival how-to a day on your Android home screen: a widget, a quiet notification and a reader that work offline."
+    />
+    <meta name="theme-color" content="#F4F2EB" />
+    <link rel="canonical" href="/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Just in Case — one how-to a day" />
+    <meta
+      property="og:description"
+      content="One survival how-to a day on your Android home screen. Offline, no account, free."
+    />
+    <meta property="og:url" content="https://justincase-widget.netlify.app/" />
+    <meta property="og:image" content="https://justincase-widget.netlify.app/assets/og-just-in-case.jpg" />
+    <link rel="icon" href="assets/favicon-32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="site.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="wrap">
+        <nav class="nav" aria-label="Main">
+          <a class="brand" href="index.html">
+            <img src="assets/mark.svg" alt="" width="26" height="26" />
+            <span>Just in Case</span>
+          </a>
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="site-menu"
+            aria-label="Menu"
+          >
+            Menu
+          </button>
+          <div class="nav-links" id="site-menu">
+            <a href="#day">A day with it</a>
+            <a href="#widget">The widget</a>
+            <a href="#howtos">The how-tos</a>
+            <a href="about.html">The story</a>
+          </div>
+          <a class="nav-get" href="downloads.html">Download</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <!-- Hero: copy on paper, product on black. -->
+      <section class="hero">
+        <div class="wrap hero-grid">
+          <div class="hero-copy" data-reveal>
+            <span class="eyebrow">Android · Offline · Free</span>
+            <h1><span>One how-to a day,</span><em>just in case.</em></h1>
+            <p class="lead">
+              One illustrated technique on your home screen each morning, from a
+              library of forty.
+            </p>
+            <div class="hero-actions">
+              <a class="btn" href="downloads.html">Download for Android</a>
+              <a class="text-link" href="#day">How it works</a>
+            </div>
+            <div class="facts" aria-label="At a glance">
+              <span>Works offline</span>
+              <span>No account</span>
+              <span>40 how-tos</span>
+            </div>
+          </div>
+
+          <div class="hero-visual-wrap" data-reveal style="--delay: 120ms">
+            <div class="hero-visual">
+              <img
+                src="assets/hero-scene.webp"
+                width="1200"
+                height="1500"
+                alt="A dark Android home screen with a Just in Case notification, a medium widget about escaping quicksand and a small widget about breaking down a door."
+              />
+            </div>
+            <p class="hero-caption">Sample entries shown.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- A day with it: a plain timeline, product images in a second column. -->
+      <section class="section" id="day">
+        <div class="wrap">
+          <div class="section-head" data-reveal>
+            <div>
+              <span class="eyebrow">A day with it</span>
+              <h2>One card, <em>then carry on.</em></h2>
+            </div>
+            <p>One how-to, in the widget, the notification and the Today screen.</p>
+          </div>
+
+          <div class="day-grid">
+            <ol class="timeline" data-reveal>
+              <li>
+                <span class="when">Morning</span>
+                <div>
+                  <h3>The notification arrives</h3>
+                  <p>A quiet notification with the title and the first step.</p>
+                </div>
+              </li>
+              <li>
+                <span class="when">Home screen</span>
+                <div>
+                  <h3>The widget shows it</h3>
+                  <p>Small, medium or large, the same entry waits there.</p>
+                </div>
+              </li>
+              <li>
+                <span class="when">A free minute</span>
+                <div>
+                  <h3>When you’re curious</h3>
+                  <p>Tap it for the steps, in order, with the drawing.</p>
+                </div>
+              </li>
+              <li>
+                <span class="when">Tomorrow</span>
+                <div>
+                  <h3>A new one</h3>
+                  <p>The next one replaces it. None repeats until forty are done.</p>
+                </div>
+              </li>
+            </ol>
+
+            <div class="day-media" data-reveal style="--delay: 120ms">
+              <figure>
+                <img
+                  src="assets/notification.webp"
+                  width="1200"
+                  height="800"
+                  loading="lazy"
+                  alt="A Just in Case notification, collapsed and expanded, showing a title and the first step."
+                />
+                <figcaption>Sample entries shown.</figcaption>
+              </figure>
+              <figure>
+                <img
+                  src="assets/reader.webp"
+                  width="780"
+                  height="1688"
+                  loading="lazy"
+                  alt="A how-to open in the reader with a large title, numbered steps and a line illustration."
+                />
+                <figcaption>The reader keeps the steps in order.</figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- The widget: four real options and quiet figures. -->
+      <section class="section" id="widget">
+        <div class="wrap">
+          <div class="chapter" data-reveal>
+            <div class="chapter__number">1</div>
+            <div class="chapter__body">
+              <span class="eyebrow">The widget</span>
+              <h2>A card you can size.</h2>
+              <p class="lead">One how-to at a time. Long text ends in an ellipsis; a tap opens it.</p>
+              <ul class="rule-list">
+                <li>
+                  <span class="label">Content</span>
+                  <span class="value">Text · Image + Text · Image only</span>
+                </li>
+                <li>
+                  <span class="label">Glass</span>
+                  <span class="value">Clear · Frosted · Smoked</span>
+                </li>
+                <li>
+                  <span class="label">Text size</span>
+                  <span class="value">Small · Medium · Large</span>
+                </li>
+                <li>
+                  <span class="label">Topic</span>
+                  <span class="value">All, or one chapter</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="figure" data-reveal>
+            <img
+              src="assets/widgets-sizes.webp"
+              width="1296"
+              height="544"
+              loading="lazy"
+              alt="Small, medium and large Just in Case widgets on a black home screen, each showing a different entry."
+            />
+            <figcaption>Three sizes: small, medium and large.</figcaption>
+          </div>
+
+          <div class="figure-grid">
+            <div class="figure-stack">
+              <div class="figure" data-reveal>
+                <img
+                  src="assets/widget-content.webp"
+                  width="1352"
+                  height="364"
+                  loading="lazy"
+                  alt="One widget entry shown as text, image and text, and image only."
+                />
+                <figcaption>Content: text, image and text, image only.</figcaption>
+              </div>
+              <div class="figure" data-reveal>
+                <img
+                  src="assets/widget-glass.webp"
+                  width="1412"
+                  height="536"
+                  loading="lazy"
+                  alt="The medium widget in Clear, Frosted and Smoked glass, shown on a black wallpaper and a light warm-grey wallpaper."
+                />
+                <figcaption>The three glass styles on dark and light wallpaper.</figcaption>
+              </div>
+            </div>
+            <div class="figure" data-reveal>
+              <img
+                src="assets/widget-options.webp"
+                width="800"
+                height="1440"
+                loading="lazy"
+                alt="The widget configuration screen with a live preview above options for content, glass, text size and topic."
+              />
+              <figcaption>The widget’s own settings screen.</figcaption>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- The how-tos: real titles, chapter as a small kicker. -->
+      <section class="section" id="howtos">
+        <div class="wrap">
+          <div class="section-head" data-reveal>
+            <div>
+              <span class="eyebrow">The how-tos</span>
+              <h2>Forty, <em>in five chapters.</em></h2>
+            </div>
+            <p>Forty entries, each illustrated, none longer than a coffee queue.</p>
+          </div>
+
+          <div class="titles-grid">
+            <div data-reveal>
+              <ol class="title-list">
+                <li>
+                  <span class="index">01</span>
+                  <div>
+                    <h3>How to Escape from Quicksand</h3>
+                    <p>Great Escapes and Entrances</p>
+                  </div>
+                </li>
+                <li>
+                  <span class="index">02</span>
+                  <div>
+                    <h3>How to Break Down a Door</h3>
+                    <p>Great Escapes and Entrances</p>
+                  </div>
+                </li>
+                <li>
+                  <span class="index">03</span>
+                  <div>
+                    <h3>How to Deal with a Downed Power Line</h3>
+                    <p>Great Escapes and Entrances</p>
+                  </div>
+                </li>
+                <li>
+                  <span class="index">04</span>
+                  <div>
+                    <h3>How to Fend Off a Shark</h3>
+                    <p>The Best Defense</p>
+                  </div>
+                </li>
+                <li>
+                  <span class="index">05</span>
+                  <div>
+                    <h3>How to Survive an Earthquake</h3>
+                    <p>Adventure Survival</p>
+                  </div>
+                </li>
+                <li>
+                  <span class="index">06</span>
+                  <div>
+                    <h3>How to Land a Plane</h3>
+                    <p>Adventure Survival</p>
+                  </div>
+                </li>
+              </ol>
+              <p class="titles-foot">
+                <a class="text-link" href="about.html">How the day works</a>
+              </p>
+            </div>
+
+            <figure class="figure" data-reveal style="--delay: 100ms">
+              <img
+                src="assets/library.webp"
+                width="780"
+                height="1688"
+                loading="lazy"
+                alt="The Just in Case library screen with a search field, chapter headings and rows of how-tos."
+              />
+              <figcaption>Sample entries shown.</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Privacy: four facts, no reassurance language. -->
+      <section class="section" id="private">
+        <div class="wrap privacy">
+          <div data-reveal>
+            <span class="eyebrow">Private by design</span>
+            <h2>Nothing to sign in to.</h2>
+            <p class="lead">The library ships inside the app. Settings and favourites stay on the phone.</p>
+          </div>
+          <ul class="privacy-list" data-reveal style="--delay: 100ms">
+            <li><span class="label">Account</span><span class="value">None</span></li>
+            <li><span class="label">Network</span><span class="value">Works fully offline</span></li>
+            <li><span class="label">Tracking</span><span class="value">None</span></li>
+            <li>
+              <span class="label">Data</span>
+              <span class="value">Settings and favourites stay on your phone</span>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- Get it: a ruled download row, then the safety note. -->
+      <section class="section" id="get">
+        <div class="wrap">
+          <div class="section-head" data-reveal>
+            <div>
+              <span class="eyebrow">Get it</span>
+              <h2>Free on Android.</h2>
+            </div>
+            <p>One APK, installed directly. A personal project, not a store release.</p>
+          </div>
+
+          <ul class="dl-list" data-reveal>
+            <li class="dl-option">
+              <div>
+                <span class="dl-kicker">Android · direct APK</span>
+                <h2>Just in Case</h2>
+                <p class="dl-meta">Version 1.1.0 · Android 8.0+ · 22.2 MB</p>
+              </div>
+              <div class="dl-actions">
+                <a class="dl-link" href="downloads/Just-in-Case-1.1.0.apk" download>Download APK</a>
+              </div>
+            </li>
+          </ul>
+
+          <div class="safety-box" data-reveal>
+            <b>A note on the material.</b> Techniques from a 1999 book: for
+            curiosity, not a substitute for training or professional help.
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div class="footer-grid">
+          <div>
+            <div class="footer-brand">
+              <img src="assets/mark.svg" alt="" width="28" height="28" />
+              <span>Just in Case</span>
+            </div>
+            <p class="footer-tagline">
+              One survival how-to a day, on the home screen, in an app that
+              works without a signal.
+            </p>
+          </div>
+          <div class="footer-col">
+            <h2>The site</h2>
+            <a href="index.html#day">A day with it</a>
+            <a href="index.html#widget">The widget</a>
+            <a href="index.html#howtos">The how-tos</a>
+            <a href="about.html">The story</a>
+          </div>
+          <div class="footer-col">
+            <h2>The app</h2>
+            <a href="downloads.html">Downloads</a>
+            <a href="https://github.com/hailemichael121/just-in-case/releases">Releases</a>
+            <a href="https://github.com/hailemichael121/just-in-case">GitHub</a>
+            <a href="index.html#private">Privacy</a>
+          </div>
+        </div>
+        <div class="footer-meta">
+          <span>Offline-first</span>
+          <span>No account</span>
+          <span>Version 1.1.0</span>
+          <span>© <span data-year>2026</span> Just in Case</span>
+        </div>
+        <p class="footer-legal">
+          Based on <em>The Worst-Case Scenario Survival Handbook</em> (1999) by
+          Joshua Piven and David Borgenicht. A personal project, not affiliated
+          with the authors or publisher.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

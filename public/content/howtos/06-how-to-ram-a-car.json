@@ -1,0 +1,107 @@
+{
+  "id": 6,
+  "slug": "06-how-to-ram-a-car",
+  "title": "How to Ram a Car",
+  "chapter": "Great Escapes and Entrances",
+  "pdf_pages": [
+    36,
+    37
+  ],
+  "short_description": "Ramming a car to move it out of your way is not easy or safe, but there are some methods that work better than others and some that will…",
+  "notification": {
+    "title": "How to Ram a Car",
+    "body": "Disable your air bag, if you can."
+  },
+  "step_count": 6,
+  "image_count": 3,
+  "thumbnail": "images/06-how-to-ram-a-car/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Ramming a car to move it out of your way is not easy or safe, but there are some methods that work better than others and some that will minimize the damage to your vehicle. Keep in mind that the best way to hit a car blocking your path is to clip the very rear of it, about one foot from the rear bumper. The rear is the lightest part of a car, and it will move relatively easily. Hitting it in the rear can also disable the car—with the rear wheel crushed, you have time to get away without being pursued.",
+      "page": 36
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Disable your air bag, if you can.",
+      "text": "Disable your air bag, if you can.",
+      "page": 36
+    },
+    {
+      "type": "paragraph",
+      "text": "It will deploy on impact and will obstruct your view after it deploys.",
+      "page": 36
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Wear a seat belt.",
+      "text": "Wear a seat belt.",
+      "page": 36
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Accelerate to at least twenty-five miles per hour.",
+      "text": "Accelerate to at least twenty-five miles per hour.",
+      "page": 36
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not go too fast—keeping the car at a slow speed will allow you to maintain control without slowing down. Then, just before impact, increase your speed to greater than thirty miles per hour to deliver a disabling crunch to the rear wheel of the obstacle car.",
+      "page": 36
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "Ram the front passenger side of your car into the obstacle car at its rear wheel, at a ninety-degree angle (the cars should be perpendicular).",
+      "text": "Ram the front passenger side of your car into the obstacle car at its rear wheel, at a ninety-degree angle (the cars should be perpendicular).",
+      "page": 36
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "If you are unable to hit a car in the rear, go for the front corner.",
+      "text": "If you are unable to hit a car in the rear, go for the front corner.",
+      "page": 37
+    },
+    {
+      "type": "paragraph",
+      "text": "Avoid hitting the car squarely in the side; this will not move it out of your way.",
+      "page": 37
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "The car should spin out of your way—hit the gas, and keep moving.",
+      "text": "The car should spin out of your way—hit the gas, and keep moving.",
+      "page": 37
+    },
+    {
+      "type": "image",
+      "file": "images/06-how-to-ram-a-car/01.png",
+      "page": 37,
+      "caption": null,
+      "width_px": 410,
+      "height_px": 329
+    },
+    {
+      "type": "image",
+      "file": "images/06-how-to-ram-a-car/02.png",
+      "page": 37,
+      "caption": "Ram the obstacle car with the passenger side of your car, and deliver a disabling crunch to its rear wheel.",
+      "width_px": 235,
+      "height_px": 262
+    },
+    {
+      "type": "image",
+      "file": "images/06-how-to-ram-a-car/03.png",
+      "page": 37,
+      "caption": "If you are unable to hit the car in the rear, go for the right corner.",
+      "width_px": 258,
+      "height_px": 138
+    }
+  ],
+  "full_text": "Ramming a car to move it out of your way is not easy or safe, but there are some methods that work better than others and some that will minimize the damage to your vehicle. Keep in mind that the best way to hit a car blocking your path is to clip the very rear of it, about one foot from the rear bumper. The rear is the lightest part of a car, and it will move relatively easily. Hitting it in the rear can also disable the car—with the rear wheel crushed, you have time to get away without being pursued.\nDisable your air bag, if you can.\nIt will deploy on impact and will obstruct your view after it deploys.\nWear a seat belt.\nAccelerate to at least twenty-five miles per hour.\nDo not go too fast—keeping the car at a slow speed will allow you to maintain control without slowing down. Then, just before impact, increase your speed to greater than thirty miles per hour to deliver a disabling crunch to the rear wheel of the obstacle car.\nRam the front passenger side of your car into the obstacle car at its rear wheel, at a ninety-degree angle (the cars should be perpendicular).\nIf you are unable to hit a car in the rear, go for the front corner.\nAvoid hitting the car squarely in the side; this will not move it out of your way.\nThe car should spin out of your way—hit the gas, and keep moving."
+}

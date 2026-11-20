@@ -1,0 +1,205 @@
+{
+  "id": 28,
+  "slug": "28-how-to-treat-a-leg-fracture",
+  "title": "How to Treat a Leg Fracture",
+  "chapter": "Emergencies",
+  "pdf_pages": [
+    108,
+    110
+  ],
+  "short_description": "Most leg injuries are only sprains, but the treatment for both sprains and fractures is the same.",
+  "notification": {
+    "title": "How to Treat a Leg Fracture",
+    "body": "If skin is broken, do not touch or put anything on the wound."
+  },
+  "step_count": 6,
+  "image_count": 4,
+  "thumbnail": "images/28-how-to-treat-a-leg-fracture/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Most leg injuries are only sprains, but the treatment for both sprains and fractures is the same.",
+      "page": 108
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "If skin is broken, do not touch or put anything on the wound.",
+      "text": "If skin is broken, do not touch or put anything on the wound. You must avoid infection. If the wound is bleeding severely, try to stop the flow of blood by applying steady pressure to the affected area with sterile bandages or clean clothes.",
+      "page": 108
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Do not move the injured leg—you need to splint the wound to stabilize the injured area.",
+      "text": "Do not move the injured leg—you need to splint the wound to stabilize the injured area.",
+      "page": 108
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Find two stiff objects of the same length—wood, plastic, or folded cardboard—for the splints.",
+      "text": "Find two stiff objects of the same length—wood, plastic, or folded cardboard—for the splints.",
+      "page": 108
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "Put the splints above and below the injured area— under the leg (or on the side if moving the leg is too painful).",
+      "text": "Put the splints above and below the injured area— under the leg (or on the side if moving the leg is too painful).",
+      "page": 108
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "Tie the splints with string, rope, or belts—whatever is available.",
+      "text": "Tie the splints with string, rope, or belts—whatever is available. Alternatively, use clothing torn into strips. Make sure the splint extends beyond the injured area.",
+      "page": 108
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "Do not tie the splints too tightly; this may cut off circulation.",
+      "text": "Do not tie the splints too tightly; this may cut off circulation.",
+      "page": 108
+    },
+    {
+      "type": "image",
+      "file": "images/28-how-to-treat-a-leg-fracture/01.png",
+      "page": 109,
+      "caption": null,
+      "width_px": 463,
+      "height_px": 118
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not move the injured leg.",
+      "page": 109
+    },
+    {
+      "type": "image",
+      "file": "images/28-how-to-treat-a-leg-fracture/02.png",
+      "page": 109,
+      "caption": null,
+      "width_px": 301,
+      "height_px": 178
+    },
+    {
+      "type": "paragraph",
+      "text": "Find two stiff objects of the same length— wood, plastic, or folded cardboard.",
+      "page": 109
+    },
+    {
+      "type": "image",
+      "file": "images/28-how-to-treat-a-leg-fracture/03.png",
+      "page": 109,
+      "caption": null,
+      "width_px": 468,
+      "height_px": 125
+    },
+    {
+      "type": "paragraph",
+      "text": "Place the splints above and below the injured area.",
+      "page": 109
+    },
+    {
+      "type": "image",
+      "file": "images/28-how-to-treat-a-leg-fracture/04.png",
+      "page": 109,
+      "caption": null,
+      "width_px": 465,
+      "height_px": 126
+    },
+    {
+      "type": "paragraph",
+      "text": "Tie the splints with string, rope, or belts— whatever is available.",
+      "page": 109
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not tie the splints too tightly—you should be able to slip one finger under the rope, belt, or fabric.",
+      "page": 109
+    },
+    {
+      "type": "paragraph",
+      "text": "You should be able to slip a finger under the rope or fabric. If the splinted area becomes pale or white, loosen the ties.",
+      "page": 110
+    },
+    {
+      "type": "paragraph",
+      "text": "Have the injured person lie flat on their back. This helps blood continue to circulate and may prevent shock.",
+      "page": 110
+    },
+    {
+      "type": "heading",
+      "text": "Symptoms of a Fracture, Sprain, or Dislocation",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Difficult or limited movement",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Swelling",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Bruising of the affected area",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Severe pain",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Numbness",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Severe bleeding",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "A visible break of bone through the skin",
+      "page": 110
+    },
+    {
+      "type": "heading",
+      "text": "What to Avoid",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Do not push at, probe, or attempt to clean an injury; this can cause infection.",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Do not move the injured person unless absolutely necessary. Treat the fracture and then go get help.",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "If the person must be moved, be sure the injury is completely immobilized first.",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Do not elevate a leg injury.",
+      "page": 110
+    },
+    {
+      "type": "bullet",
+      "text": "Do not attempt to move or reset a broken bone; this will cause severe pain and may complicate the injury.",
+      "page": 110
+    }
+  ],
+  "full_text": "Most leg injuries are only sprains, but the treatment for both sprains and fractures is the same.\nIf skin is broken, do not touch or put anything on the wound. You must avoid infection. If the wound is bleeding severely, try to stop the flow of blood by applying steady pressure to the affected area with sterile bandages or clean clothes.\nDo not move the injured leg—you need to splint the wound to stabilize the injured area.\nFind two stiff objects of the same length—wood, plastic, or folded cardboard—for the splints.\nPut the splints above and below the injured area— under the leg (or on the side if moving the leg is too painful).\nTie the splints with string, rope, or belts—whatever is available. Alternatively, use clothing torn into strips. Make sure the splint extends beyond the injured area.\nDo not tie the splints too tightly; this may cut off circulation.\nDo not move the injured leg.\nFind two stiff objects of the same length— wood, plastic, or folded cardboard.\nPlace the splints above and below the injured area.\nTie the splints with string, rope, or belts— whatever is available.\nDo not tie the splints too tightly—you should be able to slip one finger under the rope, belt, or fabric.\nYou should be able to slip a finger under the rope or fabric. If the splinted area becomes pale or white, loosen the ties.\nHave the injured person lie flat on their back. This helps blood continue to circulate and may prevent shock.\nSymptoms of a Fracture, Sprain, or Dislocation\nDifficult or limited movement\nSwelling\nBruising of the affected area\nSevere pain\nNumbness\nSevere bleeding\nA visible break of bone through the skin\nWhat to Avoid\nDo not push at, probe, or attempt to clean an injury; this can cause infection.\nDo not move the injured person unless absolutely necessary. Treat the fracture and then go get help.\nIf the person must be moved, be sure the injury is completely immobilized first.\nDo not elevate a leg injury.\nDo not attempt to move or reset a broken bone; this will cause severe pain and may complicate the injury."
+}

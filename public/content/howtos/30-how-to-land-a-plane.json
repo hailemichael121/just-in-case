@@ -1,0 +1,205 @@
+{
+  "id": 30,
+  "slug": "30-how-to-land-a-plane",
+  "title": "How to Land a Plane",
+  "chapter": "Adventure Survival",
+  "pdf_pages": [
+    116,
+    121
+  ],
+  "short_description": "These instructions cover small passenger planes and jets (not commercial airliners).",
+  "notification": {
+    "title": "How to Land a Plane",
+    "body": "If the plane has only one set of controls, push, pull, carry, or drag the pilot out of the pilot's seat."
+  },
+  "step_count": 13,
+  "image_count": 1,
+  "thumbnail": "images/30-how-to-land-a-plane/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "These instructions cover small passenger planes and jets (not commercial airliners).",
+      "page": 116
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "If the plane has only one set of controls, push, pull, carry, or drag the pilot out of the pilot's seat.",
+      "text": "If the plane has only one set of controls, push, pull, carry, or drag the pilot out of the pilot's seat.",
+      "page": 116
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Take your place at the controls.",
+      "text": "Take your place at the controls.",
+      "page": 116
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Put on the radio headset (if there is one).",
+      "text": "Put on the radio headset (if there is one). Use the radio to call for help—there will be a control button on the yoke (the plane's steering wheel) or a CB-like microphone on the instrument panel. Depress the button to talk, release it to listen. Say \"Mayday! Mayday!\" and give your situation, destination, and plane call numbers, which should be printed on the top of the instrument panel.",
+      "page": 116
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "If you get no response, try again on the emergency channel—tune the radio to 121.5.",
+      "text": "If you get no response, try again on the emergency channel—tune the radio to 121.5. All radios are different, but tuning is standard. The person on the other end should be able to talk you through the proper landing procedures. Follow their instructions carefully. If you cannot reach someone to talk you through the landing process, you will have to do it alone.",
+      "page": 116
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "Get your bearings and identify the instruments.",
+      "text": "Get your bearings and identify the instruments. Look around you. Is the plane level? Unless you have just taken off or are about to land, it should be flying relatively straight.",
+      "page": 117
+    },
+    {
+      "type": "paragraph",
+      "text": "YOKE. This is the steering wheel and should be in front of you. It turns the plane and controls its pitch. Pull back on the column to bring the nose up, push forward to point it down. Turn left to turn the plane left, turn right to turn it right. The yoke is very sensitive—move it only an inch or two in either direction to turn the plane in flight. While cruising, the nose of the plane should be about three inches below the horizon.",
+      "page": 117
+    },
+    {
+      "type": "paragraph",
+      "text": "ALTIMETER. This is the most important instrument, at least initially. It is a red dial in the middle of the instrument panel that indicates altitude: the small hand indicates feet above sea level in thousand-foot increments, the large hand in hundreds.",
+      "page": 117
+    },
+    {
+      "type": "paragraph",
+      "text": "HEADING. This is a compass and will be the only instrument with a small image of a plane in the center. The nose will point in the direction the plane is headed.",
+      "page": 117
+    },
+    {
+      "type": "paragraph",
+      "text": "AIRSPEED. This dial is on the top of the instrument panel and will be on the left. It is usually calibrated in knots, though it may also have miles per hour. A small plane travels at about 120 knots while cruising. Anything under 70 knots in the air is dangerously close to stall speed. (A knot is 1 1/4 miles per hour.)",
+      "page": 117
+    },
+    {
+      "type": "paragraph",
+      "text": "airspeed indicator",
+      "page": 118
+    },
+    {
+      "type": "image",
+      "file": "images/30-how-to-land-a-plane/01.png",
+      "page": 118,
+      "caption": null,
+      "width_px": 614,
+      "height_px": 626
+    },
+    {
+      "type": "paragraph",
+      "text": "yoke",
+      "page": 118
+    },
+    {
+      "type": "paragraph",
+      "text": "landing gear",
+      "page": 118
+    },
+    {
+      "type": "paragraph",
+      "text": "THROTTLE. This controls airspeed (power) and also the nose attitude, or its relation to the horizon. It is a lever between the seats and is always black. Pull it toward you to slow the plane and cause it to descend, push it away to speed up the plane and cause it to ascend. The engine will get more or less quiet depending on the direction the throttle is moved.",
+      "page": 118
+    },
+    {
+      "type": "paragraph",
+      "text": "FUEL. The fuel gauges will be on the lower portion of the instrument panel. If the pilot has followed FAA regulations, the plane should have enough fuel for the amount of flying time to your intended destination plus at least an additional half hour in reserve. Some planes have a reserve fuel tank in addition to the primary one, but do not worry about changing tanks.",
+      "page": 119
+    },
+    {
+      "type": "paragraph",
+      "text": "FLAPS. Due to their complexity, wing flaps can make the plane harder to control. Use the throttle to control airspeed, not the flaps.",
+      "page": 119
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "Begin the descent.",
+      "text": "Begin the descent. Pull back on the throttle to slow down. Reduce power by about one-quarter of cruising speed. As the plane slows, the nose will drop. For descent, the nose should be about four inches below the horizon.",
+      "page": 119
+    },
+    {
+      "type": "step",
+      "number": 7,
+      "headline": "Deploy the landing gear.",
+      "text": "Deploy the landing gear. Determine if the plane has fixed or retractable landing gear. Fixed landing gear is always down so you need do nothing. If it is retractable, there will be another lever between the seats near the throttle, with a handle that is shaped like a tire. For a water landing, leave the landing gear up (retracted).",
+      "page": 119
+    },
+    {
+      "type": "step",
+      "number": 8,
+      "headline": "Look for a suitable landing site.",
+      "text": "Look for a suitable landing site. If you cannot find an airport, find a flat field on which to land. A mile-long field is ideal, but finding a field of this length will be difficult unless you are in the Midwest. The plane can land on a much shorter",
+      "page": 119
+    },
+    {
+      "type": "paragraph",
+      "text": "strip of earth, so do not bother to look for the \"perfect\" landing site—there is no such thing. Bumpy terrain will also do if your options are limited.",
+      "page": 120
+    },
+    {
+      "type": "step",
+      "number": 9,
+      "headline": "Line up the landing strip so that when the altimeter reads one thousand feet the field is off the right-wing tip.",
+      "text": "Line up the landing strip so that when the altimeter reads one thousand feet the field is off the right-wing tip. In an ideal situation, you should take a single pass over the field to look for obstructions; with plenty of fuel, you may want to do so. Fly over the field, make a big rectangle, and approach a second time.",
+      "page": 120
+    },
+    {
+      "type": "step",
+      "number": 10,
+      "headline": "When approaching the landing strip, reduce power by pulling back on the throttle.",
+      "text": "When approaching the landing strip, reduce power by pulling back on the throttle. Do not let the nose drop more than six inches below the horizon.",
+      "page": 120
+    },
+    {
+      "type": "step",
+      "number": 11,
+      "headline": "The plane should be one hundred feet off the ground when you are just above the landing strip, and the rear wheels should touch first.",
+      "text": "The plane should be one hundred feet off the ground when you are just above the landing strip, and the rear wheels should touch first. The plane will stall at fifty-five to sixty-five miles per hour, and you want the plane to be at just about stall speed when the wheels touch the ground.",
+      "page": 120
+    },
+    {
+      "type": "step",
+      "number": 12,
+      "headline": "Pull all the way back on the throttle, and make sure the nose of the plane does not dip too steeply.",
+      "text": "Pull all the way back on the throttle, and make sure the nose of the plane does not dip too steeply. Gently pull back on the yoke as the plane slowly touches the ground.",
+      "page": 120
+    },
+    {
+      "type": "step",
+      "number": 13,
+      "headline": "Using the pedals on the floor, steer and brake the plane as needed.",
+      "text": "Using the pedals on the floor, steer and brake the plane as needed.",
+      "page": 120
+    },
+    {
+      "type": "paragraph",
+      "text": "The yoke has very little effect on the ground. The upper pedals are the brakes, and the lower pedals control the direction of the nose wheel. Concentrate first on the lower pedals. Press the right pedal to move the plane right, press the left pedal to move it left. Upon landing, be aware of your speed. A modest reduction in speed will increase your chances of survival exponentially. By reducing your groundspeed from 120 to 70 miles per hour, you increase your chance of survival threefold.",
+      "page": 121
+    },
+    {
+      "type": "heading",
+      "text": "Be Aware",
+      "page": 121
+    },
+    {
+      "type": "bullet",
+      "text": "A well-executed emergency landing in bad terrain can be less hazardous than an uncontrolled landing on an established field.",
+      "page": 121
+    },
+    {
+      "type": "bullet",
+      "text": "If the plane is headed toward trees, steer it between them so the wings absorb the impact if you hit.",
+      "page": 121
+    },
+    {
+      "type": "bullet",
+      "text": "When the plane comes to a stop, get out as soon as possible and get away—and take the pilot with you.",
+      "page": 121
+    }
+  ],
+  "full_text": "These instructions cover small passenger planes and jets (not commercial airliners).\nIf the plane has only one set of controls, push, pull, carry, or drag the pilot out of the pilot's seat.\nTake your place at the controls.\nPut on the radio headset (if there is one). Use the radio to call for help—there will be a control button on the yoke (the plane's steering wheel) or a CB-like microphone on the instrument panel. Depress the button to talk, release it to listen. Say \"Mayday! Mayday!\" and give your situation, destination, and plane call numbers, which should be printed on the top of the instrument panel.\nIf you get no response, try again on the emergency channel—tune the radio to 121.5. All radios are different, but tuning is standard. The person on the other end should be able to talk you through the proper landing procedures. Follow their instructions carefully. If you cannot reach someone to talk you through the landing process, you will have to do it alone.\nGet your bearings and identify the instruments. Look around you. Is the plane level? Unless you have just taken off or are about to land, it should be flying relatively straight.\nYOKE. This is the steering wheel and should be in front of you. It turns the plane and controls its pitch. Pull back on the column to bring the nose up, push forward to point it down. Turn left to turn the plane left, turn right to turn it right. The yoke is very sensitive—move it only an inch or two in either direction to turn the plane in flight. While cruising, the nose of the plane should be about three inches below the horizon.\nALTIMETER. This is the most important instrument, at least initially. It is a red dial in the middle of the instrument panel that indicates altitude: the small hand indicates feet above sea level in thousand-foot increments, the large hand in hundreds.\nHEADING. This is a compass and will be the only instrument with a small image of a plane in the center. The nose will point in the direction the plane is headed.\nAIRSPEED. This dial is on the top of the instrument panel and will be on the left. It is usually calibrated in knots, though it may also have miles per hour. A small plane travels at about 120 knots while cruising. Anything under 70 knots in the air is dangerously close to stall speed. (A knot is 1 1/4 miles per hour.)\nairspeed indicator\nyoke\nlanding gear\nTHROTTLE. This controls airspeed (power) and also the nose attitude, or its relation to the horizon. It is a lever between the seats and is always black. Pull it toward you to slow the plane and cause it to descend, push it away to speed up the plane and cause it to ascend. The engine will get more or less quiet depending on the direction the throttle is moved.\nFUEL. The fuel gauges will be on the lower portion of the instrument panel. If the pilot has followed FAA regulations, the plane should have enough fuel for the amount of flying time to your intended destination plus at least an additional half hour in reserve. Some planes have a reserve fuel tank in addition to the primary one, but do not worry about changing tanks.\nFLAPS. Due to their complexity, wing flaps can make the plane harder to control. Use the throttle to control airspeed, not the flaps.\nBegin the descent. Pull back on the throttle to slow down. Reduce power by about one-quarter of cruising speed. As the plane slows, the nose will drop. For descent, the nose should be about four inches below the horizon.\nDeploy the landing gear. Determine if the plane has fixed or retractable landing gear. Fixed landing gear is always down so you need do nothing. If it is retractable, there will be another lever between the seats near the throttle, with a handle that is shaped like a tire. For a water landing, leave the landing gear up (retracted).\nLook for a suitable landing site. If you cannot find an airport, find a flat field on which to land. A mile-long field is ideal, but finding a field of this length will be difficult unless you are in the Midwest. The plane can land on a much shorter\nstrip of earth, so do not bother to look for the \"perfect\" landing site—there is no such thing. Bumpy terrain will also do if your options are limited.\nLine up the landing strip so that when the altimeter reads one thousand feet the field is off the right-wing tip. In an ideal situation, you should take a single pass over the field to look for obstructions; with plenty of fuel, you may want to do so. Fly over the field, make a big rectangle, and approach a second time.\nWhen approaching the landing strip, reduce power by pulling back on the throttle. Do not let the nose drop more than six inches below the horizon.\nThe plane should be one hundred feet off the ground when you are just above the landing strip, and the rear wheels should touch first. The plane will stall at fifty-five to sixty-five miles per hour, and you want the plane to be at just about stall speed when the wheels touch the ground.\nPull all the way back on the throttle, and make sure the nose of the plane does not dip too steeply. Gently pull back on the yoke as the plane slowly touches the ground.\nUsing the pedals on the floor, steer and brake the plane as needed.\nThe yoke has very little effect on the ground. The upper pedals are the brakes, and the lower pedals control the direction of the nose wheel. Concentrate first on the lower pedals. Press the right pedal to move the plane right, press the left pedal to move it left. Upon landing, be aware of your speed. A modest reduction in speed will increase your chances of survival exponentially. By reducing your groundspeed from 120 to 70 miles per hour, you increase your chance of survival threefold.\nBe Aware\nA well-executed emergency landing in bad terrain can be less hazardous than an uncontrolled landing on an established field.\nIf the plane is headed toward trees, steer it between them so the wings absorb the impact if you hit.\nWhen the plane comes to a stop, get out as soon as possible and get away—and take the pilot with you."
+}

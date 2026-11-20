@@ -1,0 +1,75 @@
+{
+  "id": 24,
+  "slug": "24-how-to-use-a-defibrillator-to-restore-a-heartbeat",
+  "title": "How to Use a Defibrillator to Restore a Heartbeat",
+  "chapter": "Emergencies",
+  "pdf_pages": [
+    93,
+    95
+  ],
+  "short_description": "Defibrillation is the delivery of a powerful electrical shock to the heart. (The defibrillator is the device used in movies and TV shows…",
+  "notification": {
+    "title": "How to Use a Defibrillator to Restore a Heartbeat",
+    "body": "Plug the pads into the connector."
+  },
+  "step_count": 3,
+  "image_count": 1,
+  "thumbnail": "images/24-how-to-use-a-defibrillator-to-restore-a-heartbeat/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Defibrillation is the delivery of a powerful electrical shock to the heart. (The defibrillator is the device used in movies and TV shows: two handheld pads are placed on the victim's chest while an actor yells \"Clear!\") In the past, defibrillators were very heavy, expensive, needed regular maintenance, and were mostly found only in hospitals. Now there are more portable units available. A defibrillator should be used only for a Sudden Cardiac Arrest (SCA), an electrical problem that cannot be helped by CPR.",
+      "page": 93
+    },
+    {
+      "type": "heading",
+      "text": "How to Use a Defibrillator",
+      "page": 93
+    },
+    {
+      "type": "paragraph",
+      "text": "Turn on the defibrillator by pressing the green button. Most machines will provide both visual and voice prompts.",
+      "page": 93
+    },
+    {
+      "type": "paragraph",
+      "text": "First, remove the person's shirt and jewelry, then apply the pads to the chest as shown in the diagram displayed on the machine's LED panel. One pad should be placed on the upper right side of the chest, one on the lower left.",
+      "page": 93
+    },
+    {
+      "type": "image",
+      "file": "images/24-how-to-use-a-defibrillator-to-restore-a-heartbeat/01.png",
+      "page": 94,
+      "caption": "Apply one pad to the upper right of the patient's chest, the other pad to the lower left.",
+      "width_px": 586,
+      "height_px": 357
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Plug the pads into the connector.",
+      "text": "Plug the pads into the connector. The defibrillator will analyze the patient and determine if he needs a shock. Do not touch the patient at this time.",
+      "page": 94
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "If the machine determines that a shock is needed, it will direct you—both audibly and with visual prompts—to press the orange button to deliver a shock.",
+      "text": "If the machine determines that a shock is needed, it will direct you—both audibly and with visual prompts—to press the orange button to deliver a shock. Do not touch the patient after pressing the button. The machine will automatically check to see whether or not the patient needs a second shock and if so will direct you to press the orange button again.",
+      "page": 94
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Check the patient's airway, breathing, and pulse.",
+      "text": "Check the patient's airway, breathing, and pulse. If there is a pulse but the patient is not breathing, begin mouth-to-mouth resuscitation. If there is no pulse, repeat the defibrillation process.",
+      "page": 95
+    },
+    {
+      "type": "paragraph",
+      "text": "Be Aware A defibrillator should be used for a person experiencing sudden cardiac arrest (SCA), a condition where the heart's electrical signals become confused and the heart ceases to function. A person experiencing SCA will stop breathing, the pulse will slow or stop, and consciousness will be lost.",
+      "page": 95
+    }
+  ],
+  "full_text": "Defibrillation is the delivery of a powerful electrical shock to the heart. (The defibrillator is the device used in movies and TV shows: two handheld pads are placed on the victim's chest while an actor yells \"Clear!\") In the past, defibrillators were very heavy, expensive, needed regular maintenance, and were mostly found only in hospitals. Now there are more portable units available. A defibrillator should be used only for a Sudden Cardiac Arrest (SCA), an electrical problem that cannot be helped by CPR.\nHow to Use a Defibrillator\nTurn on the defibrillator by pressing the green button. Most machines will provide both visual and voice prompts.\nFirst, remove the person's shirt and jewelry, then apply the pads to the chest as shown in the diagram displayed on the machine's LED panel. One pad should be placed on the upper right side of the chest, one on the lower left.\nPlug the pads into the connector. The defibrillator will analyze the patient and determine if he needs a shock. Do not touch the patient at this time.\nIf the machine determines that a shock is needed, it will direct you—both audibly and with visual prompts—to press the orange button to deliver a shock. Do not touch the patient after pressing the button. The machine will automatically check to see whether or not the patient needs a second shock and if so will direct you to press the orange button again.\nCheck the patient's airway, breathing, and pulse. If there is a pulse but the patient is not breathing, begin mouth-to-mouth resuscitation. If there is no pulse, repeat the defibrillation process.\nBe Aware A defibrillator should be used for a person experiencing sudden cardiac arrest (SCA), a condition where the heart's electrical signals become confused and the heart ceases to function. A person experiencing SCA will stop breathing, the pulse will slow or stop, and consciousness will be lost."
+}

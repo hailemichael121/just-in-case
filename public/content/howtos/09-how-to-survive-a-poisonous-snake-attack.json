@@ -1,0 +1,165 @@
+{
+  "id": 9,
+  "slug": "09-how-to-survive-a-poisonous-snake-attack",
+  "title": "How to Survive a Poisonous Snake Attack",
+  "chapter": "The Best Defense",
+  "pdf_pages": [
+    44,
+    47
+  ],
+  "short_description": "Because poisonous snakes can be difficult to identify— and because some nonpoisonous snakes have markings very similar to venomous ones—the…",
+  "notification": {
+    "title": "How to Survive a Poisonous Snake Attack",
+    "body": "Wash the bite with soap and water as soon as you can."
+  },
+  "step_count": 4,
+  "image_count": 2,
+  "thumbnail": "images/09-how-to-survive-a-poisonous-snake-attack/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Because poisonous snakes can be difficult to identify— and because some nonpoisonous snakes have markings very similar to venomous ones—the best way to avoid getting bitten is to leave all snakes alone. Assume that a snake is venomous unless you know for certain that it is not.",
+      "page": 44
+    },
+    {
+      "type": "heading",
+      "text": "How to Treat a Bite",
+      "page": 44
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Wash the bite with soap and water as soon as you can.",
+      "text": "Wash the bite with soap and water as soon as you can.",
+      "page": 44
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Immobilize the bitten area and keep it lower than the heart.",
+      "text": "Immobilize the bitten area and keep it lower than the heart. This will slow the flow of the venom.",
+      "page": 44
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Get medical help as soon as possible.",
+      "text": "Get medical help as soon as possible. A doctor should treat all snakebites unless you are willing to bet your life that the offending snake is nonpoisonous. Of about eight thousand venomous bites a year in the U.S., nine to fifteen victims are killed. A bite from any type of poisonous snake should always be considered a medical emergency. Even bites from nonpoisonous snakes should be treated professionally, as severe allergic reactions can occur. Some",
+      "page": 44
+    },
+    {
+      "type": "paragraph",
+      "text": "Mojave rattlesnakes carry a neurotoxic venom that can affect the brain or spinal cord, causing paralysis.",
+      "page": 45
+    },
+    {
+      "type": "paragraph",
+      "text": "Immediately wrap a bandage tightly two to four inches above the bite to help slow the venom if you are unable to reach medical care within thirty minutes. The bandage should not cut off blood flow from a vein or artery. Make the bandage loose enough for a finger to slip underneath.",
+      "page": 45
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "If you have a first aid kit equipped with a suction device, follow the instructions for helping to draw venom out of the wound without making an incision.",
+      "text": "If you have a first aid kit equipped with a suction device, follow the instructions for helping to draw venom out of the wound without making an incision.",
+      "page": 45
+    },
+    {
+      "type": "paragraph",
+      "text": "Generally, you will need to place the rubber suction cup over the wound and attempt to draw the venom out from the bite marks.",
+      "page": 45
+    },
+    {
+      "type": "heading",
+      "text": "What Not to Do",
+      "page": 45
+    },
+    {
+      "type": "bullet",
+      "text": "Do not place any ice or cooling element on the bite; this will make removing the venom with suction more difficult.",
+      "page": 45
+    },
+    {
+      "type": "bullet",
+      "text": "Do not tie a bandage or a tourniquet too tightly. If used incorrectly, a tourniquet can cut blood flow completely and damage the limb.",
+      "page": 45
+    },
+    {
+      "type": "bullet",
+      "text": "Do not make any incision on or around the wound in an attempt to remove the venom—there is danger of infection.",
+      "page": 45
+    },
+    {
+      "type": "bullet",
+      "text": "Do not attempt to suck out the venom. You do not want it in your mouth, where it might enter your bloodstream.",
+      "page": 45
+    },
+    {
+      "type": "image",
+      "file": "images/09-how-to-survive-a-poisonous-snake-attack/01.png",
+      "page": 46,
+      "caption": "Snakes coil before they strike.",
+      "width_px": 252,
+      "height_px": 154
+    },
+    {
+      "type": "image",
+      "file": "images/09-how-to-survive-a-poisonous-snake-attack/02.png",
+      "page": 46,
+      "caption": "Snakes can strike at a distance approximately half their length; half their body does not leave the ground.",
+      "width_px": 600,
+      "height_px": 127
+    },
+    {
+      "type": "heading",
+      "text": "How to Escape from a Python",
+      "page": 46
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike poisonous snakes, pythons and boas kill their prey not through the injection of venom but by constriction; hence these snakes are known as constrictors. A constrictor coils its body around its prey, squeezing it until the pressure is great enough to kill. Since pythons and boas can grow to be nearly twenty feet long, they are fully capable of killing a grown person, and small children are even more vulnerable. The good news is that most pythons will strike and then try to get away, rather than consume a full-grown human.",
+      "page": 46
+    },
+    {
+      "type": "paragraph",
+      "text": "Remain still. This will minimize constriction strength, but a python usually continues constricting well after the prey is dead and not moving.",
+      "page": 47
+    },
+    {
+      "type": "paragraph",
+      "text": "Try to control the python's head and try to unwrap the coils, starting from whichever end is available.",
+      "page": 47
+    },
+    {
+      "type": "heading",
+      "text": "How to Avoid an Attack",
+      "page": 47
+    },
+    {
+      "type": "bullet",
+      "text": "Do not try to get a closer look, prod the snake to make it move, or try to kill it.",
+      "page": 47
+    },
+    {
+      "type": "bullet",
+      "text": "If you come across a snake, back away slowly and give it a wide berth: snakes can easily strike half their body length in an instant, and some species are six feet or longer.",
+      "page": 47
+    },
+    {
+      "type": "bullet",
+      "text": "When hiking in an area with poisonous snakes, always wear thick leather boots and long pants.",
+      "page": 47
+    },
+    {
+      "type": "bullet",
+      "text": "Keep to marked trails.",
+      "page": 47
+    },
+    {
+      "type": "bullet",
+      "text": "Snakes are cold-blooded and need the sun to help regulate their body temperature. They are often found lying on warm rocks or in other sunny places.",
+      "page": 47
+    }
+  ],
+  "full_text": "Because poisonous snakes can be difficult to identify— and because some nonpoisonous snakes have markings very similar to venomous ones—the best way to avoid getting bitten is to leave all snakes alone. Assume that a snake is venomous unless you know for certain that it is not.\nHow to Treat a Bite\nWash the bite with soap and water as soon as you can.\nImmobilize the bitten area and keep it lower than the heart. This will slow the flow of the venom.\nGet medical help as soon as possible. A doctor should treat all snakebites unless you are willing to bet your life that the offending snake is nonpoisonous. Of about eight thousand venomous bites a year in the U.S., nine to fifteen victims are killed. A bite from any type of poisonous snake should always be considered a medical emergency. Even bites from nonpoisonous snakes should be treated professionally, as severe allergic reactions can occur. Some\nMojave rattlesnakes carry a neurotoxic venom that can affect the brain or spinal cord, causing paralysis.\nImmediately wrap a bandage tightly two to four inches above the bite to help slow the venom if you are unable to reach medical care within thirty minutes. The bandage should not cut off blood flow from a vein or artery. Make the bandage loose enough for a finger to slip underneath.\nIf you have a first aid kit equipped with a suction device, follow the instructions for helping to draw venom out of the wound without making an incision.\nGenerally, you will need to place the rubber suction cup over the wound and attempt to draw the venom out from the bite marks.\nWhat Not to Do\nDo not place any ice or cooling element on the bite; this will make removing the venom with suction more difficult.\nDo not tie a bandage or a tourniquet too tightly. If used incorrectly, a tourniquet can cut blood flow completely and damage the limb.\nDo not make any incision on or around the wound in an attempt to remove the venom—there is danger of infection.\nDo not attempt to suck out the venom. You do not want it in your mouth, where it might enter your bloodstream.\nHow to Escape from a Python\nUnlike poisonous snakes, pythons and boas kill their prey not through the injection of venom but by constriction; hence these snakes are known as constrictors. A constrictor coils its body around its prey, squeezing it until the pressure is great enough to kill. Since pythons and boas can grow to be nearly twenty feet long, they are fully capable of killing a grown person, and small children are even more vulnerable. The good news is that most pythons will strike and then try to get away, rather than consume a full-grown human.\nRemain still. This will minimize constriction strength, but a python usually continues constricting well after the prey is dead and not moving.\nTry to control the python's head and try to unwrap the coils, starting from whichever end is available.\nHow to Avoid an Attack\nDo not try to get a closer look, prod the snake to make it move, or try to kill it.\nIf you come across a snake, back away slowly and give it a wide berth: snakes can easily strike half their body length in an instant, and some species are six feet or longer.\nWhen hiking in an area with poisonous snakes, always wear thick leather boots and long pants.\nKeep to marked trails.\nSnakes are cold-blooded and need the sun to help regulate their body temperature. They are often found lying on warm rocks or in other sunny places."
+}

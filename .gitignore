@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Builds
+dist/
+build/
+android/app/build/
+android/build/
+android/.gradle/
+.gradle/
+.gradle-cache/
+*.apk
+*.aab
+# The site serves its own copy of the current build.
+!portfolio/downloads/*.apk
+
+# Caches and local tooling
+.vite/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local env
+.env
+.env.*
+!.env.example
+
+# Netlify
+.netlify/

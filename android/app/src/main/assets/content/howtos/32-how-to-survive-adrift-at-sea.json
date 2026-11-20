@@ -1,0 +1,195 @@
+{
+  "id": 32,
+  "slug": "32-how-to-survive-adrift-at-sea",
+  "title": "How to Survive Adrift at Sea",
+  "chapter": "Adventure Survival",
+  "pdf_pages": [
+    127,
+    130
+  ],
+  "short_description": "get into a life raft. In a maritime emergency, the rule of thumb is that you should step up into your raft, meaning you should be up to…",
+  "notification": {
+    "title": "How to Survive Adrift at Sea",
+    "body": "Stay aboard your boat as long as possible before you"
+  },
+  "step_count": 10,
+  "image_count": 3,
+  "thumbnail": "images/32-how-to-survive-adrift-at-sea/01.png",
+  "content": [
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Stay aboard your boat as long as possible before you",
+      "text": "Stay aboard your boat as long as possible before you",
+      "page": 127
+    },
+    {
+      "type": "paragraph",
+      "text": "get into a life raft. In a maritime emergency, the rule of thumb is that you should step up into your raft, meaning you should be up to your waist in water before you get into the raft. Your best chance of survival is on a boat—even a disabled one—not on a life raft. But if the boat is sinking, know how to use a life raft. Any craft that sails in open water (a boat larger than fourteen feet) should have at least one life raft. Smaller boats may only have life jackets, so these vessels should stay within easy swimming distance of land.",
+      "page": 127
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Get in the life raft, and take whatever supplies you can carry.",
+      "text": "Get in the life raft, and take whatever supplies you can carry. Most importantly, if you have water in jugs, take it with you. Do not drink seawater. A person can last for several days without food at sea, but without clean water to drink, death is a virtual certainty within several days. If worse comes to worst, throw the jugs of water overboard so that you can get them later—they will float. Many canned foods, particularly vegetables, are packed in water, so take those with you if you can. Do not ration water; drink it as needed, but don't drink more than is necessary—a half-gallon a day should be sufficient if you limit your activity.",
+      "page": 127
+    },
+    {
+      "type": "paragraph",
+      "text": "Objects you can use to signal for help",
+      "page": 128
+    },
+    {
+      "type": "image",
+      "file": "images/32-how-to-survive-adrift-at-sea/01.png",
+      "page": 128,
+      "caption": null,
+      "width_px": 229,
+      "height_px": 198
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "glasses",
+      "text": "glasses",
+      "page": 128
+    },
+    {
+      "type": "paragraph",
+      "text": "watch",
+      "page": 128
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "aluminum can",
+      "text": "aluminum can",
+      "page": 128
+    },
+    {
+      "type": "image",
+      "file": "images/32-how-to-survive-adrift-at-sea/02.png",
+      "page": 128,
+      "caption": null,
+      "width_px": 174,
+      "height_px": 202
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "compass",
+      "text": "compass",
+      "page": 128
+    },
+    {
+      "type": "image",
+      "file": "images/32-how-to-survive-adrift-at-sea/03.png",
+      "page": 128,
+      "caption": null,
+      "width_px": 480,
+      "height_px": 266
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "aluminum foil",
+      "text": "aluminum foil",
+      "page": 128
+    },
+    {
+      "type": "step",
+      "number": 7,
+      "headline": "If you are in a cold water/weather environment, get warm.",
+      "text": "If you are in a cold water/weather environment, get warm. You are more likely to die of exposure or hypothermia than of anything else. Put on dry clothes and stay out of the water. Prolonged exposure to saltwater can damage your skin and cause lesions, which are prone to infection. Stay covered. Modern life rafts have canopies, which protect passengers from sun, wind, and rain. If the canopy is missing or damaged, wear a hat, long sleeves, and pants to protect yourself from the sun.",
+      "page": 129
+    },
+    {
+      "type": "step",
+      "number": 8,
+      "headline": "Find food, if you can.",
+      "text": "Find food, if you can. Life rafts include fishing hooks in their survival kits. If your raft is floating for several weeks, seaweed will form on its underside and fish will naturally congregate in the shade under you. You can catch them with the hook and eat the flesh raw. If no hook is available, you can fashion one using wire or even shards of aluminum from an empty can.",
+      "page": 129
+    },
+    {
+      "type": "step",
+      "number": 9,
+      "headline": "Try to get to land, if you know where it is.",
+      "text": "Try to get to land, if you know where it is. Most rafts include small paddles, but life rafts are not very maneuverable, especially in any wind above three knots. Do not exhaust yourself—you will not be able to move any significant distance without great effort.",
+      "page": 129
+    },
+    {
+      "type": "step",
+      "number": 10,
+      "headline": "If you see a plane or boat nearby, try to signal them.",
+      "text": "If you see a plane or boat nearby, try to signal them. Use a VHF radio or a handheld flare kit to get their attention. A small mirror can also be used for signaling.",
+      "page": 129
+    },
+    {
+      "type": "heading",
+      "text": "How to Prepare",
+      "page": 130
+    },
+    {
+      "type": "paragraph",
+      "text": "Never go out on a boat unprepared. Most boats should have at least one type of emergency signaling device, which is called an Emergency Position Radio Beacon, or EPiRB. These devices send out global marine distress signals and come in two forms: 406 MHz and 125 MHz. Both will send your boat identification and position, but the 406 goes to other ships, passing airplanes, and satellites, while the 125 only goes to ships and planes. People without one of these devices can drift for months before they are found.",
+      "page": 130
+    },
+    {
+      "type": "paragraph",
+      "text": "Always carry a \"go bag\" that contains:",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "Warm, dry clothes and blankets",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "A hat",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "Food (canned goods, backpacking foods, dried fruit)",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "A handheld VHF radio",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "A small, handheld GPS (Global Positioning Satellite) tracking unit",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "Drinking water in portable jugs",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "A compass",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "A flashlight with extra batteries",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "Handheld flares",
+      "page": 130
+    },
+    {
+      "type": "bullet",
+      "text": "A handheld watermaker",
+      "page": 130
+    }
+  ],
+  "full_text": "Stay aboard your boat as long as possible before you\nget into a life raft. In a maritime emergency, the rule of thumb is that you should step up into your raft, meaning you should be up to your waist in water before you get into the raft. Your best chance of survival is on a boat—even a disabled one—not on a life raft. But if the boat is sinking, know how to use a life raft. Any craft that sails in open water (a boat larger than fourteen feet) should have at least one life raft. Smaller boats may only have life jackets, so these vessels should stay within easy swimming distance of land.\nGet in the life raft, and take whatever supplies you can carry. Most importantly, if you have water in jugs, take it with you. Do not drink seawater. A person can last for several days without food at sea, but without clean water to drink, death is a virtual certainty within several days. If worse comes to worst, throw the jugs of water overboard so that you can get them later—they will float. Many canned foods, particularly vegetables, are packed in water, so take those with you if you can. Do not ration water; drink it as needed, but don't drink more than is necessary—a half-gallon a day should be sufficient if you limit your activity.\nObjects you can use to signal for help\nglasses\nwatch\naluminum can\ncompass\naluminum foil\nIf you are in a cold water/weather environment, get warm. You are more likely to die of exposure or hypothermia than of anything else. Put on dry clothes and stay out of the water. Prolonged exposure to saltwater can damage your skin and cause lesions, which are prone to infection. Stay covered. Modern life rafts have canopies, which protect passengers from sun, wind, and rain. If the canopy is missing or damaged, wear a hat, long sleeves, and pants to protect yourself from the sun.\nFind food, if you can. Life rafts include fishing hooks in their survival kits. If your raft is floating for several weeks, seaweed will form on its underside and fish will naturally congregate in the shade under you. You can catch them with the hook and eat the flesh raw. If no hook is available, you can fashion one using wire or even shards of aluminum from an empty can.\nTry to get to land, if you know where it is. Most rafts include small paddles, but life rafts are not very maneuverable, especially in any wind above three knots. Do not exhaust yourself—you will not be able to move any significant distance without great effort.\nIf you see a plane or boat nearby, try to signal them. Use a VHF radio or a handheld flare kit to get their attention. A small mirror can also be used for signaling.\nHow to Prepare\nNever go out on a boat unprepared. Most boats should have at least one type of emergency signaling device, which is called an Emergency Position Radio Beacon, or EPiRB. These devices send out global marine distress signals and come in two forms: 406 MHz and 125 MHz. Both will send your boat identification and position, but the 406 goes to other ships, passing airplanes, and satellites, while the 125 only goes to ships and planes. People without one of these devices can drift for months before they are found.\nAlways carry a \"go bag\" that contains:\nWarm, dry clothes and blankets\nA hat\nFood (canned goods, backpacking foods, dried fruit)\nA handheld VHF radio\nA small, handheld GPS (Global Positioning Satellite) tracking unit\nDrinking water in portable jugs\nA compass\nA flashlight with extra batteries\nHandheld flares\nA handheld watermaker"
+}

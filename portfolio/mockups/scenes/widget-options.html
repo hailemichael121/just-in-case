@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>widget options</title>
+<link rel="stylesheet" href="../tokens.css">
+<style>
+  body { width: 400px; height: 720px; }
+  .config { padding: 20px 22px 18px; }
+  .config-head h1 { font-size: 16px; }
+  .config-head span { font-size: 10px; }
+  .config-lede { font-size: 9.5px; margin-top: 6px; }
+  .config-preview { margin-top: 14px; padding: 16px; }
+  .config-preview .widget { width: 320px; height: 150px; }
+  .config-preview .widget-title { font-size: 21px; }
+  .config-group { margin-top: 15px; }
+  .config-group h2 { font-size: 9px; margin-bottom: 7px; }
+  .config-chip { font-size: 9px; padding: 7px 11px; }
+  .config-done { font-size: 10px; padding: 9px 18px; }
+</style>
+</head>
+<body>
+  <div class="config">
+    <div class="config-head">
+      <h1>Widget</h1>
+      <span>Cancel</span>
+    </div>
+    <p class="config-lede">Choose what the card shows. The same how-to stays on your home screen all day.</p>
+
+    <div class="config-preview">
+      <article class="widget widget--frosted">
+        <div class="widget-row">
+          <div class="widget-copy">
+            <div class="widget-brand"><img src="../../assets/mark-white.svg" alt="">Today</div>
+            <h2 class="widget-title">How to Escape from Quicksand</h2>
+            <p class="widget-desc">Lean back and spread your weight…</p>
+          </div>
+          <div class="widget-art"><img src="../art/quicksand.svg" alt=""></div>
+        </div>
+      </article>
+    </div>
+
+    <div class="config-group">
+      <h2>Size</h2>
+      <div class="config-chips">
+        <span class="config-chip">Small · 2×2</span>
+        <span class="config-chip on">Medium · 4×2</span>
+        <span class="config-chip">Large · 4×4</span>
+      </div>
+    </div>
+
+    <div class="config-group">
+      <h2>Content</h2>
+      <div class="config-chips">
+        <span class="config-chip">Text</span>
+        <span class="config-chip on">Image + text</span>
+        <span class="config-chip">Image</span>
+      </div>
+    </div>
+
+    <div class="config-group">
+      <h2>Glass</h2>
+      <div class="config-chips">
+        <span class="config-chip">Clear</span>
+        <span class="config-chip on">Frosted</span>
+        <span class="config-chip">Smoked</span>
+      </div>
+    </div>
+
+    <div class="config-group">
+      <h2>Text size</h2>
+      <div class="config-chips">
+        <span class="config-chip">Small</span>
+        <span class="config-chip on">Medium</span>
+        <span class="config-chip">Large</span>
+      </div>
+    </div>
+
+    <div class="config-group">
+      <h2>Topic</h2>
+      <div class="config-chips">
+        <span class="config-chip on">All</span>
+        <span class="config-chip">Great Escapes and Entrances</span>
+        <span class="config-chip">The Best Defense</span>
+        <span class="config-chip">Leaps of Faith</span>
+        <span class="config-chip">Emergencies</span>
+        <span class="config-chip">Adventure Survival</span>
+      </div>
+    </div>
+
+    <div class="config-foot"><span class="config-chip">Cancel</span><span class="config-done">Add to home screen</span></div>
+  </div>
+</body>
+</html>

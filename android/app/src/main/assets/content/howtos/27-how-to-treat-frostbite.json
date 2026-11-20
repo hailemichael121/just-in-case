@@ -1,0 +1,156 @@
+{
+  "id": 27,
+  "slug": "27-how-to-treat-frostbite",
+  "title": "How to Treat Frostbite",
+  "chapter": "Emergencies",
+  "pdf_pages": [
+    105,
+    107
+  ],
+  "short_description": "Frostbite is a condition caused by the freezing of water molecules in skin cells and occurs in very cold temperatures. It is characterized…",
+  "notification": {
+    "title": "How to Treat Frostbite",
+    "body": "Apply sterile dressings to the affected areas."
+  },
+  "step_count": 6,
+  "image_count": 1,
+  "thumbnail": "images/27-how-to-treat-frostbite/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Frostbite is a condition caused by the freezing of water molecules in skin cells and occurs in very cold temperatures. It is characterized by white, waxy skin that feels numb and hard. More severe cases result in a bluish black skin color, and the most severe cases result in gangrene, which may lead to amputation. Affected areas are generally fingertips and toes, and the nose, ears, and cheeks. Frostbite should be treated by a doctor. However, in an emergency, take the following steps.",
+      "page": 105
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove wet clothing and dress the area with warm, dry clothing.",
+      "page": 105
+    },
+    {
+      "type": "paragraph",
+      "text": "Immerse frozen areas in warm water (100—105° F) or apply warm compresses for ten to thirty minutes.",
+      "page": 105
+    },
+    {
+      "type": "paragraph",
+      "text": "If warm water is not available, wrap gently in warm blankets.",
+      "page": 105
+    },
+    {
+      "type": "paragraph",
+      "text": "Avoid direct heat, including electric or gas fires, heating pads, and hot water bottles.",
+      "page": 105
+    },
+    {
+      "type": "paragraph",
+      "text": "Never thaw the area if it is at risk of refreezing; this can cause severe tissue damage.",
+      "page": 105
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not rub frostbitten skin or rub snow on it.",
+      "page": 106
+    },
+    {
+      "type": "paragraph",
+      "text": "Take a pain reliever such as aspirin or ibuprofen during rewarming to lessen the pain. Rewarming will be accompanied by a severe burning sensation. There may be skin blistering and soft tissue swelling and the skin may turn red, blue, or purple in color. When skin is pink and no longer numb, the area is thawed.",
+      "page": 106
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Apply sterile dressings to the affected areas.",
+      "text": "Apply sterile dressings to the affected areas. Place the dressing between fingers or toes if they have been affected. Try not to disturb any blisters, wrap rewarmed areas to prevent refreezing, and have the patient keep thawed areas as still as possible.",
+      "page": 106
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Get medical treatment as soon as possible.",
+      "text": "Get medical treatment as soon as possible.",
+      "page": 106
+    },
+    {
+      "type": "caption",
+      "text": "After thawing the skin in warm water, sensation will return and it may be painful. Apply sterile dressings to the affected areas, placing it between toes or fingers, if they have been frostbitten.",
+      "page": 106
+    },
+    {
+      "type": "image",
+      "file": "images/27-how-to-treat-frostbite/01.png",
+      "page": 106,
+      "caption": null,
+      "width_px": 523,
+      "height_px": 393
+    },
+    {
+      "type": "caption",
+      "text": "Severe frostbite may cause the skin to blister or swell. Wrap area to prevent refreezing, and seek medical treatment.",
+      "page": 106
+    },
+    {
+      "type": "heading",
+      "text": "How to Treat Frostnip",
+      "page": 107
+    },
+    {
+      "type": "paragraph",
+      "text": "Frostnip is the early warning sign of frostbite. Frostnip is characterized by numbness and a pale coloring of the affected areas. It can be safely treated at home.",
+      "page": 107
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Remove wet clothing.",
+      "text": "Remove wet clothing.",
+      "page": 107
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "Immerse or soak affected areas in warm water (100-105° F).",
+      "text": "Immerse or soak affected areas in warm water (100-105° F).",
+      "page": 107
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "Do not allow patient to control water temperature—numb areas cannot feel heat and can be burned.",
+      "text": "Do not allow patient to control water temperature—numb areas cannot feel heat and can be burned.",
+      "page": 107
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "Continue treatment until skin is pink and sensation returns.",
+      "text": "Continue treatment until skin is pink and sensation returns.",
+      "page": 107
+    },
+    {
+      "type": "heading",
+      "text": "How to Avoid Frostbite and Frostnip",
+      "page": 107
+    },
+    {
+      "type": "bullet",
+      "text": "Keep extremities warm and covered in cold weather.",
+      "page": 107
+    },
+    {
+      "type": "bullet",
+      "text": "Use layered clothing and a face mask.",
+      "page": 107
+    },
+    {
+      "type": "bullet",
+      "text": "Wear mittens instead of gloves, and keep the ears covered.",
+      "page": 107
+    },
+    {
+      "type": "bullet",
+      "text": "Take regular breaks from the cold whenever possible to warm extremities.",
+      "page": 107
+    }
+  ],
+  "full_text": "Frostbite is a condition caused by the freezing of water molecules in skin cells and occurs in very cold temperatures. It is characterized by white, waxy skin that feels numb and hard. More severe cases result in a bluish black skin color, and the most severe cases result in gangrene, which may lead to amputation. Affected areas are generally fingertips and toes, and the nose, ears, and cheeks. Frostbite should be treated by a doctor. However, in an emergency, take the following steps.\nRemove wet clothing and dress the area with warm, dry clothing.\nImmerse frozen areas in warm water (100—105° F) or apply warm compresses for ten to thirty minutes.\nIf warm water is not available, wrap gently in warm blankets.\nAvoid direct heat, including electric or gas fires, heating pads, and hot water bottles.\nNever thaw the area if it is at risk of refreezing; this can cause severe tissue damage.\nDo not rub frostbitten skin or rub snow on it.\nTake a pain reliever such as aspirin or ibuprofen during rewarming to lessen the pain. Rewarming will be accompanied by a severe burning sensation. There may be skin blistering and soft tissue swelling and the skin may turn red, blue, or purple in color. When skin is pink and no longer numb, the area is thawed.\nApply sterile dressings to the affected areas. Place the dressing between fingers or toes if they have been affected. Try not to disturb any blisters, wrap rewarmed areas to prevent refreezing, and have the patient keep thawed areas as still as possible.\nGet medical treatment as soon as possible.\nAfter thawing the skin in warm water, sensation will return and it may be painful. Apply sterile dressings to the affected areas, placing it between toes or fingers, if they have been frostbitten.\nSevere frostbite may cause the skin to blister or swell. Wrap area to prevent refreezing, and seek medical treatment.\nHow to Treat Frostnip\nFrostnip is the early warning sign of frostbite. Frostnip is characterized by numbness and a pale coloring of the affected areas. It can be safely treated at home.\nRemove wet clothing.\nImmerse or soak affected areas in warm water (100-105° F).\nDo not allow patient to control water temperature—numb areas cannot feel heat and can be burned.\nContinue treatment until skin is pink and sensation returns.\nHow to Avoid Frostbite and Frostnip\nKeep extremities warm and covered in cold weather.\nUse layered clothing and a face mask.\nWear mittens instead of gloves, and keep the ears covered.\nTake regular breaks from the cold whenever possible to warm extremities."
+}

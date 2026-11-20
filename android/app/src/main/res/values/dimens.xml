@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_radius">28dp</dimen>
+    <dimen name="widget_padding">18dp</dimen>
+    <dimen name="widget_title_small">15sp</dimen>
+    <dimen name="widget_title_medium">17sp</dimen>
+    <dimen name="widget_title_large">19sp</dimen>
+    <dimen name="widget_body">12sp</dimen>
+    <dimen name="safe_bottom_padding">24dp</dimen>
+</resources>

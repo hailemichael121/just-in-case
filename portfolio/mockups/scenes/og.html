@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Open Graph card</title>
+<link rel="stylesheet" href="../tokens.css">
+<style>
+  html, body { width: 1200px; height: 630px; margin: 0; }
+  body {
+    display: grid;
+    grid-template-columns: 560px 640px;
+    background: #f4f2eb;
+    color: #2f3931;
+  }
+  .dark {
+    position: relative;
+    background: #0b0b0c;
+    padding: 64px 56px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 26px;
+  }
+  .dark::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-right: 1px solid rgba(255,255,255,.12);
+  }
+  .widget {
+    width: 100%;
+    height: 196px;
+    padding: 24px 26px;
+    border-radius: 26px;
+  }
+  .widget-title { font-size: 30px; }
+  .widget-desc { font-size: 12px; }
+  .widget-small { width: 190px; height: 160px; padding: 18px; }
+  .widget-small .widget-title { font-size: 19px; }
+  .left-copy { padding: 0 72px; display: flex; flex-direction: column; justify-content: center; }
+  .mark { display: flex; align-items: center; gap: 12px; font: 600 17px/1.2 var(--sans); }
+  .mark img { width: 32px; height: 32px; }
+  .eyebrow { margin-top: 46px; font: 600 12px/1.4 var(--sans); letter-spacing: .16em; text-transform: uppercase; color: #5e685f; }
+  h1 { margin: 16px 0 0; font: 600 58px/1.02 var(--sans); letter-spacing: -.045em; }
+  h1 em { display: block; font: italic 400 60px/1.02 var(--serif); color: #a94f2e; letter-spacing: -.02em; }
+  .sub { max-width: 24ch; margin-top: 24px; font: 400 17px/1.55 var(--sans); color: #3f4a41; }
+  .foot { position: absolute; left: 72px; bottom: 46px; font: 500 12px/1.4 var(--sans); letter-spacing: .12em; text-transform: uppercase; color: #5e685f; }
+</style>
+</head>
+<body>
+  <div class="dark">
+    <article class="widget widget--medium widget--solid">
+      <div class="widget-row">
+        <div class="widget-copy">
+          <div class="widget-brand"><img src="../../assets/mark-white.svg" alt="">Just in Case</div>
+          <h2 class="widget-title">How to Escape from Quicksand</h2>
+          <p class="widget-desc">Spread your weight and lean back. The sand will hold you once you stop fighting it.</p>
+        </div>
+        <div class="widget-art"><img src="../art/quicksand.svg" alt=""></div>
+      </div>
+    </article>
+    <article class="widget widget--small widget-small">
+      <div class="widget-brand"><img src="../../assets/mark-white.svg" alt="">Today</div>
+      <h2 class="widget-title">How to Break Down a Door</h2>
+      <div class="widget-art"><img src="../art/door.svg" alt=""></div>
+    </article>
+  </div>
+  <div class="left-copy">
+    <div class="mark"><img src="../../assets/mark.svg" alt="">Just in Case</div>
+    <p class="eyebrow">Android · Offline · Free</p>
+    <h1>One how-to a day,<em>just in case.</em></h1>
+    <p class="sub">Forty illustrated survival techniques, one quiet card on your home screen.</p>
+  </div>
+  <p class="foot">Sample entries shown</p>
+</body>
+</html>

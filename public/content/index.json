@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "slug": "01-how-to-escape-from-quicksand",
+    "title": "How to Escape from Quicksand",
+    "chapter": "Great Escapes and Entrances",
+    "short_description": "After a minute or two, equilibrium in the quicksand will be achieved, and you will no longer sink.",
+    "notification": {
+      "title": "How to Escape from Quicksand",
+      "body": "When walking in quicksand country, carry a stout pole—it will help you get out should you need to."
+    },
+    "step_count": 4,
+    "image_count": 2,
+    "thumbnail": "images/01-how-to-escape-from-quicksand/01.png",
+    "pdf_pages": [
+      20,
+      21
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "02-how-to-break-down-a-door",
+    "title": "How to Break Down a Door",
+    "chapter": "Great Escapes and Entrances",
+    "short_description": "If you are trying to break down an exterior door, you will need more force. Exterior doors are of sturdier construction and are designed…",
+    "notification": {
+      "title": "How to Break Down a Door",
+      "body": "Give the door a well-placed kick or two to the lock area to break it down."
+    },
+    "step_count": 7,
+    "image_count": 1,
+    "thumbnail": "images/02-how-to-break-down-a-door/01.png",
+    "pdf_pages": [
+      22,
+      25
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "03-how-to-break-into-a-car",
+    "title": "How to Break into a Car",
+    "chapter": "Great Escapes and Entrances",
+    "short_description": "Most cars that are more than ten years old have vertical, push-button locks. These are locks that come straight out of the top of the car…",
+    "notification": {
+      "title": "How to Break into a Car",
+      "body": "A Slimjim is a thin piece of spring steel with a notch in one side, which makes it easy to pull the lock rod up."
+    },
+    "step_count": 8,
+    "image_count": 3,
+    "thumbnail": "images/03-how-to-break-into-a-car/01.png",
+    "pdf_pages": [
+      26,
+      29
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "04-how-to-hot-wire-a-car",
+    "title": "How to Hot-Wire a Car",
+    "chapter": "Great Escapes and Entrances",
+    "short_description": "Hot-wiring a car without the owner's permission is illegal, except in repossessions. Hot-wiring can be dangerous; there is a risk of…",
+    "notification": {
+      "title": "How to Hot-Wire a Car",
+      "body": "Open the hood."
+    },
+    "step_count": 3,
+    "image_count": 2,
+    "thumbnail": "images/04-how-to-hot-wire-a-car/01.png",
+    "pdf_pages": [
+      30,
+      32
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "05-how-to-perform-a-fast-180-degree-turn-with-your-car",
+    "title": "How to Perform a Fast 180-Degree Turn with Your Car",
+    "chapter": "Great Escapes and Entrances",
+    "short_description": "Make sure you have enough speed to use the momentum of the car to swing it around, but remember that going too fast (greater than…",
+    "notification": {
+      "title": "How to Perform a Fast 180-Degree Turn with Your Car",
+      "body": "Put the car in reverse."
+    },
+    "step_count": 6,
+    "image_count": 2,
+    "thumbnail": "images/05-how-to-perform-a-fast-180-degree-turn-with-your-car/01.png",
+    "pdf_pages": [
+      33,
+      35
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "06-how-to-ram-a-car",
+    "title": "How to Ram a Car",
+    "chapter": "Great Escapes and Entrances",
+    "short_description": "Ramming a car to move it out of your way is not easy or safe, but there are some methods that work better than others and some that will…",
+    "notification": {
+      "title": "How to Ram a Car",
+      "body": "Disable your air bag, if you can."
+    },
+    "step_count": 6,
+    "image_count": 3,
+    "thumbnail": "images/06-how-to-ram-a-car/01.png",
+    "pdf_pages": [
+      36,
+      37
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "07-how-to-escape-from-a-sinking-car",
+    "title": "How to Escape from a Sinking Car",
+    "chapter": "Great Escapes and Entrances",
+    "short_description": "through the trunk and cab, and an air bubble is unlikely to remain once the car hits bottom. Get out as early as possible.",
+    "notification": {
+      "title": "How to Escape from a Sinking Car",
+      "body": "As soon as you hit the water, open your window."
+    },
+    "step_count": 4,
+    "image_count": 2,
+    "thumbnail": "images/07-how-to-escape-from-a-sinking-car/01.png",
+    "pdf_pages": [
+      38,
+      40
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "08-how-to-deal-with-a-downed-power-line",
+    "title": "How to Deal with a Downed Power Line",
+    "chapter": "Great Escapes and Entrances",
+    "short_description": "High-voltage power lines, which carry power from plants and transformers to customers, can come crashing down during severe storms. If you…",
+    "notification": {
+      "title": "How to Deal with a Downed Power Line",
+      "body": "Assume that all power lines, whether sparking or not, are live."
+    },
+    "step_count": 6,
+    "image_count": 1,
+    "thumbnail": "images/08-how-to-deal-with-a-downed-power-line/01.png",
+    "pdf_pages": [
+      41,
+      42
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "09-how-to-survive-a-poisonous-snake-attack",
+    "title": "How to Survive a Poisonous Snake Attack",
+    "chapter": "The Best Defense",
+    "short_description": "Because poisonous snakes can be difficult to identify— and because some nonpoisonous snakes have markings very similar to venomous ones—the…",
+    "notification": {
+      "title": "How to Survive a Poisonous Snake Attack",
+      "body": "Wash the bite with soap and water as soon as you can."
+    },
+    "step_count": 4,
+    "image_count": 2,
+    "thumbnail": "images/09-how-to-survive-a-poisonous-snake-attack/01.png",
+    "pdf_pages": [
+      44,
+      47
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "10-how-to-fend-off-a-shark",
+    "title": "How to Fend Off a Shark",
+    "chapter": "The Best Defense",
+    "short_description": "If a shark is coming toward you or attacks you, use anything you have in your possession—a camera, probe, harpoon gun, your fist—to hit the…",
+    "notification": {
+      "title": "How to Fend Off a Shark",
+      "body": "Hit back."
+    },
+    "step_count": 2,
+    "image_count": 1,
+    "thumbnail": "images/10-how-to-fend-off-a-shark/01.png",
+    "pdf_pages": [
+      48,
+      51
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "11-how-to-escape-from-a-bear",
+    "title": "How to Escape from a Bear",
+    "chapter": "The Best Defense",
+    "short_description": "Documented attacks show that an attack by a mother black bear often ends when the person stops fighting.",
+    "notification": {
+      "title": "How to Escape from a Bear",
+      "body": "Lie still and quiet."
+    },
+    "step_count": 5,
+    "image_count": 3,
+    "thumbnail": "images/11-how-to-escape-from-a-bear/01.png",
+    "pdf_pages": [
+      52,
+      55
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "12-how-to-escape-from-a-mountain-lion",
+    "title": "How to Escape from a Mountain Lion",
+    "chapter": "The Best Defense",
+    "short_description": "The animal most likely will have seen and smelled you already, and running will simply cause it to pay more attention.",
+    "notification": {
+      "title": "How to Escape from a Mountain Lion",
+      "body": "Do not run."
+    },
+    "step_count": 5,
+    "image_count": 2,
+    "thumbnail": "images/12-how-to-escape-from-a-mountain-lion/01.png",
+    "pdf_pages": [
+      56,
+      58
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "13-how-to-wrestle-free-from-an-alligator",
+    "title": "How to Wrestle Free from an Alligator",
+    "chapter": "The Best Defense",
+    "short_description": "If you are on land, try to get on the alligator's back and put downward pressure on its neck. This will force its head and jaws down.",
+    "notification": {
+      "title": "How to Wrestle Free from an Alligator",
+      "body": "If you are on land, try to get on the alligator's back and put downward pressure on its neck. This will force its head…"
+    },
+    "step_count": 0,
+    "image_count": 1,
+    "thumbnail": "images/13-how-to-wrestle-free-from-an-alligator/01.png",
+    "pdf_pages": [
+      59,
+      61
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "14-how-to-escape-from-killer-bees",
+    "title": "How to Escape from Killer Bees",
+    "chapter": "The Best Defense",
+    "short_description": "If bees begin flying around and/or stinging you, do not freeze. Run away; swatting at the bees only makes them angrier.",
+    "notification": {
+      "title": "How to Escape from Killer Bees",
+      "body": "If bees begin flying around and/or stinging you, do not freeze. Run away; swatting at the bees only makes them angrier."
+    },
+    "step_count": 0,
+    "image_count": 2,
+    "thumbnail": "images/14-how-to-escape-from-killer-bees/01.png",
+    "pdf_pages": [
+      62,
+      65
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "15-how-to-deal-with-a-charging-bull",
+    "title": "How to Deal with a Charging Bull",
+    "chapter": "The Best Defense",
+    "short_description": "Bulls will generally leave humans alone unless they become angry.",
+    "notification": {
+      "title": "How to Deal with a Charging Bull",
+      "body": "Do not antagonize the bull, and do not move."
+    },
+    "step_count": 4,
+    "image_count": 1,
+    "thumbnail": "images/15-how-to-deal-with-a-charging-bull/01.png",
+    "pdf_pages": [
+      66,
+      67
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "16-how-to-win-a-sword-fight",
+    "title": "How to Win a Sword Fight",
+    "chapter": "The Best Defense",
+    "short_description": "Always keep your sword in the \"ready\" position—held in front of you, with both hands, and perpendicular to the ground. With this method…",
+    "notification": {
+      "title": "How to Win a Sword Fight",
+      "body": "Step up and into the blow, with your arms held against your body."
+    },
+    "step_count": 4,
+    "image_count": 2,
+    "thumbnail": "images/16-how-to-win-a-sword-fight/01.png",
+    "pdf_pages": [
+      68,
+      70
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "17-how-to-take-a-punch",
+    "title": "How to Take a Punch",
+    "chapter": "The Best Defense",
+    "short_description": "Tighten your stomach muscles. A body blow to the gut (solar plexus) can damage organs and kill. This sort of punch is one of the best and…",
+    "notification": {
+      "title": "How to Take a Punch",
+      "body": "Do not suck in your stomach if you expect that a punch is imminent."
+    },
+    "step_count": 4,
+    "image_count": 2,
+    "thumbnail": "images/17-how-to-take-a-punch/01.png",
+    "pdf_pages": [
+      71,
+      74
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "18-how-to-jump-from-a-bridge-or-cliff-into-a-river",
+    "title": "How to Jump from a Bridge or Cliff into a River",
+    "chapter": "Leaps of Faith",
+    "short_description": "When attempting a high fall (over twenty feet) into water in an emergency situation, you will not know much about your surroundings…",
+    "notification": {
+      "title": "How to Jump from a Bridge or Cliff into a River",
+      "body": "Jump feet first."
+    },
+    "step_count": 4,
+    "image_count": 2,
+    "thumbnail": "images/18-how-to-jump-from-a-bridge-or-cliff-into-a-river/01.png",
+    "pdf_pages": [
+      76,
+      78
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "19-how-to-jump-from-a-building-into-a-dumpster",
+    "title": "How to Jump from a Building into a Dumpster",
+    "chapter": "Leaps of Faith",
+    "short_description": "Jump straight down. If you leap off and away from the building at an angle, your trajectory will make you miss the Dumpster. Resist your…",
+    "notification": {
+      "title": "How to Jump from a Building into a Dumpster",
+      "body": "Be Aware"
+    },
+    "step_count": 1,
+    "image_count": 2,
+    "thumbnail": "images/19-how-to-jump-from-a-building-into-a-dumpster/01.png",
+    "pdf_pages": [
+      79,
+      80
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "20-how-to-maneuver-on-top-of-a-moving-train-and-get-inside",
+    "title": "How to Maneuver on Top of a Moving Train and Get Inside",
+    "chapter": "Leaps of Faith",
+    "short_description": "Crouch low and move slowly forward, swaying with the side-to-side motion of the train.",
+    "notification": {
+      "title": "How to Maneuver on Top of a Moving Train and Get Inside",
+      "body": "Do not try to stand up straight (you probably will not be able to anyway)."
+    },
+    "step_count": 5,
+    "image_count": 1,
+    "thumbnail": "images/20-how-to-maneuver-on-top-of-a-moving-train-and-get-inside/01.png",
+    "pdf_pages": [
+      81,
+      83
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "21-how-to-jump-from-a-moving-car",
+    "title": "How to Jump from a Moving Car",
+    "chapter": "Leaps of Faith",
+    "short_description": "Hurling yourself from a moving car should be a last resort, for example if your brakes are defective and your car is about to head off a…",
+    "notification": {
+      "title": "How to Jump from a Moving Car",
+      "body": "Open the car door."
+    },
+    "step_count": 5,
+    "image_count": 1,
+    "thumbnail": "images/21-how-to-jump-from-a-moving-car/01.png",
+    "pdf_pages": [
+      84,
+      85
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "22-how-to-leap-from-a-motorcycle-to-a-car",
+    "title": "How to Leap from a Motorcycle to a Car",
+    "chapter": "Leaps of Faith",
+    "short_description": "If you are planning to enter the car through one of its windows, remember that in many newer cars, only the front windows roll all the way…",
+    "notification": {
+      "title": "How to Leap from a Motorcycle to a Car",
+      "body": "Wear a high-quality helmet and a leather jacket plus leather pants and boots."
+    },
+    "step_count": 9,
+    "image_count": 1,
+    "thumbnail": "images/22-how-to-leap-from-a-motorcycle-to-a-car/01.png",
+    "pdf_pages": [
+      86,
+      88
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "23-how-to-perform-a-tracheotomy",
+    "title": "How to Perform a Tracheotomy",
+    "chapter": "Emergencies",
+    "short_description": "This procedure, technically called a cricothyroidotomy, should be undertaken only when a person with a throat obstruction is not able to…",
+    "notification": {
+      "title": "How to Perform a Tracheotomy",
+      "body": "Adam's apple"
+    },
+    "step_count": 1,
+    "image_count": 4,
+    "thumbnail": "images/23-how-to-perform-a-tracheotomy/01.png",
+    "pdf_pages": [
+      90,
+      92
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "24-how-to-use-a-defibrillator-to-restore-a-heartbeat",
+    "title": "How to Use a Defibrillator to Restore a Heartbeat",
+    "chapter": "Emergencies",
+    "short_description": "Defibrillation is the delivery of a powerful electrical shock to the heart. (The defibrillator is the device used in movies and TV shows…",
+    "notification": {
+      "title": "How to Use a Defibrillator to Restore a Heartbeat",
+      "body": "Plug the pads into the connector."
+    },
+    "step_count": 3,
+    "image_count": 1,
+    "thumbnail": "images/24-how-to-use-a-defibrillator-to-restore-a-heartbeat/01.png",
+    "pdf_pages": [
+      93,
+      95
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "25-how-to-identify-a-bomb",
+    "title": "How to Identify a Bomb",
+    "chapter": "Emergencies",
+    "short_description": "Letter and package bombs can be very dangerous and destructive. However, unlike a bomb that goes off suddenly and with no warning, they can…",
+    "notification": {
+      "title": "How to Identify a Bomb",
+      "body": "If a carrier delivers an unexpected bulky letter or parcel, inspect it for lumps, bulges, or protrusions, without…"
+    },
+    "step_count": 13,
+    "image_count": 1,
+    "thumbnail": "images/25-how-to-identify-a-bomb/01.png",
+    "pdf_pages": [
+      96,
+      100
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "26-how-to-deliver-a-baby-in-a-taxicab",
+    "title": "How to Deliver a Baby in a Taxicab",
+    "chapter": "Emergencies",
+    "short_description": "Before you attempt to deliver a baby, use your best efforts to get to a hospital first. There really is no way to know exactly when the…",
+    "notification": {
+      "title": "How to Deliver a Baby in a Taxicab",
+      "body": "Time the uterine contractions."
+    },
+    "step_count": 5,
+    "image_count": 2,
+    "thumbnail": "images/26-how-to-deliver-a-baby-in-a-taxicab/01.png",
+    "pdf_pages": [
+      101,
+      104
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "27-how-to-treat-frostbite",
+    "title": "How to Treat Frostbite",
+    "chapter": "Emergencies",
+    "short_description": "Frostbite is a condition caused by the freezing of water molecules in skin cells and occurs in very cold temperatures. It is characterized…",
+    "notification": {
+      "title": "How to Treat Frostbite",
+      "body": "Apply sterile dressings to the affected areas."
+    },
+    "step_count": 6,
+    "image_count": 1,
+    "thumbnail": "images/27-how-to-treat-frostbite/01.png",
+    "pdf_pages": [
+      105,
+      107
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "28-how-to-treat-a-leg-fracture",
+    "title": "How to Treat a Leg Fracture",
+    "chapter": "Emergencies",
+    "short_description": "Most leg injuries are only sprains, but the treatment for both sprains and fractures is the same.",
+    "notification": {
+      "title": "How to Treat a Leg Fracture",
+      "body": "If skin is broken, do not touch or put anything on the wound."
+    },
+    "step_count": 6,
+    "image_count": 4,
+    "thumbnail": "images/28-how-to-treat-a-leg-fracture/01.png",
+    "pdf_pages": [
+      108,
+      110
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "29-how-to-treat-a-bullet-or-knife-wound",
+    "title": "How to Treat a Bullet or Knife Wound",
+    "chapter": "Emergencies",
+    "short_description": "LIMB ELEVATION. When a wound is in an extremity, elevation of the extremity above the heart, in addition to direct pressure, may reduce the…",
+    "notification": {
+      "title": "How to Treat a Bullet or Knife Wound",
+      "body": "Do not immediately pull out any impaled objects."
+    },
+    "step_count": 4,
+    "image_count": 2,
+    "thumbnail": "images/29-how-to-treat-a-bullet-or-knife-wound/01.png",
+    "pdf_pages": [
+      111,
+      114
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "30-how-to-land-a-plane",
+    "title": "How to Land a Plane",
+    "chapter": "Adventure Survival",
+    "short_description": "These instructions cover small passenger planes and jets (not commercial airliners).",
+    "notification": {
+      "title": "How to Land a Plane",
+      "body": "If the plane has only one set of controls, push, pull, carry, or drag the pilot out of the pilot's seat."
+    },
+    "step_count": 13,
+    "image_count": 1,
+    "thumbnail": "images/30-how-to-land-a-plane/01.png",
+    "pdf_pages": [
+      116,
+      121
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "31-how-to-survive-an-earthquake",
+    "title": "How to Survive an Earthquake",
+    "chapter": "Adventure Survival",
+    "short_description": "NOT near windows NOT near fireplace",
+    "notification": {
+      "title": "How to Survive an Earthquake",
+      "body": "If you are indoors, stay there!"
+    },
+    "step_count": 10,
+    "image_count": 1,
+    "thumbnail": "images/31-how-to-survive-an-earthquake/01.png",
+    "pdf_pages": [
+      122,
+      126
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "32-how-to-survive-adrift-at-sea",
+    "title": "How to Survive Adrift at Sea",
+    "chapter": "Adventure Survival",
+    "short_description": "get into a life raft. In a maritime emergency, the rule of thumb is that you should step up into your raft, meaning you should be up to…",
+    "notification": {
+      "title": "How to Survive Adrift at Sea",
+      "body": "Stay aboard your boat as long as possible before you"
+    },
+    "step_count": 10,
+    "image_count": 3,
+    "thumbnail": "images/32-how-to-survive-adrift-at-sea/01.png",
+    "pdf_pages": [
+      127,
+      130
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "33-how-to-survive-when-lost-in-the-desert",
+    "title": "How to Survive When Lost in the Desert",
+    "chapter": "Adventure Survival",
+    "short_description": "In a clearing, you can use newspaper or aluminum foil weighed down with rocks to make a large triangle; this is the international distress…",
+    "notification": {
+      "title": "How to Survive When Lost in the Desert",
+      "body": "Do not panic, especially if people know where you are and when you are scheduled to return."
+    },
+    "step_count": 8,
+    "image_count": 3,
+    "thumbnail": "images/33-how-to-survive-when-lost-in-the-desert/01.png",
+    "pdf_pages": [
+      131,
+      138
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "34-how-to-survive-if-your-parachute-fails-to-open",
+    "title": "How to Survive if Your Parachute Fails to Open",
+    "chapter": "Adventure Survival",
+    "short_description": "As soon as you realize that your chute is bad, signal to a jumping companion whose chute has not yet opened that you are having a…",
+    "notification": {
+      "title": "How to Survive if Your Parachute Fails to Open",
+      "body": "Open the chute."
+    },
+    "step_count": 2,
+    "image_count": 1,
+    "thumbnail": "images/34-how-to-survive-if-your-parachute-fails-to-open/01.png",
+    "pdf_pages": [
+      139,
+      141
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "35-how-to-survive-an-avalanche",
+    "title": "How to Survive an Avalanche",
+    "chapter": "Adventure Survival",
+    "short_description": "The snow in an avalanche is like a wet snowball: it is not light and powdery, and once you are buried, it is very difficult to dig your way…",
+    "notification": {
+      "title": "How to Survive an Avalanche",
+      "body": "Struggle to stay on top of the snow by using a freestyle swimming motion."
+    },
+    "step_count": 5,
+    "image_count": 1,
+    "thumbnail": "images/35-how-to-survive-an-avalanche/01.png",
+    "pdf_pages": [
+      142,
+      144
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "36-how-to-survive-if-you-are-in-the-line-of-gunfire",
+    "title": "How to Survive if You Are in the Line of Gunfire",
+    "chapter": "Adventure Survival",
+    "short_description": "Get as far away as possible. An untrained shooter isn't likely to be accurate at any distance greater than sixty feet.",
+    "notification": {
+      "title": "How to Survive if You Are in the Line of Gunfire",
+      "body": "Do not bother to count shots."
+    },
+    "step_count": 5,
+    "image_count": 3,
+    "thumbnail": "images/36-how-to-survive-if-you-are-in-the-line-of-gunfire/01.png",
+    "pdf_pages": [
+      145,
+      147
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "37-how-to-survive-when-lost-in-the-mountains",
+    "title": "How to Survive When Lost in the Mountains",
+    "chapter": "Adventure Survival",
+    "short_description": "The number one cause of death when lost in the mountains is hypothermia—humans are basically tropical animals. Staying calm in the face of…",
+    "notification": {
+      "title": "How to Survive When Lost in the Mountains",
+      "body": "Do not panic."
+    },
+    "step_count": 5,
+    "image_count": 1,
+    "thumbnail": "images/37-how-to-survive-when-lost-in-the-mountains/01.png",
+    "pdf_pages": [
+      148,
+      151
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "38-how-to-make-fire-without-matches",
+    "title": "How to Make Fire Without Matches",
+    "chapter": "Adventure Survival",
+    "short_description": "(enlargement of V-shaped notch)",
+    "notification": {
+      "title": "How to Make Fire Without Matches",
+      "body": "spindle"
+    },
+    "step_count": 2,
+    "image_count": 4,
+    "thumbnail": "images/38-how-to-make-fire-without-matches/01.png",
+    "pdf_pages": [
+      152,
+      156
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "39-how-to-avoid-being-struck-by-lightning",
+    "title": "How to Avoid Being Struck by Lightning",
+    "chapter": "Adventure Survival",
+    "short_description": "Lightning causes more casualties annually in the U.S. than any other storm-related phenomenon except floods. No place is completely safe…",
+    "notification": {
+      "title": "How to Avoid Being Struck by Lightning",
+      "body": "Loud or frequent thunder indicates that lightning activity is approaching."
+    },
+    "step_count": 7,
+    "image_count": 2,
+    "thumbnail": "images/39-how-to-avoid-being-struck-by-lightning/01.png",
+    "pdf_pages": [
+      157,
+      161
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "40-how-to-get-to-the-surface-if-your-scuba-tank-runs-out-of-air",
+    "title": "How to Get to the Surface if Your Scuba Tank Runs Out of Air",
+    "chapter": "Adventure Survival",
+    "short_description": "Take two breaths, then pass it back to the other diver. Ascend together, exhaling as you go. Then take another two breaths, alternating…",
+    "notification": {
+      "title": "How to Get to the Surface if Your Scuba Tank Runs Out of Air",
+      "body": "Do not panic."
+    },
+    "step_count": 6,
+    "image_count": 1,
+    "thumbnail": "images/40-how-to-get-to-the-surface-if-your-scuba-tank-runs-out-of-air/01.png",
+    "pdf_pages": [
+      162,
+      164
+    ]
+  }
+]

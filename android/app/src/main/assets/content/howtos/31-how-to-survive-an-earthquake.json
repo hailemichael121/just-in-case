@@ -1,0 +1,204 @@
+{
+  "id": 31,
+  "slug": "31-how-to-survive-an-earthquake",
+  "title": "How to Survive an Earthquake",
+  "chapter": "Adventure Survival",
+  "pdf_pages": [
+    122,
+    126
+  ],
+  "short_description": "NOT near windows NOT near fireplace",
+  "notification": {
+    "title": "How to Survive an Earthquake",
+    "body": "If you are indoors, stay there!"
+  },
+  "step_count": 10,
+  "image_count": 1,
+  "thumbnail": "images/31-how-to-survive-an-earthquake/01.png",
+  "content": [
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "If you are indoors, stay there!",
+      "text": "If you are indoors, stay there! Get under a desk or table and hang on to it, or move into a doorway; the next best place is in a hallway or against an inside wall. Stay clear of windows, fireplaces, and heavy furniture or appliances. Get out of the kitchen, which is a dangerous place. Do not run downstairs or rush outside while the building is shaking or while there is danger of falling and hurting yourself or being hit by falling glass or debris.",
+      "page": 122
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "If you are outside, get into the open, away from buildings, power lines, chimneys, and anything else that might fall on you.",
+      "text": "If you are outside, get into the open, away from buildings, power lines, chimneys, and anything else that might fall on you.",
+      "page": 122
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "If you are driving, stop, but carefully.",
+      "text": "If you are driving, stop, but carefully. Move your car as far out of traffic as possible. Do not stop on or under a bridge or overpass or under trees, light posts, power lines, or signs. Stay inside your car until the shaking stops. When you resume driving watch for breaks in the pavement, fallen rocks, and bumps in the road at bridge approaches.",
+      "page": 122
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "If you are in a mountainous area, watch out for falling rocks, landslides, trees, and other debris that could be loosened by quakes.",
+      "text": "If you are in a mountainous area, watch out for falling rocks, landslides, trees, and other debris that could be loosened by quakes.",
+      "page": 122
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "Places to take shelter and to avoid",
+      "text": "Places to take shelter and to avoid",
+      "page": 123
+    },
+    {
+      "type": "paragraph",
+      "text": "NOT near windows NOT near fireplace",
+      "page": 123
+    },
+    {
+      "type": "image",
+      "file": "images/31-how-to-survive-an-earthquake/01.png",
+      "page": 123,
+      "caption": null,
+      "width_px": 609,
+      "height_px": 937
+    },
+    {
+      "type": "paragraph",
+      "text": "NOT in kitchen",
+      "page": 123
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "After the quake stops, check for injuries and apply the necessary first aid or seek help.",
+      "text": "After the quake stops, check for injuries and apply the necessary first aid or seek help. Do not attempt to move seriously injured persons unless they are in further danger of injury. Cover them with blankets and seek medical help for serious injuries.",
+      "page": 124
+    },
+    {
+      "type": "step",
+      "number": 7,
+      "headline": "If you can, put on a pair of sturdy thick-soled shoes (in case you step on broken glass, debris, etc.).",
+      "text": "If you can, put on a pair of sturdy thick-soled shoes (in case you step on broken glass, debris, etc.).",
+      "page": 124
+    },
+    {
+      "type": "step",
+      "number": 8,
+      "headline": "Check for hazards.",
+      "text": "Check for hazards.",
+      "page": 124
+    },
+    {
+      "type": "bullet",
+      "text": "Put out fires in your home or neighborhood immediately.",
+      "page": 124
+    },
+    {
+      "type": "bullet",
+      "text": "Gas leaks: shut off main gas valve only if you suspect a leak because of broken pipes or odor. Do not use matches, lighters, camp stoves or barbecues, electrical equipment, or appliances until you are sure there are no gas leaks. They may create a spark that could ignite leaking gas and cause an explosion and fire. Do not turn on the gas again if you turned it off—let the gas company do it.",
+      "page": 124
+    },
+    {
+      "type": "bullet",
+      "text": "Damaged electrical wiring: shut off power at the control box if there is any danger to house wiring.",
+      "page": 124
+    },
+    {
+      "type": "bullet",
+      "text": "Downed or damaged utility lines: do not touch downed power lines or any objects in contact with them.",
+      "page": 124
+    },
+    {
+      "type": "bullet",
+      "text": "Spills: clean up any spilled medicines, drugs, or other harmful materials such as bleach, lye, or gas.",
+      "page": 124
+    },
+    {
+      "type": "bullet",
+      "text": "Downed or damaged chimneys: approach with caution and do not use a damaged chimney (it could start a fire or let poisonous gases into your house).",
+      "page": 125
+    },
+    {
+      "type": "bullet",
+      "text": "Fallen items: beware of items tumbling off shelves when you open closet and cupboard doors.",
+      "page": 125
+    },
+    {
+      "type": "step",
+      "number": 9,
+      "headline": "Check food and water supplies.",
+      "text": "Check food and water supplies. Do not eat or drink anything from open containers near shattered glass. If the power is off, plan meals to use up frozen foods or foods that will spoil quickly. Food in the freezer should be good for at least a couple of days. If the water is off you can drink from water heaters, melted ice cubes, or canned vegetables. Avoid drinking water from swimming pools and spas.",
+      "page": 125
+    },
+    {
+      "type": "step",
+      "number": 10,
+      "headline": "Be prepared for aftershocks.",
+      "text": "Be prepared for aftershocks. Another quake, larger or smaller, may follow.",
+      "page": 125
+    },
+    {
+      "type": "heading",
+      "text": "Be Aware",
+      "page": 125
+    },
+    {
+      "type": "heading",
+      "text": "Use your telephone only for a medical or fire emergency—you could tie up the lines needed for emergency response. If the phone doesn't work, send someone for help.",
+      "page": 125
+    },
+    {
+      "type": "heading",
+      "text": "Do not expect firefighters, police, or paramedics to help you immediately. They may not be available.",
+      "page": 125
+    },
+    {
+      "type": "heading",
+      "text": "How to Prepare",
+      "page": 126
+    },
+    {
+      "type": "paragraph",
+      "text": "Being prepared for an earthquake is the best way to survive one. Make sure each member of the household knows what to do no matter where they are when a quake occurs:",
+      "page": 126
+    },
+    {
+      "type": "bullet",
+      "text": "Establish a meeting place where you can reunite afterward.",
+      "page": 126
+    },
+    {
+      "type": "bullet",
+      "text": "Find out about earthquake plans developed by your children's school or day care.",
+      "page": 126
+    },
+    {
+      "type": "bullet",
+      "text": "Transportation may be disrupted, so keep emergency supplies—food, liquids, and comfortable shoes, for example—at work.",
+      "page": 126
+    },
+    {
+      "type": "bullet",
+      "text": "Know where your gas, electric, and water main shu toffs are and how to turn them off if there is a leak or electrical short. Make sure older members of the family can shut off utilities.",
+      "page": 126
+    },
+    {
+      "type": "bullet",
+      "text": "Locate your nearest fire and police stations and emergency medical facility.",
+      "page": 126
+    },
+    {
+      "type": "bullet",
+      "text": "Talk to your neighbors—you can help one another during and after an earthquake.",
+      "page": 126
+    },
+    {
+      "type": "bullet",
+      "text": "Take Red Cross first aid and CPR training courses.",
+      "page": 126
+    }
+  ],
+  "full_text": "If you are indoors, stay there! Get under a desk or table and hang on to it, or move into a doorway; the next best place is in a hallway or against an inside wall. Stay clear of windows, fireplaces, and heavy furniture or appliances. Get out of the kitchen, which is a dangerous place. Do not run downstairs or rush outside while the building is shaking or while there is danger of falling and hurting yourself or being hit by falling glass or debris.\nIf you are outside, get into the open, away from buildings, power lines, chimneys, and anything else that might fall on you.\nIf you are driving, stop, but carefully. Move your car as far out of traffic as possible. Do not stop on or under a bridge or overpass or under trees, light posts, power lines, or signs. Stay inside your car until the shaking stops. When you resume driving watch for breaks in the pavement, fallen rocks, and bumps in the road at bridge approaches.\nIf you are in a mountainous area, watch out for falling rocks, landslides, trees, and other debris that could be loosened by quakes.\nPlaces to take shelter and to avoid\nNOT near windows NOT near fireplace\nNOT in kitchen\nAfter the quake stops, check for injuries and apply the necessary first aid or seek help. Do not attempt to move seriously injured persons unless they are in further danger of injury. Cover them with blankets and seek medical help for serious injuries.\nIf you can, put on a pair of sturdy thick-soled shoes (in case you step on broken glass, debris, etc.).\nCheck for hazards.\nPut out fires in your home or neighborhood immediately.\nGas leaks: shut off main gas valve only if you suspect a leak because of broken pipes or odor. Do not use matches, lighters, camp stoves or barbecues, electrical equipment, or appliances until you are sure there are no gas leaks. They may create a spark that could ignite leaking gas and cause an explosion and fire. Do not turn on the gas again if you turned it off—let the gas company do it.\nDamaged electrical wiring: shut off power at the control box if there is any danger to house wiring.\nDowned or damaged utility lines: do not touch downed power lines or any objects in contact with them.\nSpills: clean up any spilled medicines, drugs, or other harmful materials such as bleach, lye, or gas.\nDowned or damaged chimneys: approach with caution and do not use a damaged chimney (it could start a fire or let poisonous gases into your house).\nFallen items: beware of items tumbling off shelves when you open closet and cupboard doors.\nCheck food and water supplies. Do not eat or drink anything from open containers near shattered glass. If the power is off, plan meals to use up frozen foods or foods that will spoil quickly. Food in the freezer should be good for at least a couple of days. If the water is off you can drink from water heaters, melted ice cubes, or canned vegetables. Avoid drinking water from swimming pools and spas.\nBe prepared for aftershocks. Another quake, larger or smaller, may follow.\nBe Aware\nUse your telephone only for a medical or fire emergency—you could tie up the lines needed for emergency response. If the phone doesn't work, send someone for help.\nDo not expect firefighters, police, or paramedics to help you immediately. They may not be available.\nHow to Prepare\nBeing prepared for an earthquake is the best way to survive one. Make sure each member of the household knows what to do no matter where they are when a quake occurs:\nEstablish a meeting place where you can reunite afterward.\nFind out about earthquake plans developed by your children's school or day care.\nTransportation may be disrupted, so keep emergency supplies—food, liquids, and comfortable shoes, for example—at work.\nKnow where your gas, electric, and water main shu toffs are and how to turn them off if there is a leak or electrical short. Make sure older members of the family can shut off utilities.\nLocate your nearest fire and police stations and emergency medical facility.\nTalk to your neighbors—you can help one another during and after an earthquake.\nTake Red Cross first aid and CPR training courses."
+}

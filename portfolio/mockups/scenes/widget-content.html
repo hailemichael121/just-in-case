@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>widget content</title>
+<link rel="stylesheet" href="../tokens.css">
+<style>
+  body { width: 676px; height: 182px; }
+  .stage { width: 100%; height: 100%; padding: 18px; display: flex; align-items: center; justify-content: center; gap: 14px; }
+  .widget { width: 204px; height: 140px; border-radius: 22px; padding: 13px 14px; }
+  .widget-title { font-size: 16px; }
+  .widget-desc { font-size: 8.5px; }
+  .widget--image .widget-copy { display: none; }
+  .widget--image .widget-art { width: 100%; flex: 1; margin: 0; }
+</style>
+</head>
+<body>
+  <div class="stage">
+    <article class="widget">
+      <div class="widget-brand"><img src="../../assets/mark-white.svg" alt="">Today</div>
+      <h2 class="widget-title">How to Fend Off a Shark</h2>
+      <p class="widget-desc">Hit back at the eyes or gills. Do not play dead; a shark reads stillness as prey.</p>
+    </article>
+
+    <article class="widget">
+      <div class="widget-row">
+        <div class="widget-copy">
+          <div class="widget-brand"><img src="../../assets/mark-white.svg" alt="">Today</div>
+          <h2 class="widget-title">How to Fend Off a Shark</h2>
+          <p class="widget-desc">Hit back at the eyes or gills…</p>
+        </div>
+        <div class="widget-art"><img src="../art/shark.svg" alt=""></div>
+      </div>
+    </article>
+
+    <article class="widget widget--image">
+      <div class="widget-row" style="height: 100%">
+        <div class="widget-copy"></div>
+        <div class="widget-art"><img src="../art/shark.svg" alt=""></div>
+      </div>
+    </article>
+  </div>
+</body>
+</html>

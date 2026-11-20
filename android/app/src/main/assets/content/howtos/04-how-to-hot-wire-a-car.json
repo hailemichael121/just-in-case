@@ -1,0 +1,108 @@
+{
+  "id": 4,
+  "slug": "04-how-to-hot-wire-a-car",
+  "title": "How to Hot-Wire a Car",
+  "chapter": "Great Escapes and Entrances",
+  "pdf_pages": [
+    30,
+    32
+  ],
+  "short_description": "Hot-wiring a car without the owner's permission is illegal, except in repossessions. Hot-wiring can be dangerous; there is a risk of…",
+  "notification": {
+    "title": "How to Hot-Wire a Car",
+    "body": "Open the hood."
+  },
+  "step_count": 3,
+  "image_count": 2,
+  "thumbnail": "images/04-how-to-hot-wire-a-car/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Hot-wiring a car without the owner's permission is illegal, except in repossessions. Hot-wiring can be dangerous; there is a risk of electrical shock. Hotwiring will not work on all cars, particularly cars with security devices. Some \"kill switches\" can prevent hot-wiring.",
+      "page": 30
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Open the hood.",
+      "text": "Open the hood.",
+      "page": 30
+    },
+    {
+      "type": "paragraph",
+      "text": "Locate the coil wire (it is red). To find it, follow the plug wires, which lead to the coil wire. The plug and coil wires are located at the rear of the engine on most V-8s. On six-cylinder engines, the wires are on the left side near the center of the engine, and on four-cylinder engines, they are located on the right side near the center of the engine.",
+      "page": 30
+    },
+    {
+      "type": "paragraph",
+      "text": "Run a wire from the positive (+) side of the battery to the positive side of the coil, or the red wire that goes to the coil. This step gives power to the dash, and the car will not run unless it is performed first.",
+      "page": 30
+    },
+    {
+      "type": "paragraph",
+      "text": "Locate the starter solenoid. On most GM cars, it is on the starter. On Fords, it is located on the left-side (passenger-side) fender well.",
+      "page": 30
+    },
+    {
+      "type": "image",
+      "file": "images/04-how-to-hot-wire-a-car/01.png",
+      "page": 31,
+      "caption": "Run a wire from the positive (+) side of the battery to the red coil wire.",
+      "width_px": 607,
+      "height_px": 709
+    },
+    {
+      "type": "paragraph",
+      "text": "to positive battery cable",
+      "page": 31
+    },
+    {
+      "type": "caption",
+      "text": "Cross the terminals with a screwdriver or pliers (Ford).",
+      "page": 31
+    },
+    {
+      "type": "paragraph",
+      "text": "An easy way to find it is to follow the positive battery cable. You will see a small wire and the positive battery cable. Cross the two with a screwdriver or pliers. This cranks the engine.",
+      "page": 31
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlocking the Steering Wheel",
+      "page": 32
+    },
+    {
+      "type": "image",
+      "file": "images/04-how-to-hot-wire-a-car/02.png",
+      "page": 32,
+      "caption": null,
+      "width_px": 417,
+      "height_px": 450
+    },
+    {
+      "type": "caption",
+      "text": "Place screwdriver at top center of steering column.",
+      "page": 32
+    },
+    {
+      "type": "paragraph",
+      "text": "GM solenoid",
+      "page": 32
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "If the car has a standard transmission, make sure it is in neutral and the parking brake is on.",
+      "text": "If the car has a standard transmission, make sure it is in neutral and the parking brake is on. If it has an automatic transmission, make sure it is in park.",
+      "page": 32
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Unlock the steering wheel using a flat blade screwdriver.",
+      "text": "Unlock the steering wheel using a flat blade screwdriver. Take the screwdriver and place it at the top center of the steering column. Push the screwdriver between the steering wheel and the column. Push the locking pin away from the wheel. Be very firm when pushing the pin; it will not break.",
+      "page": 32
+    }
+  ],
+  "full_text": "Hot-wiring a car without the owner's permission is illegal, except in repossessions. Hot-wiring can be dangerous; there is a risk of electrical shock. Hotwiring will not work on all cars, particularly cars with security devices. Some \"kill switches\" can prevent hot-wiring.\nOpen the hood.\nLocate the coil wire (it is red). To find it, follow the plug wires, which lead to the coil wire. The plug and coil wires are located at the rear of the engine on most V-8s. On six-cylinder engines, the wires are on the left side near the center of the engine, and on four-cylinder engines, they are located on the right side near the center of the engine.\nRun a wire from the positive (+) side of the battery to the positive side of the coil, or the red wire that goes to the coil. This step gives power to the dash, and the car will not run unless it is performed first.\nLocate the starter solenoid. On most GM cars, it is on the starter. On Fords, it is located on the left-side (passenger-side) fender well.\nto positive battery cable\nCross the terminals with a screwdriver or pliers (Ford).\nAn easy way to find it is to follow the positive battery cable. You will see a small wire and the positive battery cable. Cross the two with a screwdriver or pliers. This cranks the engine.\nUnlocking the Steering Wheel\nPlace screwdriver at top center of steering column.\nGM solenoid\nIf the car has a standard transmission, make sure it is in neutral and the parking brake is on. If it has an automatic transmission, make sure it is in park.\nUnlock the steering wheel using a flat blade screwdriver. Take the screwdriver and place it at the top center of the steering column. Push the screwdriver between the steering wheel and the column. Push the locking pin away from the wheel. Be very firm when pushing the pin; it will not break."
+}

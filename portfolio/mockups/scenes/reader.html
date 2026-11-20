@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>reader</title>
+<link rel="stylesheet" href="../tokens.css">
+<style>
+  body { width: 390px; height: 844px; }
+  .reader { height: 100%; display: flex; flex-direction: column; }
+  .reader-title { font-size: 34px; }
+  .reader-cover { padding: 10px; }
+  .reader-cover img { height: 86px; object-fit: contain; filter: invert(1); }
+  .reader-subhead { margin-top: 14px; }
+  .step { padding: 9px 0; }
+</style>
+</head>
+<body>
+  <div class="reader">
+    <div class="reader-bar">
+      <span class="round" aria-hidden="true">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M15 5l-7 7 7 7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <span class="round" aria-hidden="true">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z" stroke="currentColor" stroke-width="1.6"/></svg>
+      </span>
+    </div>
+
+    <div class="reader-scroll">
+      <span class="reader-kicker"><i></i>Emergencies</span>
+      <h1 class="reader-title">How to Deal with a Downed Power Line</h1>
+      <p class="reader-lede">Assume every line is live. The ground around it can carry current further than it looks.</p>
+      <p class="reader-meta"><span>6 steps</span><span>·</span><span>1 drawing</span><span>·</span><span>2 min read</span></p>
+
+      <figure class="reader-cover"><img src="../art/powerline.svg" alt=""></figure>
+
+      <h2 class="reader-subhead">In short</h2>
+      <div class="keys">
+        <div class="key"><b>01</b>Stop and look for the cable.</div>
+        <div class="key"><b>02</b>Keep both feet together.</div>
+        <div class="key"><b>03</b>Shuffle, do not step.</div>
+      </div>
+
+      <h2 class="reader-subhead">Steps</h2>
+      <div class="step"><b>01</b><p>Stop walking. Look for the cable and anything it is touching.</p></div>
+      <div class="step"><b>02</b><p>Keep your feet close together, and shuffle away from the line.</p></div>
+      <div class="step"><b>03</b><p>Do not touch a car, fence or person that may be in contact.</p></div>
+      <div class="step"><b>04</b><p>Call the emergency services once you are clear.</p></div>
+    </div>
+  </div>
+</body>
+</html>

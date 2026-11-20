@@ -1,0 +1,220 @@
+{
+  "id": 11,
+  "slug": "11-how-to-escape-from-a-bear",
+  "title": "How to Escape from a Bear",
+  "chapter": "The Best Defense",
+  "pdf_pages": [
+    52,
+    55
+  ],
+  "short_description": "Documented attacks show that an attack by a mother black bear often ends when the person stops fighting.",
+  "notification": {
+    "title": "How to Escape from a Bear",
+    "body": "Lie still and quiet."
+  },
+  "step_count": 5,
+  "image_count": 3,
+  "thumbnail": "images/11-how-to-escape-from-a-bear/01.png",
+  "content": [
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Lie still and quiet.",
+      "text": "Lie still and quiet.",
+      "page": 52
+    },
+    {
+      "type": "paragraph",
+      "text": "Documented attacks show that an attack by a mother black bear often ends when the person stops fighting.",
+      "page": 52
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Stay where you are and do not climb a tree to escape a bear.",
+      "text": "Stay where you are and do not climb a tree to escape a bear.",
+      "page": 52
+    },
+    {
+      "type": "paragraph",
+      "text": "Black bears can climb trees quickly and easily and will come after you. The odds are that the bear will leave you alone if you stay put.",
+      "page": 52
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "If you are lying still and the bear attacks, strike back with anything you can.",
+      "text": "If you are lying still and the bear attacks, strike back with anything you can.",
+      "page": 52
+    },
+    {
+      "type": "paragraph",
+      "text": "Go for the bear's eyes or its snout.",
+      "page": 52
+    },
+    {
+      "type": "heading",
+      "text": "What to Do if You See a Bear",
+      "page": 52
+    },
+    {
+      "type": "paragraph",
+      "text": "Make your presence known by talking loudly, clapping, singing, or occasionally calling out. (Some people prefer to wear bells.) Whatever you do, be heard—it does not pay to surprise a bear. Remember, bears can run much faster than humans. Keep children close at hand and within sight. There is no guaranteed minimum safe distance from a bear: the farther, the better. If you are in a car, remain in your vehicle. Do not get out, even for a quick photo. Keep your windows up. Do not impede the bear from crossing the road.",
+      "page": 52
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "While all bears are dangerous, these three situations render even more of a threat.",
+      "text": "While all bears are dangerous, these three situations render even more of a threat.",
+      "page": 53
+    },
+    {
+      "type": "image",
+      "file": "images/11-how-to-escape-from-a-bear/01.png",
+      "page": 53,
+      "caption": null,
+      "width_px": 300,
+      "height_px": 227
+    },
+    {
+      "type": "paragraph",
+      "text": "Females protecting cubs",
+      "page": 53
+    },
+    {
+      "type": "image",
+      "file": "images/11-how-to-escape-from-a-bear/02.png",
+      "page": 53,
+      "caption": null,
+      "width_px": 370,
+      "height_px": 198
+    },
+    {
+      "type": "paragraph",
+      "text": "Bears habituated to human food.",
+      "page": 53
+    },
+    {
+      "type": "image",
+      "file": "images/11-how-to-escape-from-a-bear/03.png",
+      "page": 53,
+      "caption": null,
+      "width_px": 290,
+      "height_px": 200
+    },
+    {
+      "type": "paragraph",
+      "text": "Bears defending a fresh kill.",
+      "page": 53
+    },
+    {
+      "type": "heading",
+      "text": "How to Avoid an Attack",
+      "page": 54
+    },
+    {
+      "type": "bullet",
+      "text": "Reduce or eliminate food odors from yourself, your camp, your clothes, and your vehicle.",
+      "page": 54
+    },
+    {
+      "type": "bullet",
+      "text": "Do not sleep in the same clothes you cook in.",
+      "page": 54
+    },
+    {
+      "type": "bullet",
+      "text": "Store food so that bears cannot smell or reach it.",
+      "page": 54
+    },
+    {
+      "type": "bullet",
+      "text": "Do not keep food in your tent—not even a chocolate bar.",
+      "page": 54
+    },
+    {
+      "type": "bullet",
+      "text": "Properly store and bring out all garbage.",
+      "page": 54
+    },
+    {
+      "type": "bullet",
+      "text": "Handle and store pet food with as much care as your own.",
+      "page": 54
+    },
+    {
+      "type": "bullet",
+      "text": "While all bears should be considered dangerous and should be avoided, three types should be regarded as more dangerous than the average bear. These are: Females defending cubs. Bears habituated to human food. Bears defending a fresh kill.",
+      "page": 54
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "Be Aware",
+      "text": "Be Aware",
+      "page": 54
+    },
+    {
+      "type": "paragraph",
+      "text": "There are about 650,000 black bears in North America, and only one person every three years is killed by a bear—although there are hundreds of thousands of encounters. Most bears in the continental U.S. are black bears, but black bears are not always black in color: sometimes their fur is brown or blond. Males are generally bigger than females (125 to 500 pounds for males, 90 to 300 pounds for females).",
+      "page": 54
+    },
+    {
+      "type": "bullet",
+      "text": "Bears can run as fast as horses, uphill or downhill.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "Bears can climb trees, although black bears are better tree-climbers than grizzly bears.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "Bears have excellent senses of smell and hearing.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "Bears are extremely strong. They can tear cars apart looking for food.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "Every bear defends a \"personal space.\" The extent of this space will vary with each bear and each situation; it may be a few meters or a few hundred meters. Intrusion into this space is considered a threat and may provoke an attack.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "Bears aggressively defend their food.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "All female bears defend their cubs. If a female with cubs is surprised at close range or is separated from her cubs, she may attack.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "An aggressive reaction to any danger to her cubs is the mother grizzly's natural defense.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "A female black bear's natural defense is to chase her cubs up a tree and defend them from the base.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "Stay away from dead animals. Bears may attack to defend such food.",
+      "page": 55
+    },
+    {
+      "type": "bullet",
+      "text": "It is best not to hike with dogs, as dogs can antagonize bears and cause an attack. An unleashed dog may even bring a bear back to you.",
+      "page": 55
+    }
+  ],
+  "full_text": "Lie still and quiet.\nDocumented attacks show that an attack by a mother black bear often ends when the person stops fighting.\nStay where you are and do not climb a tree to escape a bear.\nBlack bears can climb trees quickly and easily and will come after you. The odds are that the bear will leave you alone if you stay put.\nIf you are lying still and the bear attacks, strike back with anything you can.\nGo for the bear's eyes or its snout.\nWhat to Do if You See a Bear\nMake your presence known by talking loudly, clapping, singing, or occasionally calling out. (Some people prefer to wear bells.) Whatever you do, be heard—it does not pay to surprise a bear. Remember, bears can run much faster than humans. Keep children close at hand and within sight. There is no guaranteed minimum safe distance from a bear: the farther, the better. If you are in a car, remain in your vehicle. Do not get out, even for a quick photo. Keep your windows up. Do not impede the bear from crossing the road.\nWhile all bears are dangerous, these three situations render even more of a threat.\nFemales protecting cubs\nBears habituated to human food.\nBears defending a fresh kill.\nHow to Avoid an Attack\nReduce or eliminate food odors from yourself, your camp, your clothes, and your vehicle.\nDo not sleep in the same clothes you cook in.\nStore food so that bears cannot smell or reach it.\nDo not keep food in your tent—not even a chocolate bar.\nProperly store and bring out all garbage.\nHandle and store pet food with as much care as your own.\nWhile all bears should be considered dangerous and should be avoided, three types should be regarded as more dangerous than the average bear. These are: Females defending cubs. Bears habituated to human food. Bears defending a fresh kill.\nBe Aware\nThere are about 650,000 black bears in North America, and only one person every three years is killed by a bear—although there are hundreds of thousands of encounters. Most bears in the continental U.S. are black bears, but black bears are not always black in color: sometimes their fur is brown or blond. Males are generally bigger than females (125 to 500 pounds for males, 90 to 300 pounds for females).\nBears can run as fast as horses, uphill or downhill.\nBears can climb trees, although black bears are better tree-climbers than grizzly bears.\nBears have excellent senses of smell and hearing.\nBears are extremely strong. They can tear cars apart looking for food.\nEvery bear defends a \"personal space.\" The extent of this space will vary with each bear and each situation; it may be a few meters or a few hundred meters. Intrusion into this space is considered a threat and may provoke an attack.\nBears aggressively defend their food.\nAll female bears defend their cubs. If a female with cubs is surprised at close range or is separated from her cubs, she may attack.\nAn aggressive reaction to any danger to her cubs is the mother grizzly's natural defense.\nA female black bear's natural defense is to chase her cubs up a tree and defend them from the base.\nStay away from dead animals. Bears may attack to defend such food.\nIt is best not to hike with dogs, as dogs can antagonize bears and cause an attack. An unleashed dog may even bring a bear back to you."
+}

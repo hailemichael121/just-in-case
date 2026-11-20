@@ -1,0 +1,125 @@
+{
+  "id": 29,
+  "slug": "29-how-to-treat-a-bullet-or-knife-wound",
+  "title": "How to Treat a Bullet or Knife Wound",
+  "chapter": "Emergencies",
+  "pdf_pages": [
+    111,
+    114
+  ],
+  "short_description": "LIMB ELEVATION. When a wound is in an extremity, elevation of the extremity above the heart, in addition to direct pressure, may reduce the…",
+  "notification": {
+    "title": "How to Treat a Bullet or Knife Wound",
+    "body": "Do not immediately pull out any impaled objects."
+  },
+  "step_count": 4,
+  "image_count": 2,
+  "thumbnail": "images/29-how-to-treat-a-bullet-or-knife-wound/01.png",
+  "content": [
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Do not immediately pull out any impaled objects.",
+      "text": "Do not immediately pull out any impaled objects. Bullets, arrows, knives, sticks, and the like cause penetrating injuries. When these objects lodge in the vital areas of the body (the trunk or near nerves or arteries) removing them may cause more severe bleeding that cannot be controlled. The object may be pressed against an artery or other vital internal structure and may actually be helping to reduce the bleeding.",
+      "page": 111
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Control the bleeding by using a combination of direct pressure, limb elevation, pressure points, and tourniquets (in that order).",
+      "text": "Control the bleeding by using a combination of direct pressure, limb elevation, pressure points, and tourniquets (in that order). DIRECT PRESSURE. You can control most bleeding by placing direct pressure on the wound. Attempt to apply pressure directly to bleeding surfaces. The scalp, for instance, bleeds profusely. Using your fingertips to press the edges of a scalp wound against the underlying bone is more effective than using the palm of your hand to apply pressure over a wider area. Use the tips of your fingers to control bleeding arterioles (small squirting vessels).",
+      "page": 111
+    },
+    {
+      "type": "image",
+      "file": "images/29-how-to-treat-a-bullet-or-knife-wound/01.png",
+      "page": 112,
+      "caption": null,
+      "width_px": 306,
+      "height_px": 376
+    },
+    {
+      "type": "caption",
+      "text": "Attempt to apply pressure directly to bleeding surfaces. Using fingertips rather than the palm is more effective for scalp wounds.",
+      "page": 112
+    },
+    {
+      "type": "caption",
+      "text": "Attempt to promote clotting.",
+      "page": 112
+    },
+    {
+      "type": "caption",
+      "text": "Press on bleeding arterioles (small squirting vessels).",
+      "page": 112
+    },
+    {
+      "type": "image",
+      "file": "images/29-how-to-treat-a-bullet-or-knife-wound/02.png",
+      "page": 112,
+      "caption": "If injury is in a limb, use pressure to control bleeding, and elevate limb. Dress the wound to prevent spread of infection.",
+      "width_px": 594,
+      "height_px": 202
+    },
+    {
+      "type": "paragraph",
+      "text": "LIMB ELEVATION. When a wound is in an extremity, elevation of the extremity above the heart, in addition to direct pressure, may reduce the bleeding further. Never make people who are in shock sit up simply to elevate a bleeding wound.",
+      "page": 112
+    },
+    {
+      "type": "paragraph",
+      "text": "PRESSURE POINTS. To reduce blood flow you usually have to compress an artery (where you can feel the pulse) near the wound against an underlying bone. Just pressing into the soft belly of a muscle does not reduce blood flow by this mechanism.",
+      "page": 112
+    },
+    {
+      "type": "paragraph",
+      "text": "TOURNIQUETS. A tourniquet is a wide band of cloth or a belt that is placed around an extremity and tightened (usually using a windlass) until the blood flow is cut off. The blood supply must be compressed against a long bone (the upper arm or upper leg) since vessels between the double bones in the lower arm and lower leg will continue to bleed despite a tourniquet. The amount of pressure necessary typically causes additional vascular and nerve trauma that is permanent. A tourniquet should only be used as a last resort—to save a life at the expense of sacrificing a limb.",
+      "page": 113
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Immobilize the injured area.",
+      "text": "Immobilize the injured area. Using splints and dressings to immobilize an injured area helps protect from further injury and maintain clots that have begun to form. Even if an injury to a bone or joint is not suspected, immobilization will promote clotting and help healing begin.",
+      "page": 113
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "Dress the wound, and strive to prevent infection.",
+      "text": "Dress the wound, and strive to prevent infection. Use sterile (or at least clean) dressings as much as possible. Penetrating injuries may allow anaerobic (air-hating) bacteria to get deep into the tissue. This is why penetrating wounds are typically irrigated with sterile or antibiotic solutions in surgery. While this is rarely practical outside of the hospital, it is important to remember that smaller penetrating wounds (nail holes in the foot and the like) should be encouraged to bleed for a short period to help \"wash out\" foreign material. Soaking an extremity in hydrogen peroxide may help kill anaerobic bacteria as well. Do not apply",
+      "page": 113
+    },
+    {
+      "type": "paragraph",
+      "text": "ointments or goo to penetrating wounds as these may actually promote infection.",
+      "page": 114
+    },
+    {
+      "type": "heading",
+      "text": "Emergency Tip",
+      "page": 114
+    },
+    {
+      "type": "paragraph",
+      "text": "Some data indicate that pure granular sugar poured into a penetrating wound can decrease bleeding, promote clotting, and discourage bacteria. You are not likely to see it used in your local emergency department, but it might be worth consideration if your circumstances are dire.",
+      "page": 114
+    },
+    {
+      "type": "paragraph",
+      "text": "Get medical attention as soon as possible.",
+      "page": 114
+    },
+    {
+      "type": "heading",
+      "text": "Be Aware",
+      "page": 114
+    },
+    {
+      "type": "paragraph",
+      "text": "It should be noted that tourniquets are rarely helpful—it is uncommon to have life-threatening bleeding in an extremity that cannot be controlled by the methods described above. The areas that cause fatal bleeding (like the femoral arteries or intraabdominal bleeding) do not lend themselves to the use of a tourniquet. Even most complete amputations do not bleed all that much, and are controlled by direct pressure. Arteries that are severed only part of the way through tend to bleed more profusely than those that are completely severed.",
+      "page": 114
+    }
+  ],
+  "full_text": "Do not immediately pull out any impaled objects. Bullets, arrows, knives, sticks, and the like cause penetrating injuries. When these objects lodge in the vital areas of the body (the trunk or near nerves or arteries) removing them may cause more severe bleeding that cannot be controlled. The object may be pressed against an artery or other vital internal structure and may actually be helping to reduce the bleeding.\nControl the bleeding by using a combination of direct pressure, limb elevation, pressure points, and tourniquets (in that order). DIRECT PRESSURE. You can control most bleeding by placing direct pressure on the wound. Attempt to apply pressure directly to bleeding surfaces. The scalp, for instance, bleeds profusely. Using your fingertips to press the edges of a scalp wound against the underlying bone is more effective than using the palm of your hand to apply pressure over a wider area. Use the tips of your fingers to control bleeding arterioles (small squirting vessels).\nAttempt to apply pressure directly to bleeding surfaces. Using fingertips rather than the palm is more effective for scalp wounds.\nAttempt to promote clotting.\nPress on bleeding arterioles (small squirting vessels).\nLIMB ELEVATION. When a wound is in an extremity, elevation of the extremity above the heart, in addition to direct pressure, may reduce the bleeding further. Never make people who are in shock sit up simply to elevate a bleeding wound.\nPRESSURE POINTS. To reduce blood flow you usually have to compress an artery (where you can feel the pulse) near the wound against an underlying bone. Just pressing into the soft belly of a muscle does not reduce blood flow by this mechanism.\nTOURNIQUETS. A tourniquet is a wide band of cloth or a belt that is placed around an extremity and tightened (usually using a windlass) until the blood flow is cut off. The blood supply must be compressed against a long bone (the upper arm or upper leg) since vessels between the double bones in the lower arm and lower leg will continue to bleed despite a tourniquet. The amount of pressure necessary typically causes additional vascular and nerve trauma that is permanent. A tourniquet should only be used as a last resort—to save a life at the expense of sacrificing a limb.\nImmobilize the injured area. Using splints and dressings to immobilize an injured area helps protect from further injury and maintain clots that have begun to form. Even if an injury to a bone or joint is not suspected, immobilization will promote clotting and help healing begin.\nDress the wound, and strive to prevent infection. Use sterile (or at least clean) dressings as much as possible. Penetrating injuries may allow anaerobic (air-hating) bacteria to get deep into the tissue. This is why penetrating wounds are typically irrigated with sterile or antibiotic solutions in surgery. While this is rarely practical outside of the hospital, it is important to remember that smaller penetrating wounds (nail holes in the foot and the like) should be encouraged to bleed for a short period to help \"wash out\" foreign material. Soaking an extremity in hydrogen peroxide may help kill anaerobic bacteria as well. Do not apply\nointments or goo to penetrating wounds as these may actually promote infection.\nEmergency Tip\nSome data indicate that pure granular sugar poured into a penetrating wound can decrease bleeding, promote clotting, and discourage bacteria. You are not likely to see it used in your local emergency department, but it might be worth consideration if your circumstances are dire.\nGet medical attention as soon as possible.\nBe Aware\nIt should be noted that tourniquets are rarely helpful—it is uncommon to have life-threatening bleeding in an extremity that cannot be controlled by the methods described above. The areas that cause fatal bleeding (like the femoral arteries or intraabdominal bleeding) do not lend themselves to the use of a tourniquet. Even most complete amputations do not bleed all that much, and are controlled by direct pressure. Arteries that are severed only part of the way through tend to bleed more profusely than those that are completely severed."
+}

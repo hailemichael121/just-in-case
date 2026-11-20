@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just In Case</string>
+    <string name="title_activity_main">Just In Case</string>
+    <string name="widget_label_small">Just In Case · Small</string>
+    <string name="widget_label_medium">Just In Case · Medium</string>
+    <string name="widget_label_large">Just In Case · Large</string>
+    <string name="widget_description_small">A 2×2 card: the day\'s how-to title.</string>
+    <string name="widget_description_medium">A 4×2 card: title, first line and drawing.</string>
+    <string name="widget_description_large">A 4×4 card: the full picture and steps.</string>
+    <string name="widget_config_title">Widget</string>
+    <string name="widget_config_lede">Today\'s how-to, at a glance.</string>
+    <string name="widget_today">Today</string>
+    <string name="widget_config_lede_new">Pick a size, tune the glass, then add it to your home screen.</string>
+    <string name="widget_size_label">Size</string>
+    <string name="widget_size_small">Small · 2×2</string>
+    <string name="widget_size_medium">Medium · 4×2</string>
+    <string name="widget_size_large">Large · 4×4</string>
+    <string name="widget_add_to_home">Add to home screen</string>
+    <string name="widget_pin_prompt">Confirm in the dialog to place it.</string>
+    <string name="widget_pin_fallback">Couldn\'t open the add dialog. The pending config is saved — tap "Add" again, or long-press your home screen → Widgets → Just In Case to place it manually.</string>
+    <string name="widget_pin_unavailable">This launcher can\'t pin widgets. Long-press the home screen, open Widgets, and pick Just In Case.</string>
+    <string name="widget_pin_unsupported">This Android version can\'t pin widgets. Long-press the home screen, open Widgets, and pick Just In Case.</string>
+    <string name="widget_content_label">Content</string>
+    <string name="widget_content_text">Text</string>
+    <string name="widget_content_image_text">Image + text</string>
+    <string name="widget_content_image">Image</string>
+    <string name="widget_glass_label">Glass</string>
+    <string name="widget_glass_clear">Clear</string>
+    <string name="widget_glass_frosted">Frosted</string>
+    <string name="widget_glass_smoked">Smoked</string>
+    <string name="widget_text_label">Text size</string>
+    <string name="widget_text_small">Small</string>
+    <string name="widget_text_medium">Medium</string>
+    <string name="widget_text_large">Large</string>
+    <string name="widget_topic_label">Topic</string>
+    <string name="widget_topic_all">All</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_done">Done</string>
+    <string name="notification_channel_name">Just In Case</string>
+    <string name="notification_channel_description">One survival how-to each day.</string>
+    <string name="notification_action_open">Open</string>
+</resources>

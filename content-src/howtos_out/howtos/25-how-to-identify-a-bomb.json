@@ -1,0 +1,265 @@
+{
+  "id": 25,
+  "slug": "25-how-to-identify-a-bomb",
+  "title": "How to Identify a Bomb",
+  "chapter": "Emergencies",
+  "pdf_pages": [
+    96,
+    100
+  ],
+  "short_description": "Letter and package bombs can be very dangerous and destructive. However, unlike a bomb that goes off suddenly and with no warning, they can…",
+  "notification": {
+    "title": "How to Identify a Bomb",
+    "body": "If a carrier delivers an unexpected bulky letter or parcel, inspect it for lumps, bulges, or protrusions, without…"
+  },
+  "step_count": 13,
+  "image_count": 1,
+  "thumbnail": "images/25-how-to-identify-a-bomb/01.png",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Letter and package bombs can be very dangerous and destructive. However, unlike a bomb that goes off suddenly and with no warning, they can be identified. Observe the following procedures and warning signs.",
+      "page": 96
+    },
+    {
+      "type": "heading",
+      "text": "How to Detect a Letter Bomb",
+      "page": 96
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "If a carrier delivers an unexpected bulky letter or parcel, inspect it for lumps, bulges, or protrusions, without applying pressure.",
+      "text": "If a carrier delivers an unexpected bulky letter or parcel, inspect it for lumps, bulges, or protrusions, without applying pressure.",
+      "page": 96
+    },
+    {
+      "type": "paragraph",
+      "text": "Check for unevenly balanced parcels.",
+      "page": 96
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Handwritten addresses or labels from companies are unusual.",
+      "text": "Handwritten addresses or labels from companies are unusual.",
+      "page": 96
+    },
+    {
+      "type": "paragraph",
+      "text": "Check to see if the company exists and if they sent a package or letter.",
+      "page": 96
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Be suspicious of packages wrapped in string— modern packaging materials have eliminated the need for twine or string.",
+      "text": "Be suspicious of packages wrapped in string— modern packaging materials have eliminated the need for twine or string.",
+      "page": 96
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "Watch out for excess postage on small packages or letters—this indicates that the object was not weighed by the post office.",
+      "text": "Watch out for excess postage on small packages or letters—this indicates that the object was not weighed by the post office.",
+      "page": 96
+    },
+    {
+      "type": "paragraph",
+      "text": "It is no longer legal to mail stamped parcels weighing more than sixteen ounces at mailboxes in the United States—they must be taken to a post office.",
+      "page": 96
+    },
+    {
+      "type": "paragraph",
+      "text": "string or twine",
+      "page": 97
+    },
+    {
+      "type": "image",
+      "file": "images/25-how-to-identify-a-bomb/01.png",
+      "page": 97,
+      "caption": null,
+      "width_px": 597,
+      "height_px": 584
+    },
+    {
+      "type": "paragraph",
+      "text": "no return address excessive postage",
+      "page": 97
+    },
+    {
+      "type": "paragraph",
+      "text": "suspiciously addressed",
+      "page": 97
+    },
+    {
+      "type": "paragraph",
+      "text": "protruding wires",
+      "page": 97
+    },
+    {
+      "type": "paragraph",
+      "text": "oil stains",
+      "page": 97
+    },
+    {
+      "type": "heading",
+      "text": "Watch out for leaks, stains (especially oily stains), protruding wires, or excessive tape. '",
+      "page": 97
+    },
+    {
+      "type": "heading",
+      "text": "Watch out for articles with no return address or a nonsensical return address.",
+      "page": 97
+    },
+    {
+      "type": "heading",
+      "text": "How to Search For a Bomb",
+      "page": 98
+    },
+    {
+      "type": "paragraph",
+      "text": "Government agencies use well-defined search procedures for bombs and explosive devices. After a bomb threat, the following can be used as a guide for searching a room, using a two-person search team.",
+      "page": 98
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "Divide the area and select a search height.",
+      "text": "Divide the area and select a search height.",
+      "page": 98
+    },
+    {
+      "type": "paragraph",
+      "text": "The first searching sweep should cover all items resting on the floor up to the height of furniture; subsequent sweeps should move up from there.",
+      "page": 98
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "Start back-to-back and work around the room, in opposite directions, moving toward each other.",
+      "text": "Start back-to-back and work around the room, in opposite directions, moving toward each other.",
+      "page": 98
+    },
+    {
+      "type": "step",
+      "number": 7,
+      "headline": "Search around the walls and proceed inward in concentric circles toward the center of the room.",
+      "text": "Search around the walls and proceed inward in concentric circles toward the center of the room.",
+      "page": 98
+    },
+    {
+      "type": "step",
+      "number": 8,
+      "headline": "If you find a suspicious parcel or device, do not touch it—call the bomb squad.",
+      "text": "If you find a suspicious parcel or device, do not touch it—call the bomb squad.",
+      "page": 98
+    },
+    {
+      "type": "heading",
+      "text": "Detection Devices",
+      "page": 98
+    },
+    {
+      "type": "paragraph",
+      "text": "There are several types of devices and methods that can be used to identify bombs, including metal and vapor detectors, as well as X-ray machines. Several devices are portable and inexpensive enough for an individual to obtain.",
+      "page": 98
+    },
+    {
+      "type": "step",
+      "number": 9,
+      "headline": "Particulate Explosives Detector",
+      "text": "Particulate Explosives Detector",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "Detects modern plastic explosive constituents as well as TNT and nitroglycerin.",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "Detects RDX (used in C4, PE4, SX2, Semtex, Demex, and Detasheet); PETN (used in certain military explosives and Semtex); TNT (trinitrotoluene), and NG (nitroglycerin).",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "Uses IMS (ion mobility spectroscopy) to detect micron-size particles used in explosives. A sample size of one nanogram is sufficient for detection.",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "To use, swipe the suspect material with a sample wipe or a cotton glove. Analysis time is approximately three seconds. A visual display contains a red warning light and an LCD, giving a graphic display with a relative numerical scale of the target materials identified. An audible alarm can be triggered based on a user-defined threshold.",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "Requires AC or battery.",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "Approximately 15 x 12 x 5 inches.",
+      "page": 99
+    },
+    {
+      "type": "step",
+      "number": 10,
+      "headline": "Portable X-Ray System",
+      "text": "Portable X-Ray System",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "Uses a Polaroid radiographic film cassette and processor to create detailed radiographs of parcels and packages.",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "Requires AC or a rechargeable battery.",
+      "page": 99
+    },
+    {
+      "type": "bullet",
+      "text": "To use, simply point the lens at the suspect item and use the processor to view the image , on the film.",
+      "page": 99
+    },
+    {
+      "type": "step",
+      "number": 11,
+      "headline": "Spray Bomb Detector",
+      "text": "Spray Bomb Detector",
+      "page": 100
+    },
+    {
+      "type": "paragraph",
+      "text": "This portable aerosol spray is used in conjunction with laminated test paper to detect explosives—both plastic and traditional TNT—on parcels and on hands and fingerprints. The test kit includes test paper and two spray cans, E and X. First, rub the white paper over the desired surface (briefcase, suitcase, etc.) and then spray with the E canister. If TNT is detected, the paper turns violet. If no reaction occurs, spray the paper with the X canister. The immediate appearance of pink indicates plastic explosives. Expray can also be sprayed directly on paper and parcels. The procedure and results are identical.",
+      "page": 100
+    },
+    {
+      "type": "step",
+      "number": 12,
+      "headline": "Bomb Range Detector",
+      "text": "Bomb Range Detector",
+      "page": 100
+    },
+    {
+      "type": "paragraph",
+      "text": "This detector of radio-controlled explosives is mounted in a car. The unit automatically scans and transmits on every radio frequency in a one-kilometer radius. When a radio-controlled explosive is in the area, the device jams it to render it harmless.",
+      "page": 100
+    },
+    {
+      "type": "step",
+      "number": 13,
+      "headline": "Be Aware",
+      "text": "Be Aware",
+      "page": 100
+    },
+    {
+      "type": "paragraph",
+      "text": "All bomb experts stress that avoidance is the key concept when dealing with explosives. Your best chance of survival lies with the bomb squad, not with one of these devices.",
+      "page": 100
+    }
+  ],
+  "full_text": "Letter and package bombs can be very dangerous and destructive. However, unlike a bomb that goes off suddenly and with no warning, they can be identified. Observe the following procedures and warning signs.\nHow to Detect a Letter Bomb\nIf a carrier delivers an unexpected bulky letter or parcel, inspect it for lumps, bulges, or protrusions, without applying pressure.\nCheck for unevenly balanced parcels.\nHandwritten addresses or labels from companies are unusual.\nCheck to see if the company exists and if they sent a package or letter.\nBe suspicious of packages wrapped in string— modern packaging materials have eliminated the need for twine or string.\nWatch out for excess postage on small packages or letters—this indicates that the object was not weighed by the post office.\nIt is no longer legal to mail stamped parcels weighing more than sixteen ounces at mailboxes in the United States—they must be taken to a post office.\nstring or twine\nno return address excessive postage\nsuspiciously addressed\nprotruding wires\noil stains\nWatch out for leaks, stains (especially oily stains), protruding wires, or excessive tape. '\nWatch out for articles with no return address or a nonsensical return address.\nHow to Search For a Bomb\nGovernment agencies use well-defined search procedures for bombs and explosive devices. After a bomb threat, the following can be used as a guide for searching a room, using a two-person search team.\nDivide the area and select a search height.\nThe first searching sweep should cover all items resting on the floor up to the height of furniture; subsequent sweeps should move up from there.\nStart back-to-back and work around the room, in opposite directions, moving toward each other.\nSearch around the walls and proceed inward in concentric circles toward the center of the room.\nIf you find a suspicious parcel or device, do not touch it—call the bomb squad.\nDetection Devices\nThere are several types of devices and methods that can be used to identify bombs, including metal and vapor detectors, as well as X-ray machines. Several devices are portable and inexpensive enough for an individual to obtain.\nParticulate Explosives Detector\nDetects modern plastic explosive constituents as well as TNT and nitroglycerin.\nDetects RDX (used in C4, PE4, SX2, Semtex, Demex, and Detasheet); PETN (used in certain military explosives and Semtex); TNT (trinitrotoluene), and NG (nitroglycerin).\nUses IMS (ion mobility spectroscopy) to detect micron-size particles used in explosives. A sample size of one nanogram is sufficient for detection.\nTo use, swipe the suspect material with a sample wipe or a cotton glove. Analysis time is approximately three seconds. A visual display contains a red warning light and an LCD, giving a graphic display with a relative numerical scale of the target materials identified. An audible alarm can be triggered based on a user-defined threshold.\nRequires AC or battery.\nApproximately 15 x 12 x 5 inches.\nPortable X-Ray System\nUses a Polaroid radiographic film cassette and processor to create detailed radiographs of parcels and packages.\nRequires AC or a rechargeable battery.\nTo use, simply point the lens at the suspect item and use the processor to view the image , on the film.\nSpray Bomb Detector\nThis portable aerosol spray is used in conjunction with laminated test paper to detect explosives—both plastic and traditional TNT—on parcels and on hands and fingerprints. The test kit includes test paper and two spray cans, E and X. First, rub the white paper over the desired surface (briefcase, suitcase, etc.) and then spray with the E canister. If TNT is detected, the paper turns violet. If no reaction occurs, spray the paper with the X canister. The immediate appearance of pink indicates plastic explosives. Expray can also be sprayed directly on paper and parcels. The procedure and results are identical.\nBomb Range Detector\nThis detector of radio-controlled explosives is mounted in a car. The unit automatically scans and transmits on every radio frequency in a one-kilometer radius. When a radio-controlled explosive is in the area, the device jams it to render it harmless.\nBe Aware\nAll bomb experts stress that avoidance is the key concept when dealing with explosives. Your best chance of survival lies with the bomb squad, not with one of these devices."
+}

@@ -1,0 +1,232 @@
+{
+  "id": 38,
+  "slug": "38-how-to-make-fire-without-matches",
+  "title": "How to Make Fire Without Matches",
+  "chapter": "Adventure Survival",
+  "pdf_pages": [
+    152,
+    156
+  ],
+  "short_description": "(enlargement of V-shaped notch)",
+  "notification": {
+    "title": "How to Make Fire Without Matches",
+    "body": "spindle"
+  },
+  "step_count": 2,
+  "image_count": 4,
+  "thumbnail": "images/38-how-to-make-fire-without-matches/01.png",
+  "content": [
+    {
+      "type": "heading",
+      "text": "What You Will Need",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "Knife",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "Kindling. Several pieces, varying in size from small to large.",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "Wood to keep the fire going. Select deadwood from the tree, not off the ground. Good wood should indent with pressure from a fingernail, but not break easily.",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "Bow. A curved stick about two feet long.",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "String. A shoelace, parachute cord, or leather thong. Primitive cordage can be made from yucca, milkweed, or another tough, stringy plant.",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "Socket. A horn, bone, piece of hard wood, rock, or seashell that fits in the palm of the hand and will be placed over a stick.",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "Lube. You can use earwax, skin oil, a ball of green grass, lip balm, or anything else oily.",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "Spindle. A dry, straight 3/4 to 1-inch-diameter stick approximately 12 to 18 inches long. Round one end and carve the other end to a point.",
+      "page": 152
+    },
+    {
+      "type": "bullet",
+      "text": "Fire board. Select and shape a second piece of wood into a board approximately 3/4 to 1 inch thick, 2 to 3 inches wide, and 10 to 12 inches long. Carve a shallow dish in the center of the flat side approximately",
+      "page": 152
+    },
+    {
+      "type": "image",
+      "file": "images/38-how-to-make-fire-without-matches/01.png",
+      "page": 153,
+      "caption": null,
+      "width_px": 598,
+      "height_px": 1064
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "spindle",
+      "text": "spindle",
+      "page": 153
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "tray (bark or leaf)",
+      "text": "tray (bark or leaf)",
+      "page": 153
+    },
+    {
+      "type": "paragraph",
+      "text": "(enlargement of V-shaped notch)",
+      "page": 153
+    },
+    {
+      "type": "paragraph",
+      "text": "1/2 inch from the edge. Into the edge of this dish, cut a V-shaped notch.",
+      "page": 154
+    },
+    {
+      "type": "bullet",
+      "text": "Tray. A piece of bark or leaf inserted under the V-shaped notch to catch the ember. The tray should not be made of deadwood.",
+      "page": 154
+    },
+    {
+      "type": "bullet",
+      "text": "Nest. Dry bark, grass, leaves, cattail fuzz, or some other combustible material, formed into a bird nest shape.",
+      "page": 154
+    },
+    {
+      "type": "heading",
+      "text": "How to Start the Fire",
+      "page": 154
+    },
+    {
+      "type": "paragraph",
+      "text": "Tie the string tightly to the bow, one end to each end of the stick.",
+      "page": 154
+    },
+    {
+      "type": "paragraph",
+      "text": "Kneel on your right knee, with the ball of your left foot on the fire board, holding it firmly to the ground.",
+      "page": 154
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the bow in your hands.",
+      "page": 154
+    },
+    {
+      "type": "paragraph",
+      "text": "Loop the string in the center of the bow.",
+      "page": 154
+    },
+    {
+      "type": "paragraph",
+      "text": "Insert the spindle in the loop of the bowstring so that the spindle is on the outside of the bow, pointed end up. The bowstring should now be tight—if not, loop the string around the spindle a few more times.",
+      "page": 154
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the hand socket in your left hand, notch side down. Lubricate the notch.",
+      "page": 154
+    },
+    {
+      "type": "image",
+      "file": "images/38-how-to-make-fire-without-matches/02.png",
+      "page": 155,
+      "caption": null,
+      "width_px": 300,
+      "height_px": 252
+    },
+    {
+      "type": "paragraph",
+      "text": "Tie a string tightly to the bow.",
+      "page": 155
+    },
+    {
+      "type": "image",
+      "file": "images/38-how-to-make-fire-without-matches/03.png",
+      "page": 155,
+      "caption": null,
+      "width_px": 445,
+      "height_px": 170
+    },
+    {
+      "type": "paragraph",
+      "text": "Loop the string in the center and insert the spindle.",
+      "page": 155
+    },
+    {
+      "type": "image",
+      "file": "images/38-how-to-make-fire-without-matches/04.png",
+      "page": 155,
+      "caption": null,
+      "width_px": 465,
+      "height_px": 409
+    },
+    {
+      "type": "paragraph",
+      "text": "Press down lightly on the socket. Draw bow back and forth, rotating spindle. Add pressure to the socket and speed your bowing motion until fire ember is produced.",
+      "page": 155
+    },
+    {
+      "type": "paragraph",
+      "text": "Place the rounded end of the spindle into the dish of the fire board and the pointed end of the spindle into the hand socket.",
+      "page": 156
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressing down lightly on the socket, draw the bow back and forth, rotating the spindle slowly.",
+      "page": 156
+    },
+    {
+      "type": "paragraph",
+      "text": "Add pressure to the socket and speed to your bowing until you begin to produce smoke and ash. When there is a lot of smoke, you have created a fire ember.",
+      "page": 156
+    },
+    {
+      "type": "paragraph",
+      "text": "Immediately stop your bowing motion and tap the spindle on the fire board to knock the ember into the tray.",
+      "page": 156
+    },
+    {
+      "type": "paragraph",
+      "text": "Remove the tray and transfer the ember into your \"nest.\"",
+      "page": 156
+    },
+    {
+      "type": "paragraph",
+      "text": "Hold the nest tightly and blow steadily onto the ember. Eventually, the nest will catch fire.",
+      "page": 156
+    },
+    {
+      "type": "paragraph",
+      "text": "Add kindling onto the nest. When the kindling catches, gradually add larger pieces of fuel.",
+      "page": 156
+    },
+    {
+      "type": "heading",
+      "text": "Be Aware",
+      "page": 156
+    },
+    {
+      "type": "paragraph",
+      "text": "You should not be dependent on any primitive fire method to maintain life in a wilderness survival emergency. Making fire in this manner can be quite difficult under actual harsh conditions (rain, snow, cold). You should practice this method at home before you attempt it in the wilderness to familiarize yourself with the quirks of the process.",
+      "page": 156
+    }
+  ],
+  "full_text": "What You Will Need\nKnife\nKindling. Several pieces, varying in size from small to large.\nWood to keep the fire going. Select deadwood from the tree, not off the ground. Good wood should indent with pressure from a fingernail, but not break easily.\nBow. A curved stick about two feet long.\nString. A shoelace, parachute cord, or leather thong. Primitive cordage can be made from yucca, milkweed, or another tough, stringy plant.\nSocket. A horn, bone, piece of hard wood, rock, or seashell that fits in the palm of the hand and will be placed over a stick.\nLube. You can use earwax, skin oil, a ball of green grass, lip balm, or anything else oily.\nSpindle. A dry, straight 3/4 to 1-inch-diameter stick approximately 12 to 18 inches long. Round one end and carve the other end to a point.\nFire board. Select and shape a second piece of wood into a board approximately 3/4 to 1 inch thick, 2 to 3 inches wide, and 10 to 12 inches long. Carve a shallow dish in the center of the flat side approximately\nspindle\ntray (bark or leaf)\n(enlargement of V-shaped notch)\n1/2 inch from the edge. Into the edge of this dish, cut a V-shaped notch.\nTray. A piece of bark or leaf inserted under the V-shaped notch to catch the ember. The tray should not be made of deadwood.\nNest. Dry bark, grass, leaves, cattail fuzz, or some other combustible material, formed into a bird nest shape.\nHow to Start the Fire\nTie the string tightly to the bow, one end to each end of the stick.\nKneel on your right knee, with the ball of your left foot on the fire board, holding it firmly to the ground.\nTake the bow in your hands.\nLoop the string in the center of the bow.\nInsert the spindle in the loop of the bowstring so that the spindle is on the outside of the bow, pointed end up. The bowstring should now be tight—if not, loop the string around the spindle a few more times.\nTake the hand socket in your left hand, notch side down. Lubricate the notch.\nTie a string tightly to the bow.\nLoop the string in the center and insert the spindle.\nPress down lightly on the socket. Draw bow back and forth, rotating spindle. Add pressure to the socket and speed your bowing motion until fire ember is produced.\nPlace the rounded end of the spindle into the dish of the fire board and the pointed end of the spindle into the hand socket.\nPressing down lightly on the socket, draw the bow back and forth, rotating the spindle slowly.\nAdd pressure to the socket and speed to your bowing until you begin to produce smoke and ash. When there is a lot of smoke, you have created a fire ember.\nImmediately stop your bowing motion and tap the spindle on the fire board to knock the ember into the tray.\nRemove the tray and transfer the ember into your \"nest.\"\nHold the nest tightly and blow steadily onto the ember. Eventually, the nest will catch fire.\nAdd kindling onto the nest. When the kindling catches, gradually add larger pieces of fuel.\nBe Aware\nYou should not be dependent on any primitive fire method to maintain life in a wilderness survival emergency. Making fire in this manner can be quite difficult under actual harsh conditions (rain, snow, cold). You should practice this method at home before you attempt it in the wilderness to familiarize yourself with the quirks of the process."
+}

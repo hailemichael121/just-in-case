@@ -1,0 +1,143 @@
+{
+  "id": 2,
+  "slug": "02-how-to-break-down-a-door",
+  "title": "How to Break Down a Door",
+  "chapter": "Great Escapes and Entrances",
+  "pdf_pages": [
+    22,
+    25
+  ],
+  "short_description": "If you are trying to break down an exterior door, you will need more force. Exterior doors are of sturdier construction and are designed…",
+  "notification": {
+    "title": "How to Break Down a Door",
+    "body": "Give the door a well-placed kick or two to the lock area to break it down."
+  },
+  "step_count": 7,
+  "image_count": 1,
+  "thumbnail": "images/02-how-to-break-down-a-door/01.png",
+  "content": [
+    {
+      "type": "heading",
+      "text": "Interior Doors",
+      "page": 22
+    },
+    {
+      "type": "step",
+      "number": 1,
+      "headline": "Give the door a well-placed kick or two to the lock area to break it down.",
+      "text": "Give the door a well-placed kick or two to the lock area to break it down. Running at the door and slamming against it with your shoulder or body is not usually as effective as kicking with your foot. Your foot exerts more force than your shoulder, and you will be able to direct this force toward the area of the locking mechanism more succinctly with your foot.",
+      "page": 22
+    },
+    {
+      "type": "heading",
+      "text": "Alternate Method (if you have a screwdriver)",
+      "page": 22
+    },
+    {
+      "type": "step",
+      "number": 2,
+      "headline": "Look on the front of the doorknob for a small hole or keyhole.",
+      "text": "Look on the front of the doorknob for a small hole or keyhole. Most interior doors have what are called privacy sets. These locks are usually installed on bedrooms and bathrooms and can be locked from the inside when the door is shut, but have an emergency access hole in the center of the door handle which allows entry to the locking mechanism inside. Insert the screwdriver or probe into the handle and push the locking mechanism, or turn the mechanism to open the lock.",
+      "page": 22
+    },
+    {
+      "type": "heading",
+      "text": "Exterior Doors",
+      "page": 23
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are trying to break down an exterior door, you will need more force. Exterior doors are of sturdier construction and are designed with security in mind, for obvious reasons. In general, you can expect to see two kinds of latches on outside doors: a passage- or entry-lock set for latching and a dead-bolt lock for security. The passage set is used for keeping the door from swinging open and does not lock. The entrylock set utilizes a dead latch and can be locked before closing the door.",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "file": "images/02-how-to-break-down-a-door/01.png",
+      "page": 23,
+      "caption": null,
+      "width_px": 382,
+      "height_px": 597
+    },
+    {
+      "type": "caption",
+      "text": "Exterior doors are of sturdier construction. Kick at the point where the lock is mounted.",
+      "page": 23
+    },
+    {
+      "type": "step",
+      "number": 3,
+      "headline": "Give the door several well-placed kicks at the point where the lock is mounted.",
+      "text": "Give the door several well-placed kicks at the point where the lock is mounted. An exterior door usually takes several tries to break down this way, so keep at it.",
+      "page": 24
+    },
+    {
+      "type": "step",
+      "number": 4,
+      "headline": "Alternate Method",
+      "text": "Alternate Method",
+      "page": 24
+    },
+    {
+      "type": "step",
+      "number": 5,
+      "headline": "(if you have a sturdy piece of steel) Wrench or pry the lock off the door by inserting the tool between the lock and the door and prying back and forth.",
+      "text": "(if you have a sturdy piece of steel) Wrench or pry the lock off the door by inserting the tool between the lock and the door and prying back and forth.",
+      "page": 24
+    },
+    {
+      "type": "step",
+      "number": 6,
+      "headline": "Alternate Method",
+      "text": "Alternate Method",
+      "page": 24
+    },
+    {
+      "type": "step",
+      "number": 7,
+      "headline": "(if you have a screwdriver, hammer, and awl) Remove the pins from the hinges (if the door opens toward you) and then force the door open from the hinge side.",
+      "text": "(if you have a screwdriver, hammer, and awl) Remove the pins from the hinges (if the door opens toward you) and then force the door open from the hinge side. Get a screwdriver or an awl and a hammer. Place the awl or screwdriver underneath the hinge, with the pointy end touching the end of the bolt or screw. Using the hammer, strike the other end of the awl or screwdriver until the hinge comes out.",
+      "page": 24
+    },
+    {
+      "type": "heading",
+      "text": "Assessing Amount of Force Required",
+      "page": 24
+    },
+    {
+      "type": "paragraph",
+      "text": "Interior doors in general are of a lighter construction than exterior doors and usually are thinner— 1 3/8\" thick to 1 5/8\" thick—than exterior doors, which generally are 1 3/4\" thick. In general, older homes will be more likely to have solid wood doors, while newer ones will have the cheaper, hollow core models. Knowing what type of door you are dealing with will",
+      "page": 24
+    },
+    {
+      "type": "paragraph",
+      "text": "help you determine how to break it down. You can usually determine the construction and solidity of a door by tapping on it.",
+      "page": 25
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLLOW CORE. This type is generally used for interior doors, since it provides no insulation or security, and requires minimal force. These doors can often be opened with a screwdriver.",
+      "page": 25
+    },
+    {
+      "type": "paragraph",
+      "text": "SOLID WOOD. These are usually oak or some other hardwood, and require an average amount of force and a crowbar or other similar tool.",
+      "page": 25
+    },
+    {
+      "type": "paragraph",
+      "text": "SOLID CORE. These have a softwood inner frame with a laminate on each side and a chipped or shaved wood core, and require an average amount of force and a screwdriver.",
+      "page": 25
+    },
+    {
+      "type": "paragraph",
+      "text": "METAL CLAD. These are usually softwood with a thin metal covering, and require average or above average force and a crowbar.",
+      "page": 25
+    },
+    {
+      "type": "paragraph",
+      "text": "HOLLOW METAL. These doors are of a heavier gauge metal that usually has a reinforcing channel around the edges and the lock mounting area, and are sometimes filled with some type of insulating material. These require maximum force and a crowbar.",
+      "page": 25
+    }
+  ],
+  "full_text": "Interior Doors\nGive the door a well-placed kick or two to the lock area to break it down. Running at the door and slamming against it with your shoulder or body is not usually as effective as kicking with your foot. Your foot exerts more force than your shoulder, and you will be able to direct this force toward the area of the locking mechanism more succinctly with your foot.\nAlternate Method (if you have a screwdriver)\nLook on the front of the doorknob for a small hole or keyhole. Most interior doors have what are called privacy sets. These locks are usually installed on bedrooms and bathrooms and can be locked from the inside when the door is shut, but have an emergency access hole in the center of the door handle which allows entry to the locking mechanism inside. Insert the screwdriver or probe into the handle and push the locking mechanism, or turn the mechanism to open the lock.\nExterior Doors\nIf you are trying to break down an exterior door, you will need more force. Exterior doors are of sturdier construction and are designed with security in mind, for obvious reasons. In general, you can expect to see two kinds of latches on outside doors: a passage- or entry-lock set for latching and a dead-bolt lock for security. The passage set is used for keeping the door from swinging open and does not lock. The entrylock set utilizes a dead latch and can be locked before closing the door.\nExterior doors are of sturdier construction. Kick at the point where the lock is mounted.\nGive the door several well-placed kicks at the point where the lock is mounted. An exterior door usually takes several tries to break down this way, so keep at it.\nAlternate Method\n(if you have a sturdy piece of steel) Wrench or pry the lock off the door by inserting the tool between the lock and the door and prying back and forth.\nAlternate Method\n(if you have a screwdriver, hammer, and awl) Remove the pins from the hinges (if the door opens toward you) and then force the door open from the hinge side. Get a screwdriver or an awl and a hammer. Place the awl or screwdriver underneath the hinge, with the pointy end touching the end of the bolt or screw. Using the hammer, strike the other end of the awl or screwdriver until the hinge comes out.\nAssessing Amount of Force Required\nInterior doors in general are of a lighter construction than exterior doors and usually are thinner— 1 3/8\" thick to 1 5/8\" thick—than exterior doors, which generally are 1 3/4\" thick. In general, older homes will be more likely to have solid wood doors, while newer ones will have the cheaper, hollow core models. Knowing what type of door you are dealing with will\nhelp you determine how to break it down. You can usually determine the construction and solidity of a door by tapping on it.\nHOLLOW CORE. This type is generally used for interior doors, since it provides no insulation or security, and requires minimal force. These doors can often be opened with a screwdriver.\nSOLID WOOD. These are usually oak or some other hardwood, and require an average amount of force and a crowbar or other similar tool.\nSOLID CORE. These have a softwood inner frame with a laminate on each side and a chipped or shaved wood core, and require an average amount of force and a screwdriver.\nMETAL CLAD. These are usually softwood with a thin metal covering, and require average or above average force and a crowbar.\nHOLLOW METAL. These doors are of a heavier gauge metal that usually has a reinforcing channel around the edges and the lock mounting area, and are sometimes filled with some type of insulating material. These require maximum force and a crowbar."
+}

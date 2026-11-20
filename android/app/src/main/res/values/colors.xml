@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#141416</color>
+    <color name="accent">#7CE3C4</color>
+    <color name="accent_ink">#06231B</color>
+    <color name="widget_text">#FFFFFF</color>
+    <color name="widget_muted">#C9CAD0</color>
+    <color name="widget_stroke">#2EFFFFFF</color>
+    <color name="ic_launcher_background">#141416</color>
+
+    <color name="colorPrimary">#141416</color>
+    <color name="colorPrimaryDark">#141416</color>
+    <color name="colorAccent">#7CE3C4</color>
+
+    <color name="config_text">#FFFFFF</color>
+    <color name="config_muted">#B9BAC0</color>
+    <color name="config_chip">#232428</color>
+    <color name="config_chip_on">#1E3A33</color>
+    <color name="config_chip_stroke">#34353B</color>
+</resources>
